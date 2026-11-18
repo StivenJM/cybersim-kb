@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-16",
+  "window_start": "2021-11-13",
+  "papers_curated": 137,
+  "screened_recent_unique": 122,
+  "screened_all_dates_unique": 124,
+  "full_text_unique": 17,
+  "target_unique": 120,
+  "closed": true,
+  "by_question": {
+    "Q1": {
+      "related": 70,
+      "screened_recent": 61,
+      "full_text": 12,
+      "target": 30
+    },
+    "Q2": {
+      "related": 74,
+      "screened_recent": 67,
+      "full_text": 13,
+      "target": 30
+    },
+    "Q3": {
+      "related": 79,
+      "screened_recent": 69,
+      "full_text": 12,
+      "target": 30
+    },
+    "Q4": {
+      "related": 87,
+      "screened_recent": 74,
+      "full_text": 14,
+      "target": 30
+    }
+  },
+  "markdown_notes": 161,
+  "local_pdfs": 6,
+  "broken_wikilinks": [],
+  "control_characters": [],
+  "code_execution": "No se ejecutó ni modificó el producto; solo documentación e inventarios de la KB.",
+  "limits": "Búsqueda web dirigida; sin doble cribado ni exhaustividad mundial; alcance de figuras/suplementos declarado por fuente.",
+  "scope_review": {
+    "date": "2026-11-14",
+    "purpose": "Evaluar competencias de desarrollo seguro adquiridas en formación previa",
+    "content_files_changed": 37,
+    "local_paper_decisions_updated": 22,
+    "source_findings_and_reading_counts_preserved": true,
+    "corpus_note_matrix_consistency": true,
+    "broken_wikilinks": [],
+    "control_characters": []
+  },
+  "historical_closure_2026_11_13": {
+    "date": "2026-11-13",
+    "window_start": "2021-11-13",
+    "papers_curated": 134,
+    "screened_recent_unique": 120,
+    "screened_all_dates_unique": 121,
+    "full_text_unique": 15,
+    "target_unique": 120,
+    "closed": true,
+    "by_question": {
+      "Q1": {
+        "related": 70,
+        "screened_recent": 61,
+        "full_text": 12,
+        "target": 30
+      },
+      "Q2": {
+        "related": 71,
+        "screened_recent": 65,
+        "full_text": 11,
+        "target": 30
+      },
+      "Q3": {
+        "related": 76,
+        "screened_recent": 67,
+        "full_text": 10,
+        "target": 30
+      },
+      "Q4": {
+        "related": 85,
+        "screened_recent": 73,
+        "full_text": 12,
+        "target": 30
+      }
+    }
+  },
+  "competency_review": {
+    "date": "2026-11-16",
+    "unique_abstract_and_closing": 50,
+    "previously_catalogued": 47,
+    "new_publications": [
+      "P135",
+      "P137",
+      "P139"
+    ],
+    "full_text_added": [
+      "P139",
+      "P135"
+    ],
+    "mapping_expressions": 52,
+    "mapping_themes": 11,
+    "canonical_notes_matching_review": 50,
+    "csv_matrix_consistency": true,
+    "reading_audit_consistency": true,
+    "no_broken_links": true,
+    "independent_sample_limits_declared": true,
+    "correction_guide": "Arquitectura/Guía para evaluar las competencias de seguridad.md"
+  }
+}

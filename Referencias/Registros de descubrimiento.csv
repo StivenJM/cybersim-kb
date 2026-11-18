@@ -1,0 +1,495 @@
+record,title,url,access_error,first_retrieval,source_ref
+R001,The Journal of Systems & Software 185 (2022) 111183,https://acris.aalto.fi/ws/portalfiles/portal/99352851/1_s2.0_S0164121221002648_main.pdf,False,web0,turn1search7
+R002,The state of research on software engineering competencies: A systematic mapping study,https://doi.org/10.1016/j.jss.2021.111183,False,web0,turn1search0
+R003,The state of research on software engineering competencies: A systematic mapping study,https://www.sciencedirect.com/science/article/pii/S0164121221002648,False,web0,turn1search1
+R004,The state of research on software engineering competencies: A systematic mapping study,https://research.aalto.fi/en/publications/the-state-of-research-on-software-engineering-competencies-a-syst/,False,web0,turn1search2
+R005,A multi-perspective framework for evaluating software engineering education by assessing students' competencies: SECAT — A software engineering competency assessment tool | IEEE Conference Publication | IEEE Xplore,https://ieeexplore.ieee.org/document/7044331/,False,web0,turn1search3
+R006,The state of research on software engineering competencies: A systematic mapping study,https://www.researchgate.net/publication/356926909_The_state_of_research_on_software_engineering_competencies_A_systematic_mapping_study,False,web0,turn1search4
+R007,The essential competencies of software professionals: A unified competence framework,https://www.sciencedirect.com/science/article/pii/S0950584922001446,False,web0,turn1search5
+R008,Evaluating didactical approaches based upon students&apos; competences,https://eurekamag.com/research/107/806/107806638.php,False,web0,turn1search6
+R009,"""Assessment and Evidence Practices in Cybersecurity Education"" by James K. Mayberry",https://digitalcommons.kennesaw.edu/jcerp/vol2026/iss1/23/,False,discovery1,turn2search0
+R010,From CTF to Competence: UX-Driven and Didactic Foundations for Gamified Cybersecurity Training Platforms,https://doi.org/10.3390/app16126100,False,discovery1,turn2search1
+R011,"A Systematic Review of Cyber Range Taxonomies: Trends, Gaps, and a Proposed Taxonomy",https://www.mdpi.com/1999-5903/17/6/259,False,discovery1,turn2search2
+R012,Complex yet attainable? An interdisciplinary approach to designing better cyber range exercises,https://www.sciencedirect.com/science/article/pii/S0167404824002700,False,discovery1,turn2search3
+R013,Cyber range design framework for cyber security education and training,https://link.springer.com/article/10.1007/s10207-023-00680-4,False,discovery1,turn2search4
+R014,Measuring the unseen: a situational awareness scoring framework for cyber range training,https://doi.org/10.1007/s10207-026-01219-z,False,discovery1,turn2search5
+R015,A multimodal and adaptive gamified system to improve cybersecurity competence training,https://link.springer.com/article/10.1007/s10586-025-05264-6,False,discovery1,turn2search6
+R016,Immersive Virtual Reality and Serious Games for Cybersecurity Training: Scoping Review,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4347057,False,discovery1,turn2search7
+R017,First Steps to Improve Cybersecurity Behaviour –  a Virtual Reality Experience,https://research.utwente.nl/en/publications/first-steps-to-improve-cybersecurity-behaviour-a-virtual-reality-/,False,discovery1,turn2search8
+R018,A Systematic Literature Review on Non-Player Characters Actions and Characteristics in Serious Games for Cyber Security Education,https://www.mdpi.com/2624-800X/6/5/155,False,discovery1,turn2search9
+R019,Review of Techniques for Integrating Security in Software Development Lifecycle,https://www.sciencedirect.com/org/science/article/pii/S1546221825000128,False,discovery1,turn2search12
+R020,A systematic review on adversarial thinking in cyber security education: Themes and potential frameworks,https://www.sciencedirect.com/science/article/pii/S0167404825004924,False,d2,turn3search1
+R021,"Systematic Review of Elementary Cybersecurity Education: Curriculum, Pedagogy, and Barriers.",https://eric.ed.gov/?id=EJ1489470,False,d2,turn3search2
+R022,What Digital Competencies Should Teachers Possess to Teach Educational Cybersecurity to Students in Schools? Design and Validation of a Teacher Competency Scale,https://link.springer.com/article/10.1007/s10758-026-09954-x,False,d2,turn3search3
+R023,Development and validation of cyber security competency scale for prospective teachers,https://www.j-psp.com/article/development-and-validation-of-cyber-security-competency-scale-for-prospective-teachers-14870,False,d2,turn3search4
+R024,Bridging academic and industry expectations in cybersecurity education through competencies for teaching network and application security in Nigerian Universities,https://link.springer.com/article/10.1007/s44217-026-01748-8,False,d2,turn3search5
+R025,Hands-on cybersecurity training behavior data for process mining,https://pmc.ncbi.nlm.nih.gov/articles/PMC10770710/,False,d2,turn3search6
+R026,HCIS,https://doi.org/10.22967/HCIS.2025.15.067,False,d2,turn3search7
+R027,Towards NICE-by-Design Cybersecurity Learning Environments: A Cyber Range for SOC Teams,https://d-nb.info/1335368906/34,False,d2,turn3search10
+R028,Complex yet attainable? An interdisciplinary approach to designing better cyber range exercises,https://doi.org/10.1016/j.cose.2024.103965,False,d2,turn3search8
+R029,The Cyber Range: A Guide,https://www.nist.gov/system/files/documents/2023/09/29/The%20Cyber%20Range_A%20Guide.pdf,False,d2,turn3search11
+R030,Design and Development of Anti-Phishing AG: A Web-Based 3D Serious Game to Improve Phishing Awareness Among Students in Saudi Arabia,https://etasr.com/index.php/ETASR/article/view/18035,False,d2,turn3search9
+R031,"Education Policy and Student Life - June 5, 2023 - Public Session",https://www.usmd.edu/regents/agendas/20230605-EPSL-PublicSession.pdf,False,d3,turn4search48
+R032,Modeling and executing cyber security exercise scenarios in cyber ranges,https://www.sciencedirect.com/science/article/pii/S0167404822000347,False,d3,turn4search0
+R033,Train as you Fight: Evaluating Authentic Cybersecurity Training in Cyber Ranges | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems,https://doi.org/10.1145/3544548.3581046,False,d3,turn4search1
+R034,"Piloting uSucceed, a cybersecurity AI-driven virtual reality game for neurodivergent adults: Findings from a user-centered evaluation",https://doi.org/10.1016/j.chbr.2026.101200,False,d3,turn4search2
+R035,Measuring the unseen: a situational awareness scoring framework for cyber range training,https://link.springer.com/article/10.1007/s10207-026-01219-z,False,d3,turn4search4
+R036,Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises,https://www.researchgate.net/publication/356791953_Evaluating_Two_Approaches_to_Assessing_Student_Progress_in_Cybersecurity_Exercises,False,d3,turn4search5
+R037,Report of the Virtual Workshop on Usable Cybersecurity and Privacy for Immersive Technologies,https://www.nist.gov/publications/report-virtual-workshop-usable-cybersecurity-and-privacy-immersive-technologies,False,d3,turn4search7
+R038,Report of the Virtual Workshop on Usable Cybersecurity and Privacy for Immersive Technologies,https://csrc.nist.gov/pubs/ir/8557/final,False,d3,turn4search9
+R039,Integration of Machine Learning-Based Attack Detectors into Defensive Exercises of a 5G Cyber Range,https://www.mdpi.com/2076-3417/12/20/10349,False,d3,turn4search10
+R040,Student assessment in cybersecurity training automated by pattern mining and clustering,https://link.springer.com/content/pdf/10.1007/s10639-022-10954-4.pdf,False,d3,turn4search49
+R041,Student assessment in cybersecurity training automated by pattern mining and clustering.,https://pubmed.ncbi.nlm.nih.gov/35370440/,False,d3,turn4search11
+R042,Capability Assessment Methodology and Comparative Analysis of Cybersecurity Training Platforms,https://www.sciencedirect.com/science/article/pii/S0167404823000305,False,d3,turn4search12
+R043,Evaluating the impact of immersive virtual reality in cybersecurity education for user empowerment against cyber threats,https://link.springer.com/article/10.1007/s10055-025-01309-8,False,d3,turn4search13
+R044,Applications of educational data mining and learning analytics on data from cybersecurity training,https://ouci.dntb.gov.ua/en/works/4OamB5W9/,False,d3,turn4search14
+R045,Classifying Cyber Ranges: A Case-Based Analysis Using the UWF Cyber Range,https://www.mdpi.com/2673-8392/5/4/162,False,d3,turn4search15
+R046,A Cybersecurity Risk Assessment for Enhanced Security in Virtual Reality,https://www.mdpi.com/2078-2489/16/6/430,False,d3,turn4search16
+R047,Dissertation,https://epub.uni-regensburg.de/52399/1/Dissertation_Vielberth_Manfred.pdf,False,d3,turn4search50
+R048,Thesis Details,https://vbn.aau.dk/ws/portalfiles/portal/784092264/PHD_RVM_ONLINE.pdf,False,d3,turn4search51
+R049,MASTERM1ND: A Virtual Reality Web-Based Cybersecurity Awareness Game,https://www.researchgate.net/publication/387525409_MASTERM1ND_A_Virtual_Reality_Web-Based_Cybersecurity_Awareness_Game,False,d3,turn4search17
+R050,"Cybersecurity and Privacy Challenges in Extended Reality: Threats, Solutions, and Risk Mitigation Strategies",https://www.mdpi.com/2813-2084/4/1/1,False,d3,turn4search18
+R051,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://ve.scielo.org/scielo.php?lng=pt&nrm=iso&pid=S2665-02662025000100472&script=sci_arttext,False,d3,turn4search19
+R052,Try to esCAPE from Cybersecurity Incidents! A Technology-Enhanced Educational Approach,https://link.springer.com/article/10.1007/s10758-024-09769-8,False,d3,turn4search20
+R053,Cybersecurity Education Research Papers - Academia.edu,https://www.academia.edu/Documents/in/Cybersecurity_Education?after=113987144,False,d3,turn4search21
+R054,2022 Proceedings of the EDSIG Conference,https://iscap.us/proceedings/2022/pdf/5728.pdf,False,d3,turn4search52
+R055,NIST Internal Report,https://csrc.nist.rip/external/nvlpubs.nist.gov/nistpubs/ir/2023/NIST.IR.8355.pdf,False,d3,turn4search53
+R056,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://ve.scielo.org/scielo.php?pid=S2665-02662025000100472&script=sci_arttext,False,d3,turn4search22
+R057,Factors driving cybersecurity behavior in virtual reality: Evidence from SEM-ANN approach,https://www.sciencedirect.com/science/article/abs/pii/S0160791X26001065,False,d3,turn4search23
+R058,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://ve.scielo.org/scielo.php?lng=es&pid=S2665-02662025000100472&script=sci_arttext,False,d3,turn4search24
+R059,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://ojs.docentes20.com/index.php/revista-docentes20/es/article/download/632/1603/8675,False,d3,turn4search25
+R060,Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC,https://www.sciencedirect.com/science/article/pii/S0950584925001892,False,d3,turn4search26
+R061,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://www.docentes20.com/revista-electronica/index.php/revista-docentes20/en/article/view/632?articlesBySimilarityPage=5,False,d3,turn4search27
+R062,A Pedagogical and Applied Framework for Cybersecurity Education in Developing Countries: A Case Study of Training in Industrial and Information Systems,https://www.researchgate.net/publication/408094774_A_Pedagogical_and_Applied_Framework_for_Cybersecurity_Education_in_Developing_Countries_A_Case_Study_of_Training_in_Industrial_and_Information_Systems,False,d3,turn4search28
+R063,Psychometric Evaluation of the Cybersecurity Curriculum Assessment,https://www.researchgate.net/publication/368999257_Psychometric_Evaluation_of_the_Cybersecurity_Curriculum_Assessment?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJzY2llbnRpZmljQ29udHJpYnV0aW9ucyIsInByZXZpb3VzUGFnZSI6bnVsbCwic3ViUGFnZSI6bnVsbH19,False,d3,turn4search29
+R064,Exploring a novel approach to cybersecurity: the role of ecological simulations on cybersecurity risk behaviors,https://link.springer.com/article/10.1007/s10055-025-01228-8,False,d3,turn4search30
+R065,Assessing Cybersecurity Problem-Solving Skills and Creativity of Engineering Students Through Model-Eliciting Activities Using an Analytic Rubric,https://www.researchgate.net/publication/377071879_Assessing_Cybersecurity_Problem-Solving_Skills_and_Creativity_of_Engineering_Students_Through_Model-Eliciting_Activities_Using_an_Analytic_Rubric,False,d3,turn4search31
+R066,Evaluación de la Competencia Digital de Seguridad en Estudiantes de una Universidad del Centro del Perú,https://ve.scielo.org/scielo.php?lng=es&nrm=iso&pid=S2665-02662025000100472&script=sci_arttext,False,d3,turn4search32
+R067,Research Publications | Manuel B. Garcia,https://manuelgarcia.info/publications/,False,d3,turn4search33
+R068,Research on China’s Innovative Cybersecurity Education System Oriented Toward Engineering Education Accreditation,https://www.mdpi.com/2078-2489/16/8/645,False,d3,turn4search34
+R069,"Securing Virtual Reality: Threat Models, Vulnerabilities, and Defense Strategies",https://www.mdpi.com/2813-2084/5/1/13,False,d3,turn4search35
+R070,Chains of Intrusion - Design and Development of an Educational Cybersecurity Game,https://backend.eurekamag.com/research/112/109/112109058.php,False,d3,turn4search36
+R071,"GAO-04-321, Technology Assessment: Cybersecurity for Critical Infrastructure Protection",https://www.gao.gov/assets/a157542.html,False,d3,turn4search37
+R072,MITRE ATT&CK Evaluations Advance Cloud Security and Counter-Espionage Capabilities in Latest Round,https://www.mitre.org/news-insights/news-release/mitre-attck-evaluations-advance-cloud-security-and-counter-espionage,False,d3,turn4search38
+R073,Embedding stealth assessment in metaverse-based training for PC building: advancing technical education using evidence-centered design,https://eurekamag.com/research/108/298/108298898.php,False,d3,turn4search39
+R074,Evidence Centered Design: The Contribution of Bob Mislevy in Advancing Validity Theory,https://onlinelibrary.wiley.com/doi/10.1111/emip.70033,False,d3,turn4search40
+R075,Hands-On Training Framework for Prompt Injection Exploits in Large Language Models,https://www.mdpi.com/2673-4591/108/1/25,False,d4,turn5search1
+R076,NICE Framework: Current Versions | NIST,https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/nice-framework-current-versions,False,d4,turn5search2
+R077,European Cybersecurity Skills Framework (ECSF) | ENISA,https://www.enisa.europa.eu/press-office/press-and-media/european-cybersecurity-skills-framework-ecsf,False,d4,turn5search3
+R078,"Software Engineering, SWEBOK and SFIA",https://sfia-online.org/en/tools-and-resources/bodies-of-knowledge/swebok-software-engineering-body-of-knowledge/swebok-summit-quicklinks?set_language=en,False,d4,turn5search4
+R079,NICE Framework Components v2.2.0: Summary of Changes,https://www.nist.gov/system/files/documents/2026/04/28/NICE%20Framework%20v2.2.0%20Summary%20of%20Changes%20%28April%202026%29.pdf,False,d4,turn5search48
+R080,European Cybersecurity Skills Framework (ECSF) | ENISA,https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf,False,d4,turn5search5
+R081,Prompt injection attacks on educational large language models for higher and vocational education,https://www.nature.com/articles/s41598-026-46563-1.pdf,False,d4,turn5search6
+R082,"Crosswalk between ESCO and the European Cybersecurity Skills Framework (ECSF) | European Skills, Competences, Qualifications and Occupations (ESCO)",https://esco.ec.europa.eu/en/about-esco/publications/publication/crosswalk-between-esco-and-european-cybersecurity-skills,False,d4,turn5search7
+R083,Prompt injection attacks on educational large language models for higher and vocational education,https://pmc.ncbi.nlm.nih.gov/articles/PMC13187012/,False,d4,turn5search9
+R084,Prompt injection attacks on educational large language models for higher and vocational education,https://www.nature.com/articles/s41598-026-46563-1,False,d4,turn5search10
+R085,SFIA v9 AND SWEBOK v4 - The guide to the software engineering body of knowledge,https://sfia-online.org/en/tools-and-resources/bodies-of-knowledge/swebok-software-engineering-body-of-knowledge/swebok4-sfia9-the-guide-to-the-software-engineering-body-of-knowledge,False,d4,turn5search11
+R086,A Systematic Review of K-12 Cybersecurity Education Around the World,https://doi.org/10.1109/ACCESS.2024.3393425,False,d4,turn5search12
+R087,SFIA v9 AND SWEBOK v4 - The guide to the software engineering body of knowledge,https://sfia-online.org/en/tools-and-resources/bodies-of-knowledge/swebok-software-engineering-body-of-knowledge/swebok4-sfia9-the-guide-to-the-software-engineering-body-of-knowledge?set_language=en,False,d4,turn5search13
+R088,Certiguard: a fine-tuned LLM for mastering security certification exams,https://doi.org/10.1007/s10207-026-01317-y,False,d4,turn5search14
+R089,ENISA Cybersecurity Skills Framework (ECSF) | Digital Skills & Jobs Platform,https://digital-skills-jobs.europa.eu/en/learning-space/resources/european-cybersecurity-skills-framework-ecsf,False,d4,turn5search15
+R090,Certiguard: a fine-tuned LLM for mastering security certification exams,https://link.springer.com/article/10.1007/s10207-026-01317-y,False,d4,turn5search16
+R091,European Cybersecurity Skills Framework (ECSF) | ENISA,https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf?trk=public_post_comment-text,False,d4,turn5search17
+R092,Assessment and Evidence Practices in Cybersecurity Education: A Systematic Review (2015–2025),https://www.researchgate.net/publication/410827178_Assessment_and_Evidence_Practices_in_Cybersecurity_Education_A_Systematic_Review_2015-2025,False,d4,turn5search18
+R093,Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf,False,d4,turn5search49
+R094,Defending Against Prompt Injection With a Few DefensiveTokens | Proceedings of the 18th ACM Workshop on Artificial Intelligence and Security,https://doi.org/10.1145/3733799.3762982,False,d4,turn5search19
+R095,Do LLMs consider security? an empirical study on responses to programming questions,https://link.springer.com/article/10.1007/s10664-025-10658-6,False,d4,turn5search20
+R096,A systematic literature review of capture the flag (CTF) methodologies in developing cybersecurity competence,https://www.lectitopublishing.nl/Article/Detail/a-systematic-literature-review-of-capture-the-flag-ctf-methodologies-in-developing-cybersecurity-19494,False,d4,turn5search21
+R097,Towards Personalizing Secure Programming Education with LLM-Injected Vulnerabilities,https://arxiv.org/abs/2604.13955,False,d4,turn5academia50
+R098,Integrating Artificial Intelligence into the Cybersecurity Curriculum in Higher Education: A Systematic Literature Review,https://doi.org/10.3390/educsci15111540,False,d4,turn5search22
+R099,,https://www.scitepress.org/publishedPapers/2026/149504/pdf/index.html,False,d4,turn5search23
+R100,Secure Prompt Engineering: A Practical Framework for Mitigating Prompt Injection and Data Leakage in LLM-based Systems,https://papers.ssrn.com/sol3/Delivery.cfm/6956641.pdf?abstractid=6956641&mirid=1,False,d4,turn5search24
+R101,Towards a unified European Cybersecurity Skills Framework: Structural insights from expert elicitation and international standards,https://doi.org/10.1016/j.array.2026.100728,False,d4,turn5search25
+R102,An Exploratory Study Gathering Security Requirements for the Software Development Process,https://www.mdpi.com/2079-9292/12/17/3594,False,d4,turn5search26
+R103,A systematic scoping review on game-based cybersecurity awareness education,https://link.springer.com/article/10.1007/s10207-026-01239-9,False,d4,turn5search27
+R104,Cybersecurity Workforce Frameworks & Mapping | CyberDefenders,https://cyberdefenders.org/frameworks/,False,d4,turn5search28
+R105,Security Responses in Software Development,https://openaccess.city.ac.uk/id/eprint/37819/,False,d4,turn5search29
+R106,A Systematic Mapping Study on Teaching of Security Concepts in Programming Courses,https://research.abo.fi/en/publications/a-systematic-mapping-study-on-teaching-of-security-concepts-in-pr/,False,d4,turn5search30
+R107,Understanding security vulnerabilities in student code: A case study in a non-security course,https://www.sciencedirect.com/science/article/pii/S0164121221002430,False,d4,turn5search31
+R108,A Quasi-Experimental Developer Study of Security Training in LLM-Assisted Web Application Development,https://arxiv.org/abs/2604.17763,False,d4,turn5academia51
+R109,Application Security Engineer — CERG,https://cerg.nexus/docs/roles-jf-seceng-CERG-GOV-JD-SECENG-004_Application_Security_Engineer.html,False,d4,turn5search32
+R110,Pedagogical Transformation Using Large Language Models in a Cybersecurity Course,https://www.mdpi.com/2673-2688/7/1/25,False,d4,turn5search33
+R111,AWS Prescriptive Guidance - Prompt engineering best practices to avoid prompt injection attacks on modern LLMs,https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/llm-prompt-engineering-best-practices/llm-prompt-engineering-best-practices.pdf,False,d4,turn5search52
+R112,NICE Framework Competencies: Assessing Learners for Cybersecurity Work,https://csrc.nist.gov/Pubs/ir/8355/2PD,False,d5,turn6search0
+R113,Security by Design in Hybrid Software Development: An Empirical Framework for Aligning Organizational Climate and Developer Behavior,https://www.mdpi.com/2076-3417/16/8/3618,False,d5,turn6search1
+R114,Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students,https://pages.cs.wisc.edu/~chatterjee/papers/sigcse23-missingpieces.pdf,False,d5,turn6search47
+R115,The evolution of cybersecurity skill demands in the U.S. labor market: A 15-year analysis (2010–2024),https://www.sciencedirect.com/science/article/pii/S0167404826003883,False,d5,turn6search2
+R116,Security by Design in Hybrid Software Development: An Empirical Framework for Aligning Organizational Climate and Developer Behavior,https://doi.org/10.3390/app16083618,False,d5,turn6search3
+R117,Assessing Common Software Vulnerabilities in Undergraduate Computer Science Assignments,https://journal.cisse.info/index.php/jcisse/article/download/179/179/350,False,d5,turn6search48
+R118,Bridging the Security Skills Gap: A Comprehensive Framework for Developing Application Security Competencies in Modern Software Engineering,https://www.puirp.com/index.php/research/article/view/118,False,d5,turn6search4
+R119,Characterizing the security culture of the research software engineering community: An empirical study,https://www.sciencedirect.com/science/article/abs/pii/S0167739X26002050,False,d5,turn6search5
+R120,The modern cybersecurity analyst: An international position analysis,https://www.sciencedirect.com/science/article/abs/pii/S0167404826000015,False,d5,turn6search6
+R121,Application of intervention mapping in cybersecurity education design,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.998335/full,False,d5,turn6search7
+R122,Assessing Common Software Vulnerabilities in Undergraduate Computer Science Assignments,https://journal.cisse.info/index.php/jcisse/article/view/179,False,d5,turn6search8
+R123,"""A Functioning Code May Not Be a Secure Code : A Preliminary Study on t"" by Jeremiah Niiquaye Kotey",https://digitalcommons.montclair.edu/etd/1215/,False,d5,turn6search9
+R124,NICE Framework History | NIST,https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/about/nice-framework-history,False,d5,turn6search10
+R125,NICE Framework Frequently Asked Questions | NIST,https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/about/faq,False,d5,turn6search11
+R126,Updated NICE Framework Knowledge and Skill Statements for Public Comment | NIST,https://www.nist.gov/news-events/news/2022/04/updated-nice-framework-knowledge-and-skill-statements-public-comment,False,d5,turn6search12
+R127,NICEFramework_KSreview_intro11apr2022,https://www.nist.gov/system/files/documents/2022/04/18/NICEFramework_KSreview_intro11apr2022.pdf,False,d5,turn6search49
+R128,Chapter 1: Introduction,https://www.linuxfoundation.org/hubfs/LF%20Research/Secure_Software_Development_Education_2024_Survey.pdf,False,d5,turn6search50
+R129,Archives,https://cisse.info/e/archives/54-28th-colloquium/55-2024-presentations/445-gsojp-presentation,False,d5,turn6search13
+R130,Curricular Integration of DevSecOps: A Real-World Pipeline Approach to Secure Software Engineering Education | Proceedings of the 26th ACM Annual Conference on Cybersecurity & Information Technology Education,https://doi.org/10.1145/3769694.3771132,False,d5,turn6search14
+R131,Beyond Technical Training: A Cybersecurity Skills Framework for Non-Professionals | Proceedings of the 2025 Computers and People Research Conference,https://doi.org/10.1145/3716489.3728444,False,d5,turn6search15
+R132,Exportar - Reflections on training next-gen industry workforce on secure software development - Ciência_Iscte - Iscte,https://ciencia.iscte-iul.pt/publications/96410/export,False,d5,turn6search16
+R133,Using Real-world Bug Bounty Programs in Secure Coding Course: Experience Report,https://starfos.tacr.cz/en/vysledky-vyzkumu/RIV%2F00216224%3A14220%2F24%3A00135947,False,d5,turn6search17
+R134,Teaching by Practice: Shaping Secure Coding Mentalities through Cybersecurity CTFs,https://doaj.org/article/b4501839f17042b59e5972afc208d1fa,False,d5,turn6search18
+R135,A Systematic Mapping Study on Teaching of Security Concepts in Programming Courses,https://research.abo.fi/fi/publications/a-systematic-mapping-study-on-teaching-of-security-concepts-in-pr/,False,d5,turn6search19
+R136,Paper Title (use style: paper title),https://ejournals.umn.ac.id/index.php/SI/article/download/3858/1628,False,d5,turn6search51
+R137,NICE Framework Competencies: 2nd Draft NISTIR 8355 Available for Comment | CSRC,https://csrc.nist.gov/News/2021/nice-framework-competencies-2nd-draft-nistir-8355,False,d5,turn6search20
+R138,EDUCATION AND NEW DEVELOPMENTS 2023 - VOLUME 2,https://end-educationconference.org/wp-content/uploads/2023/07/2023v2end044.pdf,False,d5,turn6search52
+R139,Analysis of Software Vulnerabilities Introduced in Programming Submissions Across Curriculum at Two Higher Education Institutions,https://scholars.georgiasouthern.edu/en/publications/analysis-of-software-vulnerabilities-introduced-in-programming-su/,False,d5,turn6search21
+R140,NICE Framework Latest Updates | NIST,https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center/about/nice-framework-latest-updates,False,d5,turn6search23
+R141,Updated NICE Framework Knowledge and Skills Statements for Public Comment,https://content.govdelivery.com/accounts/USNIST/bulletins/31273d6,False,d5,turn6search24
+R142,Using Real-world Bug Bounty Programs in Secure Coding...,https://arxivlens.com/paperview/details/using-real-world-bug-bounty-programs-in-secure-coding-course-experience-report-5481-1310844,False,d5,turn6search25
+R143,"Cybersecurity risks, DevSecOps challenges, and emerging security priorities: An empirical study across Brazilian organizations",https://www.sciencedirect.com/science/article/pii/S0167404826002026,False,d5,turn6search26
+R144,2022 Volume 3 Meeting the Demand for Zero Trust Talent,https://www.isaca.org/resources/isaca-journal/issues/2022/volume-3/meeting-the-demand-for-zero-trust-talent,False,d5,turn6search27
+R145,On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools,https://doi.org/10.1007/S10664-024-10506-Z,False,d5,turn6search28
+R146,Secure coding training is a better investment than code scanning tools for reducing application vulnerabilities,https://www.globenewswire.com/news-release/2023/01/19/2591729/0/en/Secure-coding-training-is-a-better-investment-than-code-scanning-tools-for-reducing-application-vulnerabilities.html,False,d5,turn6search29
+R147,Using Real-world Bug Bounty Programs in Secure Coding Course: Experience Report,https://www.academia.edu/126453111/Using_Real_world_Bug_Bounty_Programs_in_Secure_Coding_Course_Experience_Report,False,d5,turn6search31
+R148,Importance of Cybersecurity Competencies in Higher Education and for Employers,https://www.mdpi.com/2076-3417/16/7/3260,False,d5,turn6search33
+R149,Bridging the Security Skills Gap: A Comprehensive Framework for Developing Application Security Competencies in Modern Software Engineering,https://www.researchgate.net/publication/392499458_Bridging_the_Security_Skills_Gap_A_Comprehensive_Framework_for_Developing_Application_Security_Competencies_in_Modern_Software_Engineering,False,d5,turn6search34
+R150,On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools,https://link.springer.com/article/10.1007/s10664-024-10506-z,False,d5,turn6search35
+R151,Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students,https://www.academia.edu/100953015/Towards_Finding_the_Missing_Pieces_to_Teach_Secure_Programming_Skills_to_Students,False,d5,turn6search36
+R152,What Do Capture-the-Flag Competitions Actually Measure? A Psychometric and Competency-Coverage Analysis of Five Editions of a National Cybersecurity Event,https://www.mdpi.com/2079-9292/15/20/4603,False,batch6_0,turn7view2
+R153,Student assessment in cybersecurity training automated by pattern mining and clustering,https://pmc.ncbi.nlm.nih.gov/articles/PMC8964927/,False,batch6_1,turn8search0
+R154,Dataset: Evaluating Two Approaches to Assessing Student Progress in Cybersecurity Exercises,https://zenodo.org/records/5752004,False,batch6_1,turn8search2
+R155,Capability Assessment Methodology and Comparative Analysis of Cybersecurity Training Platforms,https://www.sciencedirect.com/science/article/abs/pii/S0167404823000305,False,batch6_1,turn8search3
+R156,Cybersecurity workforce readiness: a three-dimensional assessment and scenario-based intervention framework aligned with NICE,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1958161/full,False,batch6_1,turn8search4
+R157,Assessment Rubric - ACM CCECC,https://ccecc.acm.org/guidance/cybersecurity/rubric/,False,batch6_1,turn8search5
+R158,Market of Cybersecurity Assessments 2021 - 2025,https://certification.enisa.europa.eu/publications/market-cybersecurity-assessments-2021-2025_en,False,batch6_1,turn8search7
+R159,Cybersecurity serious games development: A systematic review,https://www.sciencedirect.com/science/article/pii/S0167404824006138,False,d6,turn10search0
+R160,A systematic scoping review on game-based cybersecurity awareness education,https://doi.org/10.1007/s10207-026-01239-9,False,d6,turn10search1
+R161,SCIPS: A serious game using a guidance mechanic to scaffold effective training for cyber security,https://www.sciencedirect.com/science/article/pii/S0020025521009129,False,d6,turn10search2
+R162,Game On: Teaching Cybersecurity,https://www.sci.brooklyn.cuny.edu/~kletenik/publications/CCSCNE2021.pdf,False,d6,turn10search48
+R163,Cybersecurity educational games: a theoretical framework,https://www.sciencedirect.com/science/article/pii/S2056496121000386,False,d6,turn10search6
+R164,Gamified and Automatically Evaluated Windows AD-based Cyber Ranges in Cybersecurity Education | IEEE Conference Publication | IEEE Xplore,https://ieeexplore.ieee.org/abstract/document/11205409,False,d6,turn10search7
+R165,Toward Guidelines for Designing Cybersecurity Serious Games,https://is.muni.cz/publication/1701756/2021-SIGCSE-toward-guidelines-designing-cybersecurity-serious-games-abstract.pdf,False,d6,turn10search50
+R166,Evaluation of HackLearn COFELET Game User Experience for Cybersecurity Education,https://www.academia.edu/130329120/Evaluation_of_HackLearn_COFELET_Game_User_Experience_for_Cybersecurity_Education,False,d6,turn10search9
+R167,Evaluation of HackLearn COFELET Game User Experience for Cybersecurity Education,https://journal.seriousgamessociety.org/index.php/IJSG/article/view/437,False,d6,turn10search10
+R168,Successful Gamification of Cybersecurity Training,https://journals.sagepub.com/doi/10.1089/cyber.2020.0526,False,d6,turn10search12
+R169,Dissertation,https://epub.uni-regensburg.de/76941/1/Dissertation_Glas_Magdalena.pdf,False,d6,turn10search51
+R170,SherLOCKED: A Detective-themed Serious Game for Cyber Security Education,https://scixplorer.org/abs/2021arXiv210704506J/abstract,False,d6,turn10search13
+R171,CyberSecurity and gamification of cybersecurity training,https://www.concordia-h2020.eu/wp-content/uploads/2021/10/ReportEducationalCyberSecurityVideoGames-AJBseptember2021.pdf,False,d6,turn10search52
+R172,Assessment of Red and Blue Team Training in the Cyber Range Tectonic using Process Mining,https://ejbeta.clei.org/cleiej/article/view/798,False,d6,turn10search14
+R173,"Educación segura en la era digital, aprendizajes desde la ISO 27002:2022: una revisión sistemática",https://doi.org/10.62319/simonrodriguez.v.5i10.55,False,d6,turn10search15
+R174,NetGuardians: Lightweight Serious Game for Cybersecurity Education,https://journal.binus.ac.id/index.php/jggag/article/view/14543,False,d6,turn10search16
+R175,Case-based learning for cybersecurity leaders: A systematic review and research agenda,https://doi.org/10.1016%2Fj.im.2024.104015,False,d6,turn10search17
+R176,SherLOCKED: A Detective-themed Serious Game for Cyber Security Education,https://arxiv.org/abs/2107.04506,False,d6,turn10academia54
+R177,"Competency Gaps in Cybersecurity Teaching: Digital Skills, Pedagogy, and Governance",https://doi.org/10.36690/2733-2039-2025-4-60-71,False,d6,turn10search19
+R178,How universities teach cybersecurity courses online: a systematic literature review,https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2024.1499490/full,False,d6,turn10search20
+R179,Digital competence of in-service teachers in K-12 education: A systematic literature review,https://bera-journals.onlinelibrary.wiley.com/doi/10.1002/rev3.70172,False,d6,turn10search21
+R180,"Educación segura en la era digital, aprendizajes desde la ISO 27002:2022: una revisión sistemática",https://www.scielo.org.bo/scielo.php?lang=es&pid=S3006-13852025000200132&script=sci_arttext,False,d6,turn10search22
+R181,Assessing digital competences in higher education teachers: a case study,https://www.frontiersin.app/articles/feduc-2026-1985613,False,d6,turn10search23
+R182,Assessment of Red and Blue Team Training in the Cyber Range Tectonic using Process Mining,https://www.mendeley.com/catalogue/2606c05e-b2b7-3c6e-9dcb-eacb1e0b7e05/,False,d6,turn10search24
+R183,Approaches for cybersecurity education: a South African military science perspective,https://www.tandfonline.com/doi/full/10.1080/2331186X.2025.2603702,False,d6,turn10search26
+R184,Lessons Learned from Using Cyber Range to Teach Cybersecurity at Different Levels of Education,https://link.springer.com/article/10.1007/s10758-025-09840-y,False,d6,turn10search27
+R185,Cybersecurity Skills Assessment Results | PDF,https://www.scribd.com/document/780819333/Cisco-Skills-For-All,False,d6,turn10search28
+R186,SecAwarenessTruss: A Federated Cyber Range Solution for Critical Infrastructures,https://kypseli.ouc.ac.cy/entities/publication/d24aabfd-3f1e-4092-b283-7d59ad7222b8,False,d6,turn10search30
+R187,The 2nd Hong Kong Cybersecurity Skills Competition,https://www.hkct.edu.hk/en/cybersecurity-competition2024,False,d6,turn10search31
+R188,LLM-Assisted AHP for Explainable Cyber Range Evaluation,https://zenodo.org/records/19364614,False,d6,turn10search32
+R189,Lessons Learned from Using Cyber Range to Teach Cybersecurity at Different Levels of Education,https://doi.org/10.1007/s10758-025-09840-y,False,d6,turn10search33
+R190,Assessment of digital competencies in higher education students: development and validation of a measurement scale,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1497376/full,False,d6,turn10search34
+R191,Cybersecurity Education Maturity Assessment | lagen.nu,https://lagen.nu/guidance/enisa/rapporter/cybersecurity-education-maturity-assessment,False,d6,turn10search35
+R192,Resultados de Cisco Skills For All | PDF,https://es.scribd.com/document/801541965/Cisco-Skills-For-All,False,d6,turn10search36
+R193,Network Security Skills Assessment: Test Your Cybersecurity Expertise | Coursera,https://www.coursera.org/resources/network-security-skill-assessment,False,d6,turn10search37
+R194,Assessment of Red and Blue Team Training in the Cyber Range Tectonic using Process Mining,https://www.researchgate.net/publication/395925132_Assessment_of_Red_and_Blue_Team_Training_in_the_Cyber_Range_Tectonic_using_Process_Mining,False,d6,turn10search38
+R195,ASEE PEER - Search Results,https://peer.asee.org/advanced_search?collection_id=256&conference_session_name=1&page=32&q=%27Assessment%27,False,d6,turn10search39
+R196,Starfos | Modular Cybersecurity Scenario Development and Its Integration into the Cyber Range Platform,https://starfos.tacr.cz/en/vysledky-vyzkumu/RIV%2F60162694%3AG43__%2F26%3A00566083,False,d6,turn10search40
+R197,"Case Study Details - Reskilling Revolution - Check Point: Tracking Thinking, Not Just Results in Cyber Ranges",https://initiatives.weforum.org/reskilling-revolution/case-study-details/check-point%3A-tracking-thinking%2C-not-just-results-in-cyber-ranges/aJYTG0000000zt74AA,False,d6,turn10search41
+R198,"Comparing peer-reviewed competence frameworks for engineers: a systematic review and critical discussion of backgrounds, development, and content",https://www.tandfonline.com/doi/full/10.1080/22054952.2025.2509390,False,b7_1,turn13search0
+R199,Software engineering competency models and intercultural communication competencies: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0164121225003310,False,b7_1,turn13search1
+R200,Threat Modeling Integration in DevSecOps Pipelines: Early-Stage Security Risk Identification Using Shift-Left Approaches,https://ijeret.org/index.php/ijeret/article/view/524,False,b7_1,turn13search5
+R201,Preliminary Results from a Systematic Literature Review on Computing Competencies Valued in the Workplace,https://doi.org/10.1145/3785359,False,b7_1,turn13search6
+R202,Identifying Gaps in the Secure Programming Knowledge and Skills of Students | Proceedings of the 53rd ACM Technical Symposium on Computer Science Education - Volume 1,https://doi.org/10.1145/3478431.3499391,False,b7_1,turn13search7
+R203,Threat models over space and time: A case study of end-to-end-encrypted messaging applications,https://doi.org/10.1002/spe.3341,False,b7_1,turn13search10
+R204,Threat Modeling Integration in DevSecOps Pipelines: Early-Stage Security Risk Identification Using Shift-Left Approaches,https://ijeret.org/index.php/ijeret/article/download/524/501,False,b7_1,turn13search49
+R205,"Digital skills landscape: A systematic review of current academic programs, industry demands, and the digital divide’s impact on graduate competencies",https://journals.sagepub.com/doi/10.1177/09504222251370105,False,b7_1,turn13search11
+R206,Software engineering competency models and intercultural communication competencies: A systematic literature review | Scilit,https://www.scilit.com/publications/5712a97fd3c791ce8505490d1d4b7b7c,False,b7_1,turn13search12
+R207,Software engineering competency models and intercultural communication competencies: A systematic literature review,https://oulurepo.oulu.fi/handle/10024/59303,False,b7_1,turn13search13
+R208,Systematic analysis of automated threat modelling techniques: Comparison of open-source tools,https://link.springer.com/article/10.1007/s11219-023-09634-4,False,b7_1,turn13search14
+R209,"A systematic review of artificial intelligence and cybersecurity integration covering national strategies, economic implications, and policy recommendations",https://link.springer.com/article/10.1007/s44163-026-02309-6,False,b7_1,turn13search15
+R210,Skills development for software engineers: Systematic literature review,https://www.sciencedirect.com/science/article/pii/S0950584923002501,False,b7_1,turn13search16
+R211,Software engineering competency models and intercultural communication competencies: A systematic literature review | Publications - OuluCRIS,https://oulu.cris.fi/en/publications/a8659d45-023c-49df-97d2-1601627f6c9f,False,b7_1,turn13search17
+R212,Repositório ISCTE-IUL,https://www.repositorio-iul.iscte.pt/bitstream/10071/25497/1/conferenceobject_79828.pdf,False,b7_1,turn13search50
+R213,Cybersecurity Analytics for the Enterprise Environment: A Systematic Literature Review,https://www.mdpi.com/2079-9292/14/11/2252,False,b7_1,turn13search18
+R214,Evolution of secure development lifecycles and maturity models in the context of hosted solutions,https://publica-rest.fraunhofer.de/server/api/core/bitstreams/19898579-965f-4b03-9660-fa193036d1e2/content,False,b7_1,turn13search51
+R215,Evolution of secure development lifecycles and maturity models in the context of hosted solutions,https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2711,False,b7_1,turn13search19
+R216,Bridging digital skill gaps in the global workforce: A synthesis and conceptual framework building,https://doi.org/10.1016/j.resglo.2025.100311,False,b7_1,turn13search20
+R217,Understanding security vulnerabilities in student code: A case study in a non-security course,https://www.sciencedirect.com/science/article/abs/pii/S0164121221002430,False,b7_1,turn13search21
+R218,Introducing Systems Thinking as a Framework for Teaching and Assessing Threat Modeling Competency,https://arxiv.org/abs/2404.16632,False,b7_1,turn13academia52
+R219,Threat modeling of industrial control systems: A systematic literature review,https://www.sciencedirect.com/science/article/pii/S0167404823004534,False,b7_1,turn13search23
+R220,위협 모델링 도구의 사용성 평가기준 도출,https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003108561,False,b7_1,turn13search24
+R221,GitHub - sinse100/SC_BC_TM_Top_Tier_Conference_Journal_Paper · GitHub,https://github.com/sinse100/SC_BC_TM_Top_Tier_Conference_Journal_Paper,False,b7_1,turn13search25
+R222,Factors influencing information and communication technology (ICT) competency among undergraduate computing students: a systematic review,https://link.springer.com/article/10.1007/s44217-026-01270-x,False,b7_1,turn13search26
+R223,국내 위협모델링 연구 동향 및 문제점 분석,https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003196129,False,b7_1,turn13search27
+R224,Less is more: usefulness of data flow diagrams and large language models for security threat validation,https://pmc.ncbi.nlm.nih.gov/articles/PMC13099727/,False,b7_1,turn13search28
+R225,Survey: Automatic generation of attack trees and attack graphs,https://doi.org/10.1016/j.cose.2023.103602,False,b7_1,turn13search29
+R226,"""Threat modeling is very formal, it's very technical, and also very hard to do correctly"": Investigating Threat Modeling Practices in Open-Source Software Projects",https://luneresearch.com/papers/d1e8fb03-5dde-4eec-b49d-5427f993b96a,False,b7_1,turn13search30
+R227,Secure Coding Training,https://www.accesswire.com/media/700252/HackEDU-Secure-Coding-Training-Report-Infographic-May-2022.pdf,False,b7_1,turn13search54
+R228,Threat models over space and time: A case study of end-to-end-encrypted messaging applications,https://onlinelibrary.wiley.com/doi/10.1002/spe.3341?af=R,False,b7_1,turn13search31
+R229,Opportunities and Challenges of Generative AI for Cybersecurity in Sub-Saharan African Organizations: A Systematic Literature Review,https://www.tandfonline.com/doi/full/10.1080/15228916.2026.2740302,False,b7_1,turn13search32
+R230,Toward effective cybersecurity management: a hierarchical process model with performance assessment,https://academic.oup.com/cybersecurity/article/11/1/tyaf020/8238597,False,d8,turn14search0
+R231,Psychometric Evaluation of the Cybersecurity Concept Inventory,https://explore.metascienceobservatory.org/papers/W3207306719,False,d8,turn14search1
+R232,Psychometric Evaluation of the Cybersecurity Concept Inventory,https://www.academia.edu/101511455/Psychometric_Evaluation_of_the_Cybersecurity_Concept_Inventory,False,d8,turn14search2
+R233,Preparing emergency medicine residents for the Certifying Exam: a pilot study of a longitudinal simulation-based assessment program,https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1763416571164158&disposition=inline,False,d8,turn14search48
+R234,Comparing the reliability of performance task scores obtained from rating scale and analytic rubric using the generalizability theory,https://doi.org/10.1016/j.stueduc.2024.101413,False,d8,turn14search3
+R235,Inter-Rater Reliability Analysis in Performance-Based Assessment: A Comparison of Generalizability Coefficients and Rater Consistency,https://dergipark.org.tr/en/pub/akef/article/1746468,False,d8,turn14search4
+R236,A SOCIO-TECHNICAL CYBERSECURITY FRAMEWORK,https://erepo.usiu.ac.ke/xmlui/bitstream/handle/11732/9172/Kipyegon%20Victor%20MSEC%202025.pdf?isAllowed=y&sequence=1,False,d8,turn14search49
+R237,Psychometric Evaluation of the Cybersecurity Curriculum Assessment,https://www.academia.edu/101511462/Psychometric_Evaluation_of_the_Cybersecurity_Curriculum_Assessment,False,d8,turn14search5
+R238,Preparing Emergency Medicine Residents for the Certifying Exam: A Pilot Study of a Longitudinal Simulation-Based Assessment Program,https://onlinelibrary.wiley.com/doi/full/10.1002/aet2.70172,False,d8,turn14search6
+R239,What Do Capture-the-Flag Competitions Actually Measure? A Psychometric and Competency-Coverage Analysis of Five Editions of a National Cybersecurity Event | ALEX by RISE,https://alex.riseinfosec.org/?record=doi%3A10.3390%2Felectronics15204603,False,d8,turn14search7
+R240,How well do workplace-based assessments support summative entrustment decisions? A multi-institutional generalisability study,https://asmepublications.onlinelibrary.wiley.com/doi/full/10.1111/medu.15291,False,d8,turn14search8
+R241,Quality Assessment of Generative AI in Cybersecurity Certification,https://www.mdpi.com/2227-9709/13/4/53,False,d8,turn14search9
+R242,Preparing Emergency Medicine Residents for the Certifying Exam: A Pilot Study of a Longitudinal Simulation-Based Assessment Program,https://onlinelibrary.wiley.com/doi/10.1002/aet2.70172,False,d8,turn14search10
+R243,Optimizing Dependability in Classroom Action Research Skill Assessment: A Multivariate Generalizability Theory Analysis of Alternative Measurement Designs,https://journal.qubahan.com/index.php/qaj/article/view/2462,False,d8,turn14search11
+R244,A CRITICAL REVIEW OF CYBERSECURITY EDUCATION,https://s3.amazonaws.com/na-st01.ext.exlibrisgroup.com/01ALLIANCE_WSU/storage/alma/9F/89/64/47/E7/46/6D/F7/DD/BA/8F/89/7A/65/F6/58/A%20Critical%20Review%20of%20Cybersecurity%20Education%20in%20the%20United%20States.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJN6NPMNGJALPPWAQ%2F20251117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251117T204823Z&X-Amz-Expires=119&X-Amz-Signature=fc6898f7d6144746a901bee04825afbca27f27ca70846ff0669a2b7ac5b19102&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B+filename%3D%22A%2520Critical%2520Review%2520of%2520Cybersecurity%2520Education%2520in%2520the%2520United%2520States.pdf%22%3B+filename%2A%3DUTF-8%27%27A%2520Critical%2520Review%2520of%2520Cybersecurity%2520Education%2520in%2520the%2520United%2520States.pdf&response-content-type=application%2Fpdf,False,d8,turn14search50
+R245,"Comparison of Standard Setting Procedures to Establish Defensible Passing Standards for Clinical Skills Assessment: Angoff, Borderline Group, Contrasting Groups and Patient Safety Methods",https://pmc.ncbi.nlm.nih.gov/articles/PMC12409087/,False,d8,turn14search12
+R246,Towards accurate and interpretable competency-based assessment: enhancing clinical competency assessment through multimodal AI and anomaly detection,https://www.nature.com/articles/s41746-025-02299-2,False,d8,turn14search13
+R247,Assessing the Reliability of Performance-Based Evaluation in Fashion Education: A Generalizability Theory Approach,https://ejournal.undiksha.ac.id/index.php/JERE/article/view/100248,False,d8,turn14search15
+R248,The use of generalizability theory in investigating the score dependability of classroom-based L2 reading assessment,https://journals.sagepub.com/doi/10.1177/02655322211070840,False,d8,turn14search16
+R249,"DoD audit flags weaknesses in cybersecurity certification vetting, heightening compliance risks",https://www.reuters.com/legal/legalindustry/dod-audit-flags-weaknesses-cybersecurity-certification-vetting-heightening--pracin-2026-01-09/,False,d8,turn14news51
+R250,Modeling unit non-response and validity of online teaching evaluation in higher education using generalizability theory approach,https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1202896/full,False,d8,turn14search17
+R251,Preparing Emergency Medicine Residents for the Certifying Exam: A Pilot Study of a Longitudinal Simulation‐Based Assessment Program,https://pmc.ncbi.nlm.nih.gov/articles/PMC13159544/,False,d8,turn14search18
+R252,ERIC - Search Results,https://eric.ed.gov/?pg=8&q=Journal+of+Cybersecurity+Education+Research+and+Practice,False,d8,turn14search19
+R253,"Strengthening Cybersecurity in Small and Medium-Sized Enterprises: Balancing Technology, Costs, Compliance, and Employee Awareness",https://journals.sagepub.com/doi/10.1177/21582440251414951,False,d8,turn14search20
+R254,Version 2025.1,https://securecontrolsframework.com/content/madss.pdf,False,d8,turn14search52
+R255,Student Performance on the BDSI for Basic Data Structures,https://doi.org/10.1145/3470654,False,d8,turn14search21
+R256,A Data-Driven Adaptive Cybersecurity Training Framework with Behavioral Validation,https://link.springer.com/article/10.1007/s44227-026-00103-5,False,d8,turn14search23
+R257,Inter-Rater Reliability Analysis in Performance-Based Assessment: A Comparison of Generalizability Coefficients and Rater Consistency,https://dergipark.org.tr/tr/pub/akef/article/1746468?issue_id=94975,False,d8,turn14search24
+R258,ADAPTING CYBERSECURITY KNOWLEDGE MEASURES FOR MALAYSIAN UNIVERSITY STUDENTS: INSIGHTS FROM EXPLORATORY FACTOR ANALYSIS,https://gaexcellence.com/ijmoe/article/view/7098,False,d8,turn14search25
+R259,Effectiveness of Cybersecurity Awareness Program Based on Mobile Learning to Improve Cyber Hygiene,https://www.ijiet.org/vol15/IJIET-V15N2-2235.pdf,False,d8,turn14search53
+R260,Computer Science (Duluth) - Research output - Experts@Minnesota,https://experts.umn.edu/en/organisations/computer-science-duluth/publications/?type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontojournal%2Farticle&type=%2Fdk%2Fatira%2Fpure%2Fresearchoutput%2Fresearchoutputtypes%2Fcontributiontoperiodical%2Farticle,False,d8,turn14search26
+R261,Peter A Peterson - Experts@Minnesota,https://experts.umn.edu/en/persons/peter-a-peterson,False,d8,turn14search27
+R262,Assessing the Reliability of Performance-Based Evaluation in Fashion Education: A Generalizability Theory Approach,https://ejournal.undiksha.ac.id/index.php/JERE/article/view/100248?articlesBySimilarityPage=24,False,d8,turn14search28
+R263,Enhancing university performance through cybersecurity strategy: evidence from Jordanian higher education institutions,https://www.tandfonline.com/doi/full/10.1080/23311975.2025.2607812?needAccess=true&scroll=top,False,d8,turn14search29
+R264,What Do Capture-the-Flag Competitions Actually Measure? A Psychometric and Competency-Coverage Analysis of Five Editions of a National Cybersecurity Event,https://www.croris.hr/crosbi/publikacija/prilog-casopis/969657,False,d8,turn14search30
+R265,"Performance-based assessment in virtual versus non-virtual classes: impacts on academic resilience, motivation, teacher support, and personal best goals",https://link.springer.com/article/10.1186/s40862-023-00230-4,False,d8,turn14search31
+R266,Development of the cybersecurity scale (CS-S): Evidence of validity and reliability,https://www.academia.edu/48857388/Development_of_the_cybersecurity_scale_CS_S_Evidence_of_validity_and_reliability,False,d8,turn14search32
+R267,Mapping design stages and methodologies for developing STEM concept inventories: a scoping review,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1442833/full,False,d8,turn14search33
+R268,Awesome-LLM-Security-Benchmarks/docs/prompt-injection.md at main · sander-ali/Awesome-LLM-Security-Benchmarks · GitHub,https://github.com/sander-ali/Awesome-LLM-Security-Benchmarks/blob/main/docs/prompt-injection.md,False,d9,turn16search0
+R269,Security concerns for Large Language Models: A survey,https://www.sciencedirect.com/science/article/pii/S2214212625003217,False,d9,turn16search1
+R270,Security and Privacy Challenges of Large Language Models: A Survey,https://doi.org/10.1145%2F3712001,False,d9,turn16search2
+R271,Blocking at the Boundary: Auditing Long-Horizon Agents against Staged Prompt Injection,https://borowiecki.dev/pdf/2610.05163,False,d9,turn16search47
+R272,"Ignored, Not Refused: What Low Prompt-Injection Success ...",https://bytez.com/docs/arxiv/2610.23254/paper,False,d9,turn16search3
+R273,Learning to detect hardcoded secrets,https://link.springer.com/article/10.1007/s10664-026-10929-w,False,d9,turn16search4
+R274,Prompt Injection Research Library | Prompt-Injection.net,https://www.prompt-injection.net/research,False,d9,turn16search5
+R275,State of Secrets Sprawl Report 2023,https://www.gitguardian.com/state-of-secrets-sprawl-report-2023,False,d9,turn16search6
+R276,Your Code Secret Belongs to Me: Neural Code Completion Tools Can Memorize Hard-Coded Credentials,https://doi.org/10.1145%2F3660818,False,d9,turn16search7
+R277,"Indirect Prompt Injections: Are Firewalls All You Need, or Stronger Benchmarks?",https://arxiv.org/abs/2510.05244,False,d9,turn16academia48
+R278,prompt-shield/docs/papers/evaluation/injecagent.md at main · mthamil107/prompt-shield · GitHub,https://github.com/mthamil107/prompt-shield/blob/main/docs/papers/evaluation/injecagent.md,False,d9,turn16search8
+R279,AgentWatcher: A Rule-based Prompt Injection Monitor,https://borowiecki.dev/pdf/2604.01194,False,d9,turn16search49
+R280,AgentDojo and InjecAgent: prompt injection benchmarks,https://deedglass.com/blog/agentdojo-prompt-injection-benchmark,False,d9,turn16search9
+R281,"Prompt Injection Benchmarks: AgentDojo, BIPIA, CyberSecEval | DeepInspect",https://www.deepinspect.ai/blog/prompt-injection-benchmark,False,d9,turn16search10
+R282,Prompt Injection and Agent Runtime Security | TMLS.NYC,https://www.tmls.nyc/research/prompt-injection-agent-security,False,d9,turn16search11
+R283,Indirect Prompt Injections:,https://openreview.net/pdf?id=aSUHAayPml,False,d9,turn16search50
+R284,"GitHub - sander-ali/Awesome-LLM-Security-Benchmarks: 🛡️ A curated catalog of 41 benchmarks for the security, safety, and trustworthiness of LLMs and LLM agents. · GitHub",https://github.com/sander-ali/Awesome-LLM-Security-Benchmarks,False,d9,turn16search12
+R285,GitHub - Emmanuelwh/agent-security-paper-summaries · GitHub,https://github.com/Emmanuelwh/agent-security-paper-summaries,False,d9,turn16search13
+R286,2023 IEEE/ACM 20th International Conference on Mining Software Repositories (MSR)SecretBench: A Dataset of Software Secrets4.00(23/0.23/0.11)IE0.1.39(073.200)05,https://par.nsf.gov/servlets/purl/10505638,False,d9,turn16search51
+R287,InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,https://app.cochat.ai/papers/10.18653/v1/2024.findings-acl.624,False,d9,turn16search14
+R288,State of Secrets Sprawl 2023 Press Release,https://blog.gitguardian.com/pr-state-of-secrets-sprawl-2023/,False,d9,turn16search15
+R289,"Ignored, Not Refused: What Low Prompt-Injection Success Rates Hide in Small Tool-Using Agents",https://www.paperpeel.com/paper/2610.23254,False,d9,turn16search16
+R290,Indirect Prompt Injections:,https://openreview.net/pdf/22981a9055bd00551c3f1497482d2dcaba063a82.pdf,False,d9,turn16search52
+R291,SecurePrompt-IntegrityNet: Prompt-Injection-Resilient Data Integrity Verification for Agentic LLM Networks via Cryptographic Attestation and Activation Monitoring,https://www.mdpi.com/2073-8994/18/9/1565,False,d9,turn16search17
+R292,The Landscape of Prompt Injection Threats in LLM Agents: From Taxonomy to,https://www.znakschoola.ru/?_=%2Fpdf%2F2602.10453%23UE7DkG0PaBHZOakR54g1Wl8%3D,False,d9,turn16search53
+R293,Safety at scale: a comprehensive survey of large model and agent safety,https://www.emerald.com/ftsec/article/8/3-4/1/1335095/Safety-at-scale-a-comprehensive-survey-of-large,False,d9,turn16search18
+R294,,https://manuals.plus/m/ac74a982bb140bd10b78ec233e1739663a9347c1eb536220a5d141e973097ff1,False,d9,turn16search19
+R295,SecretBench: A Dataset of Software Secrets,https://www.researchgate.net/publication/369184614_SecretBench_A_Dataset_of_Software_Secrets,False,d9,turn16search20
+R296,"GitHub - aleph-beth/data-poisoning-detection-survey: A curated survey of research papers on detecting and defending against data poisoning & backdoor attacks in deep learning — covering CNNs and LLMs (pre-training, fine-tuning, RLHF). 30+ papers with direct links. · GitHub",https://github.com/aleph-beth/data-poisoning-detection-survey,False,d9,turn16search21
+R297,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?,https://www.researchgate.net/publication/367557159_What_Challenges_Do_Developers_Face_About_Checked-in_Secrets_in_Software_Artifacts,False,d9,turn16search22
+R298,What are the Practices for Secret Management in Software Artifacts?,https://www.researchgate.net/publication/363484957_What_are_the_Practices_for_Secret_Management_in_Software_Artifacts,False,d9,turn16search23
+R299,Massive GitHub analysis reveals 10 million secrets hidden in 1 billion commits - Help Net Security,https://www.helpnetsecurity.com/2023/03/09/github-secrets-exposed/,False,d9,turn16search24
+R300,"Data security in large language models: risks, defense, and directions",https://link.springer.com/article/10.1007/s44443-026-01200-9,False,d9,turn16search25
+R301,A survey on privacy risks and protection in large language models,https://link.springer.com/article/10.1007/s44443-025-00177-1,False,d9,turn16search26
+R302,On Inter-Dataset Code Duplication and Data Leakage in Large Language Models,https://www.researchgate.net/publication/386042927_On_Inter-dataset_Code_Duplication_and_Data_Leakage_in_Large_Language_Models,False,d9,turn16search27
+R303,ACM CCS 2023,https://www.sigsac.org/ccs/CCS2023/tocs/tocs-ccs23.html,False,d9,turn16search28
+R304,"Survey on LLM Safety: Attacks, Defenses, Alignment, Metrics, and Guardrails",https://link.springer.com/article/10.1007/s10994-026-07060-8,False,d9,turn16search29
+R305,Attack and defense techniques in large language models: A survey and new perspectives,https://www.sciencedirect.com/science/article/abs/pii/S0893608025012699,False,d9,turn16search30
+R306,"Same Bytes, Different Authority: Reserved-Token Representations in Chat-Template Prompt Injection",https://arxiv.org/abs/2609.35932,False,d9,turn16academia54
+R307,"A Survey on Backdoor Threats in Large Language Models (LLMs): Attacks, Defenses, and Evaluations · mlsanity",https://mlsanity.com/paper/2502.05224/,False,d9,turn16search31
+R308,"AI safety landscape for large language models: taxonomy, state-of-the-art, and future directions",https://link.springer.com/article/10.1007/s10462-026-11590-x,False,d9,turn16search32
+R309,A Comparative Study of Software Secrets Reporting by Secret Detection  Tools,https://www.alphaxiv.org/abs/2307.00714v1,False,d9,turn16search33
+R310,Large-Scale Empirical Study of Secret Keys Leakage in Hugging Face Spaces,https://www.researchgate.net/publication/405046897_Large-Scale_Empirical_Study_of_Secret_Keys_Leakage_in_Hugging_Face_Spaces/download,False,d9,turn16search34
+R311,USENIX Security '24 Technical Sessions | USENIX,https://www.usenix.org/conference/usenixsecurity24/technical-sessions,False,d9,turn16search35
+R312,Student assessment in cybersecurity training automated by pattern mining and clustering | Education and Information Technologies | Springer Nature Link,https://link.springer.com/article/10.1007/s10639-022-10954-4,False,coreOpen0,turn17view0
+R313,A framework for designing and certifying ECSF-aligned cybersecurity training through cyber ranges and virtual learning environments | International Journal of Information Security | Springer Nature Link,https://link.springer.com/article/10.1007/s10207-025-01202-0,False,coreOpen0,turn17view3
+R314,Student assessment in cybersecurity training automated by pattern mining and clustering | Education and Information Technologies | Springer Nature Link,https://link.springer.com/content/pdf/10.1007/s10639-022-10954-4.pdf ; rewritten summary of https://link.springer.com/article/10.1007/s10639-022-10954-4,False,coreFind1,turn19view1
+R315,Psychometric Evaluation of the Cybersecurity Curriculum Assessment,https://experts.umn.edu/en/publications/psychometric-evaluation-of-the-cybersecurity-curriculum-assessmen/,False,alt01,turn22search1
+R316,The essential competencies of software professionals: A unified competence framework,https://jyx.jyu.fi/bitstream/handle/123456789/82529/1/1-s2.0-S0950584922001446-main.pdf,False,alt01,turn22search2
+R317,Identifying Gaps in the Secure Programming Knowledge and,https://pages.cs.wisc.edu/~chatterjee/papers/sigcse22-Lam.pdf,False,alt01,turn22search3
+R318,From CTF to Competence: UX-Driven and Didactic Foundations for Gamified Cybersecurity Training Platforms,https://www.mdpi.com/2076-3417/16/12/6100,False,screen02,turn23view0
+R319,"IR 8355, NICE Framework Competency Areas: Preparing a Job-Ready Cybersecurity Workforce | CSRC",https://csrc.nist.gov/pubs/ir/8355/final,False,norms,turn25view1
+R320,CWE - CWE-1427: Improper Neutralization of Input Used for LLM Prompting (5.0),https://cwe.mitre.org/data/definitions/1427.html,False,norms,turn25view3
+R321,CWE - CWE-200: Exposure of Sensitive Information to an Unauthorized Actor (5.0),https://cwe.mitre.org/data/definitions/200.html,False,norms,turn25view4
+R322,CWE - CWE-321: Use of Hard-coded Cryptographic Key (5.0),https://cwe.mitre.org/data/definitions/321.html,False,norms,turn25view5
+R323,Towards NICE-by-Design Cybersecurity Learning Environments: A Cyber Range for SOC Teams,https://link.springer.com/article/10.1007/s10922-024-09816-w,False,concSearch02,turn31search1
+R324,A systematic scoping review on game-based cybersecurity awareness education,https://springerlink.fh-diploma.de/article/10.1007/s10207-026-01239-9,False,concSearch03,turn36search4
+R325,Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC,https://www.sciencedirect.com/science/article/abs/pii/S0950584925001892,False,concSearch03,turn36search5
+R326,A systematic scoping review on game-based cybersecurity awareness education: A systematic scoping review on game-based cybersecurity awareness educationN. H. Weeratunge et al.,https://www.researchgate.net/publication/402175078_A_systematic_scoping_review_on_game-based_cybersecurity_awareness_education_A_systematic_scoping_review_on_game-based_cybersecurity_awareness_educationN_H_Weeratunge_et_al,False,concSearch03,turn36search6
+R327,OCR of the Document | National Security Archive,https://nsarchive.gwu.edu/media/17887/ocr,False,concSearch03,turn36search7
+R328,Cybersecurity serious games development: A systematic review,https://www.sciencedirect.com/science/article/abs/pii/S0167404824006138,False,concSearch03,turn36search8
+R329,Train as you Fight: Evaluating Authentic Cybersecurity Training in Cyber Ranges,https://www.researchgate.net/publication/369641614_Train_as_you_Fight_Evaluating_Authentic_Cybersecurity_Training_in_Cyber_Ranges,False,concSearch03,turn36search9
+R330,CTC TRENDS FY 16,https://api.army.mil/e2/c/downloads/2023/01/19/7b40d5b8/17-28-ctc-trends-fy16-bulletin-oct-17-public.pdf,False,concSearch03,turn36search48
+R331,How IT Security Can Benefit From Civil Defense and,https://tf-csirt.org/wp-content/uploads/2024/10/Jens_Bothe.pdf,False,concSearch03,turn36search49
+R332,Practice Makes Perfect: Training Sustainment in the Era of Contested Logistics,https://www.lineofdeparture.army.mil/Journals/Army-Sustainment/Army-Sustainment-Archive/ASPB-Summer-2025/Practice-Makes-Perfect/,False,concSearch03,turn36search10
+R333,"Armor, November-December 1995 Edition",https://www.benning.army.mil/armor/eARMOR/content/issues/1995/NOV_DEC/ArmorNovemberDecember1995web.pdf,False,concSearch03,turn36search50
+R334,Active Learning and Cybersecurity Training: Best practices and,https://zenodo.org/records/14060908/files/PAEE_ALE_2024_131.pdf,False,concSearch03,turn36search52
+R335,Use of cyber attack and defense agents in cyber ranges: A case study,https://www.sciencedirect.com/science/article/abs/pii/S0167404822002644,False,concSearch03,turn36search11
+R336,From Logs to Learning: Applying Machine Learning,https://edurange.org/docs/EDURange_ASEE2024.pdf,False,concSearch03,turn36search53
+R337,"Combined US, coalition force increase combat effectiveness during Indo-Pacific Virtual Flag exercise > United States Navy > News Stories",https://www.navy.mil/Press-Office/News-Stories/Article/3611677/combined-us-coalition-force-increase-combat-effectiveness-during-indo-pacific-v/,False,concSearch03,turn36search12
+R338,Decoding Lethality,https://www.armyupress.army.mil/Journals/Military-Review/Online-Exclusive/2024-OLE/Decoding-Lethality/,False,concSearch03,turn36search13
+R339,"Research papers, master and doctoral theses about educational games",https://shamra-academia.com/en/filter?tags=educational+games&type=0,False,concSearch03,turn36search14
+R340,Serious games as a tool to model attack and defense scenarios for cyber-security exercises,https://www.sciencedirect.com/science/article/pii/S0167404821002741,False,concSearch03,turn36search15
+R341,Unlocking Cybersecurity: A Game-Changing Framework for Training and Awareness—A Systematic Review,https://onlinelibrary.wiley.com/doi/10.1155/hbe2/9982666,False,concSearch03,turn36search16
+R342,Game-based learning in computer science education: a scoping literature review,https://link.springer.com/article/10.1186/s40594-023-00447-2,False,concSearch03,turn36search17
+R343,Implementation of Serious Games for Data Privacy and Protection Awareness in Cybersecurity,https://www.researchgate.net/publication/374221968_Implementation_of_Serious_Games_for_Data_Privacy_and_Protection_Awareness_in_Cybersecurity,False,concSearch03,turn36search18
+R344,"Research papers, master and doctoral theses about educational games",https://shamra-academia.com/en/filter?sortOrder=date&tags=educational+games&type=0,False,concSearch03,turn36search19
+R345,JustifiedAccord,https://www.europeafrica.army.mil/JustifiedAccord/dvpTag/Rhodes/dvpmoduleid/62908/videoid/991918/X%20feed%20link%20-%20go%20to%20our%20X%20profile/,False,concSearch03,turn36search20
+R346,"To Train as We Fight, We Need to Train on the Land We Will Fight | AUSA",https://www.ausa.org/publications/landpower-essays/to-train-as-we-fight,False,concSearch03,turn36search21
+R347,"Program for Wednesday, July 2nd",https://easychair.org/smart-program/DIGRA2025/2025-07-02.html,False,concSearch03,turn36search22
+R348,DCA · Train as you fight,https://www.digitalcombat.academy/,False,concSearch03,turn36search23
+R349,Classification of visualizations and hypotheses in the context of... | Download Scientific Diagram,https://www.researchgate.net/figure/Classification-of-visualizations-and-hypotheses-in-the-context-of-hands-on-cybersecurity_fig3_339577060,False,concSearch03,turn36search24
+R350,"Combined US, coalition force increase combat effectiveness during Indo-Pacific Virtual Flag exercise",https://www.navy.mil/DesktopModules/ArticleCS/Print.aspx?Article=3611677&ModuleId=523&PortalId=1,False,concSearch03,turn36search25
+R351,Does gamification matter?: a systematic mapping about the evaluation of gamification in educational environments,https://www.researchgate.net/publication/326162827_Does_gamification_matter_a_systematic_mapping_about_the_evaluation_of_gamification_in_educational_environments,False,concSearch03,turn36search26
+R352,"Assessment is Essential [1&nbsp;ed.] 9780073378725, 0073378720, 2009012378 - DOKUMEN.PUB",https://dokumen.pub/assessment-is-essential-1nbsped-9780073378725-0073378720-2009012378.html,False,concSearch03,turn36search27
+R353,CTF Training Session Overview shows the progress of individual trainees... | Download Scientific Diagram,https://www.researchgate.net/figure/CTF-Training-Session-Overview-shows-the-progress-of-individual-trainees-during-the_fig5_339577060,False,concSearch03,turn36search28
+R354,"A Wolf, Hyena, and Fox Game to Raise Cybersecurity Awareness Among Pre-school Children",https://www.researchgate.net/publication/353085124_A_Wolf_Hyena_and_Fox_Game_to_Raise_Cybersecurity_Awareness_Among_Pre-school_Children,False,concSearch03,turn36search29
+R355,A (Visual) Novel Route to Learning: A Taxonomy of Teaching Strategies in Visual Novels,https://www.researchgate.net/publication/343062758_A_Visual_Novel_Route_to_Learning_A_Taxonomy_of_Teaching_Strategies_in_Visual_Novels,False,concSearch03,turn36search30
+R356,"Research papers, master and doctoral theses about Educational Games",https://shamra-academia.com/index.php/en/filter?tags=Educational+Games,False,concSearch03,turn36search31
+R357,Understanding gamification mechanisms for software development,https://www.researchgate.net/publication/262361317_Understanding_gamification_mechanisms_for_software_development,False,concSearch03,turn36search32
+R358,Evaluation,https://www.academia.edu/144509428/Evaluation,False,concSearch03,turn36search33
+R359,Cybersecurity Data Analytics Research Papers - Academia.edu,https://www.academia.edu/Documents/in/Cybersecurity_Data_Analytics?page=0,False,concSearch03,turn36search34
+R360,Psychometric Evaluation of the Cybersecurity,https://par.nsf.gov/servlets/purl/10313692,False,alt02,turn37search8
+R361,Sherman et al. win best paper for cybersecurity education – Recent News – Department of Computer Science and Electrical Engineering – UMBC,https://www.csee.umbc.edu/news-events/recent-news/post/134127/,False,alt02,turn37search3
+R362,ACM SIGCSE,https://www.sigcse.org/events/symposia/2023.html,False,alt02,turn37search4
+R363,Gamified or Glorified? A systematic review of serious games for security &amp; privacy in the SDLC,https://904d610b-cbe3-432a-bc6f-14a12a6686b9.eurekamag.com/research/097/352/097352124.php,False,alt02,turn37search5
+R364,Publications | linddun.org,https://linddun.org/publications/,False,alt02,turn37search6
+R365,Applications of educational data mining and learning analytics on data from cybersecurity training,https://kyushu-u.elsevierpure.com/en/publications/applications-of-educational-data-mining-and-learning-analytics-on/,False,concSearch04,turn39search2
+R366,Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training,https://www.muni.cz/en/research/publications/1851598,False,concSearch04,turn39search5
+R367,Starfos | Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training,https://starfos.tacr.cz/en/vysledky-vyzkumu/RIV%2F00216224%3A14610%2F22%3A00125776,False,concSearch04,turn39search6
+R368,What are the Practices for Secret Management in Software Artifacts? | IEEE Conference Publication | IEEE Xplore,https://ieeexplore.ieee.org/abstract/document/9973029,False,securityPapers0,turn41search0
+R369,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts? | Brad Reaves,https://bradreaves.net/publication/bmrw23/,False,securityPapers0,turn41search1
+R370,A Comparative Study of Software Secrets Reporting by Secret Detection Tools | IEEE Conference Publication | IEEE Xplore,https://ieeexplore.ieee.org/abstract/document/10304853,False,securityPapers0,turn41search2
+R371,SecretBench/README.md at main · setu1421/SecretBench · GitHub,https://github.com/setu1421/SecretBench/blob/main/README.md,False,securityPapers0,turn41search3
+R372,SecretBench: A Dataset of Software Secrets | Brad Reaves,https://bradreaves.net/publication/bnrw23b/,False,securityPapers0,turn41search4
+R373,Why secret detection tools are not enough: It’s not just about false positives - An industrial case study,https://pmc.ncbi.nlm.nih.gov/articles/PMC8928718/,False,securityPapers0,turn41search5
+R374,What are the practices for secret management in software artifacts? | Brad Reaves,https://bradreaves.net/publication/bnrw22/,False,securityPapers0,turn41search6
+R375,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?,https://arxiv.org/abs/2301.12377,False,securityPapers0,turn41academia9
+R376,A Comparative Study of Software Secrets Reporting by Secret Detection Tools | Brad Reaves,https://bradreaves.net/publication/bcrw23/,False,securityPapers0,turn41search7
+R377,Publications | Brad Reaves,https://bradreaves.net/publication/,False,securityPapers0,turn41search8
+R378,InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,https://aclanthology.org/2024.findings-acl.624/,False,securityPapers1,turn40search0
+R379,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,https://proceedings.neurips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html,False,securityPapers1,turn40search1
+R380,Formalizing and Benchmarking Prompt Injection Attacks and Defenses,https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei,False,securityPapers1,turn40search2
+R381,Poisoning Language Models During Instruction Tuning,https://proceedings.mlr.press/v202/wan23b.html,False,securityPapers1,turn40search3
+R382,INJECAGENT: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents,https://aclanthology.org/2024.findings-acl.624.pdf,False,securityPapers1,turn40search4
+R383,Formalizing and Benchmarking Prompt Injection Attacks and Defenses,https://www.usenix.org/system/files/usenixsecurity24-liu-yupei.pdf,False,securityPapers1,turn40search5
+R384,AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents,https://proceedings.neurips.cc/paper_files/paper/2024/file/97091a5177d8dc64b1da8bf3e1f6fb54-Paper-Datasets_and_Benchmarks_Track.pdf,False,securityPapers1,turn40search6
+R385,,https://arxiv.org/pdf/2404.16632,False,fullRubric,turn43view0
+R386,JCP | Free Full-Text | A Systematic Literature Review on Non-Player Characters Actions and Characteristics in Serious Games for Cyber Security Education | Notes,https://www.mdpi.com/2624-800X/6/5/155/notes,False,meta01,turn46search2
+R387,Description: A systematic review on adversarial thinking in cyber security education :: Library Catalog,https://iris.sena.edu.co/EdsRecord/bsu%2C191495648?sid=1826192,False,meta01,turn46search4
+R388,Hands-On Training Framework for Prompt Injection Exploits in Large Language Models †,https://researchoutput.ncku.edu.tw/en/publications/hands-on-training-framework-for-prompt-injection-exploits-in-larg/,False,meta01,turn46search5
+R389,Try to esCAPE from cybersecurity incidents! A technology-enhanced educational approach,https://epublications.vu.lt/object/elaba%3A204947708/index.html,False,meta01,turn46search6
+R390,A multi-perspective framework for evaluating software engineering education by assessing students' competencies: SECAT — A software engineering competency assessment tool,https://doi.org/10.1109/FIE.2014.7044331,False,corpus-curado,P002
+R391,The essential competencies of software professionals: A unified competence framework,https://doi.org/10.1016/j.infsof.2022.107020,False,corpus-curado,P003
+R392,Student assessment in cybersecurity training automated by pattern mining and clustering,https://doi.org/10.1007/s10639-022-10954-4,False,corpus-curado,P004
+R393,What Do Capture-the-Flag Competitions Actually Measure? A Psychometric and Competency-Coverage Analysis of Five Editions of a National Cybersecurity Event,https://doi.org/10.3390/electronics15204603,False,corpus-curado,P005
+R394,A framework for designing and certifying ECSF-aligned cybersecurity training through cyber ranges and virtual learning environments,https://doi.org/10.1007/s10207-025-01202-0,False,corpus-curado,P007
+R395,Cyber range design framework for cyber security education and training,https://doi.org/10.1007/s10207-023-00680-4,False,corpus-curado,P008
+R396,Towards NICE-by-Design Cybersecurity Learning Environments: A Cyber Range for SOC Teams,https://doi.org/10.1007/s10922-024-09816-w,False,corpus-curado,P010
+R397,A multimodal and adaptive gamified system to improve cybersecurity competence training,https://doi.org/10.1007/s10586-025-05264-6,False,corpus-curado,P012
+R398,Evaluating the impact of immersive virtual reality in cybersecurity education for user empowerment against cyber threats,https://doi.org/10.1007/s10055-025-01309-8,False,corpus-curado,P013
+R399,Try to esCAPE from Cybersecurity Incidents! A Technology-Enhanced Educational Approach,https://doi.org/10.1007/s10758-024-09769-8,False,corpus-curado,P014
+R400,Exploring a novel approach to cybersecurity: the role of ecological simulations on cybersecurity risk behaviors,https://doi.org/10.1007/s10055-025-01228-8,False,corpus-curado,P015
+R401,A Systematic Literature Review on Non-Player Characters Actions and Characteristics in Serious Games for Cyber Security Education,https://doi.org/10.3390/jcp6050155,False,corpus-curado,P018
+R402,"A Systematic Review of Cyber Range Taxonomies: Trends, Gaps, and a Proposed Taxonomy",https://doi.org/10.3390/fi17060259,False,corpus-curado,P020
+R403,A Systematic Mapping Study on Teaching of Security Concepts in Programming Courses,https://doi.org/10.1109/SEAA64295.2024.00052,False,corpus-curado,P021
+R404,Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students,https://doi.org/10.1145/3545945.3569730,False,corpus-curado,P022
+R405,Security Responses in Software Development,https://doi.org/10.1145/3563211,False,corpus-curado,P025
+R406,Psychometric Evaluation of the Cybersecurity Curriculum Assessment,https://doi.org/10.1145/3545945.3569762,False,corpus-curado,P026
+R407,A systematic review on adversarial thinking in cyber security education: Themes and potential frameworks,https://doi.org/10.1016/j.cose.2025.104803,False,corpus-curado,P027
+R408,Assessment of Red and Blue Team Training in the Cyber Range Tectonic using Process Mining,https://doi.org/10.19153/cleiej.28.5.2,False,corpus-curado,P030
+R409,Hands-On Training Framework for Prompt Injection Exploits in Large Language Models,https://doi.org/10.3390/engproc2025108025,False,corpus-curado,P031
+R410,A systematic literature review of capture the flag (CTF) methodologies in developing cybersecurity competence,https://doi.org/10.20897/ejsteme/19494,False,corpus-curado,P032
+R411,How universities teach cybersecurity courses online: a systematic literature review,https://doi.org/10.3389/fcomp.2024.1499490,False,corpus-curado,P034
+R412,Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC,https://doi.org/10.1016/j.infsof.2025.107850,False,corpus-curado,P035
+R413,Cybersecurity workforce readiness: a three-dimensional assessment and scenario-based intervention framework aligned with NICE,https://doi.org/10.3389/feduc.2026.1958161,False,corpus-curado,P045
+R414,Importance of Cybersecurity Competencies in Higher Education and for Employers,https://doi.org/10.3390/app16073260,False,corpus-curado,P046
+R415,Do LLMs consider security? an empirical study on responses to programming questions,https://doi.org/10.1007/s10664-025-10658-6,False,corpus-curado,P047
+R416,Software engineering competency models and intercultural communication competencies: A systematic literature review,https://doi.org/10.1016/j.jss.2025.112662,False,corpus-curado,P048
+R417,Beyond Technical Skills: Competency Framework for Engineers in the Digital Transformation Era,https://www.mdpi.com/2075-4698/15/8/217,False,corpus-curado,P049
+R418,A Systematic Literature Review of Soft Skills in Information Technology Education,https://www.mdpi.com/2076-328X/14/10/894,False,corpus-curado,P050
+R419,Engineering in the Digital Age: A Career-Level Competency Framework Validated by the Productive Sector,https://www.mdpi.com/2071-1050/17/16/7425,False,corpus-curado,P051
+R420,How to Assess Generic Competencies: From Sustainable Development Needs among Engineering Graduates in Industry,https://www.mdpi.com/2071-1050/14/15/9270,False,corpus-curado,P052
+R421,Flexibility Competence Assessment: A Systematic Literature Review,https://www.mdpi.com/2227-7102/15/9/1118,False,corpus-curado,P053
+R422,Selecting and defining transversal competences for higher education training design,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1533505/full,False,corpus-curado,P054
+R423,"Identifying Key Activities, Artifacts and Roles in Agile Engineering of Secure Software with Hierarchical Clustering",https://www.mdpi.com/2076-3417/13/7/4563,False,corpus-curado,P055
+R424,Agile Development of Secure Software for Small and Medium-Sized Enterprises,https://www.mdpi.com/2071-1050/15/1/801,False,corpus-curado,P056
+R425,Learning Analytics to Guide Serious Game Development: A Case Study Using Articoding,https://www.mdpi.com/2073-431X/14/4/122,False,corpus-curado,P057
+R426,An Ontology-Based Framework for Semantic Representation of the Cyber Range Domain,https://www.mdpi.com/2624-800x/6/2/76,False,corpus-curado,P058
+R427,Architecture of an Efficient Environment Management Platform for Experiential Cybersecurity Education,https://www.mdpi.com/2078-2489/16/7/604,False,corpus-curado,P059
+R428,A Systematic Review of Digital Competence Evaluation in Higher Education,https://www.mdpi.com/2227-7102/14/11/1181,False,corpus-curado,P060
+R429,Analyzing student response processes to refine and validate a competency model and competency-based assessment task types,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1397027/full,False,corpus-curado,P061
+R430,Standardizing course assessment in competency-based higher education: an experience report,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1579124/full,False,corpus-curado,P062
+R431,Enhancing digital skills assessment: introducing compact tools for measuring digital competence,https://link.springer.com/article/10.1007/s10758-025-09825-x,False,corpus-curado,P063
+R432,Integrating multi-layer digital twins into engineering education: a design-based research framework for industry 4.0 competency development,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1925782/full,False,corpus-curado,P064
+R433,Evaluating Online Security Behavior: Development and Validation of a Personal Cybersecurity Awareness Scale for University Students,https://www.mdpi.com/2227-7102/14/6/588,False,corpus-curado,P065
+R434,The Principle of Least Privilege in Microservices: A Systematic Mapping Study,https://www.mdpi.com/2076-3417/16/3/1495,False,corpus-curado,P066
+R435,Secure Programming and Secure Design in DevSecOps: A Literature-Based Conceptual Synthesis,https://www.mdpi.com/2673-8732/6/3/75,False,corpus-curado,P067
+R436,Comparative analysis of EU-based cybersecurity skills frameworks,https://unipub.lib.uni-corvinus.hu/10831/1/1-s2.0-S0167404825000185-main.pdf,False,corpus-curado,P073
+R437,Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education,https://link.springer.com/article/10.1186/s41239-026-00582-0,False,corpus-curado,P074
+R438,Assessing Competencies Using Scenario-Based Learning in Cybersecurity,https://www.mdpi.com/2624-800X/1/4/27,False,corpus-curado,P075
+R439,Toward a Unified Framework for Secure Coding: A Comprehensive Synthesis of Best Practices,https://www.mdpi.com/2073-431X/15/4/220,False,corpus-curado,P076
+R440,Context-Based Support to Enhance Developers’ Learning of Software Security,https://www.mdpi.com/2227-7102/13/7/631,False,corpus-curado,P077
+R441,"Tracking the Gaze of Secure Coders: Behavioral Insights into Attention, Transitions, and Training",https://www.mdpi.com/2624-800X/6/2/75,False,corpus-curado,P078
+R442,Designing SecureAI Curriculum for National Security Needs: The Illinois Tech Program of Study,https://www.mdpi.com/2227-7102/16/2/310,False,corpus-curado,P079
+R443,"Learning to Hack, Playing to Learn: Gamification in Cybersecurity Courses",https://www.mdpi.com/2624-800X/6/1/16,False,corpus-curado,P080
+R444,Integrating Artificial Intelligence into the Cybersecurity Curriculum in Higher Education: A Systematic Literature Review,https://www.mdpi.com/2227-7102/15/11/1540,False,corpus-curado,P081
+R445,Generative AI-Enhanced Intelligent Tutoring System for Graduate Cybersecurity Programs,https://www.mdpi.com/1999-5903/17/4/154,False,corpus-curado,P084
+R446,Generative AI Competency Assessment Strategies and Industry Employability Expectations in Higher Education: A Systematic Review,https://www.mdpi.com/2227-7102/16/10/1583,False,corpus-curado,P085
+R447,From Virtual Worlds to Real-World Equity: A Scoping Review of the Metaverse as Computer-Assisted Learning for STEM Competencies,https://www.mdpi.com/2073-431X/15/4/229,False,corpus-curado,P086
+R448,"From Mapping to Action: SmartRubrics, an AI Tool for Competency-Based Assessment in Engineering Education",https://www.mdpi.com/2071-1050/17/13/6098,False,corpus-curado,P087
+R449,Assessment and Development of Soft Skills for Workplace Internships in Vocational Education and Training: A Systematic Literature Review,https://www.mdpi.com/2076-3387/16/7/318,False,corpus-curado,P088
+R450,A Survey on Web Application Penetration Testing,https://www.mdpi.com/2079-9292/12/5/1229,False,corpus-curado,P089
+R451,GoibhniUWE: A Lightweight and Modular Container-Based Cyber Range,https://www.mdpi.com/2624-800X/4/3/29,False,corpus-curado,P090
+R452,A structural approach to the assessment and development of engineering students’ professional skills,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1661526/full,False,corpus-curado,P091
+R453,"Uncovering the shared skills underlying interdisciplinarity, innovation, and social responsibility through a systematic review of assessment instruments",https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1860884/full,False,corpus-curado,P092
+R454,Perceived and demonstrated generative AI literacy in engineering problem solving: the role of verification behavior,https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1981428/full,False,corpus-curado,P093
+R455,Evaluating the instrumental quality of LLM-generated assessment items,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1837523/full,False,corpus-curado,P094
+R456,Assessing engineering thinking in the context of biology among senior high school students in mainland China: development and validation of a two-tier assessment scale and the relationship between self-efficacy and practical performance,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1591073/full,False,corpus-curado,P095
+R457,Measuring student and educator digital competence beyond self-assessment: Developing and validating two rubric-based frameworks,https://link.springer.com/article/10.1007/s10639-023-12363-7,False,corpus-curado,P098
+R458,"Developing Competencies for Employability: A Systematic Review of Participatory, Situated, and Reflective Practices",https://www.mdpi.com/2071-1050/18/18/9493,False,corpus-curado,P103
+R459,The role of software frameworks in the development of computational thinking in software engineering education: a systematic review,https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1863091/full,False,corpus-curado,P104
+R460,XSShield: Defending Against Stored XSS Attacks Using LLM-Based Semantic Understanding,https://www.mdpi.com/2076-3417/15/6/3348,False,corpus-curado,P105
+R461,"Comparative Analysis of SQL Injection Defense Mechanisms Based on Three Approaches: PDO, PVT, and ART",https://www.mdpi.com/2076-3417/15/23/12351,False,corpus-curado,P106
+R462,LLM-JDFuzz: A Large Language Model-Based Automated Java Deserialization Payload Generation Framework,https://www.mdpi.com/2079-9292/15/5/954,False,corpus-curado,P107
+R463,"Fixing, Breaking, or Faking It? An Execution-Calibrated Evaluation of LLM Vulnerability Patching in JavaScript, Python, Go, and Java, and the Limits of LLM-as-Judge",https://www.mdpi.com/2624-800X/6/5/153,False,corpus-curado,P108
+R464,"Bridging the Gap in Web API Security: A Systematic Review of Vulnerabilities, Misuse Patterns, and Developer Challenges",https://www.mdpi.com/2674-113X/5/2/25,False,corpus-curado,P109
+R465,A Hyperledger Fabric-Based SBOM Management System for Secure Software Supply Chain Integrity,https://www.mdpi.com/2079-9292/15/12/2573,False,corpus-curado,P110
+R466,Evaluating Model Resilience to Data Poisoning Attacks: A Comparative Study,https://www.mdpi.com/2078-2489/17/1/9,False,corpus-curado,P111
+R467,Poisoning Attacks in Federated Learning: An Accountability- Oriented Survey with Centralized Learning as a Baseline,https://www.mdpi.com/2624-800X/6/4/133,False,corpus-curado,P112
+R468,"Below the Waterline: A Survey of Agentic AI Security, Shadow AI Governance, and LLM Supply-Chain Risk in the Enterprise",https://www.mdpi.com/2076-3417/16/20/10412,False,corpus-curado,P113
+R469,Leveraging Static Analysis for Feedback-Driven Security Patching in LLM-Generated Code,https://www.mdpi.com/2624-800X/5/4/110,False,corpus-curado,P114
+R470,Decoding Maliciousness: LLM-Assisted Semantic Filtering for Scalable Malicious PyPI Package Detection,https://www.mdpi.com/2079-9292/15/21/5021,False,corpus-curado,P115
+R471,"Large Language Models in Cybersecurity: A Survey of Applications, Vulnerabilities, and Defense Techniques",https://www.mdpi.com/2673-2688/6/9/216,False,corpus-curado,P116
+R472,Teaching a Hands-On CTF-Based Web Application Security Course,https://www.mdpi.com/2079-9292/11/21/3517,False,corpus-curado,P117
+R473,Design and Development Considerations of a Cyber Physical Testbed for Operational Technology Research and Education,https://www.mdpi.com/1424-8220/24/12/3923,False,corpus-curado,P118
+R474,Using data clustering to reveal trainees’ behavior in cybersecurity education,https://link.springer.com/article/10.1007/s10639-024-12480-x,False,corpus-curado,P119
+R475,Automated feedback for participants of hands-on cybersecurity training,https://link.springer.com/article/10.1007/s10639-023-12265-8,False,corpus-curado,P120
+R476,Poisoning Web-Scale Training Datasets is Practical,https://arxiv.org/pdf/2302.10149,False,corpus-curado,P121
+R477,Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models,https://arxiv.org/pdf/2312.14197,False,corpus-curado,P122
+R478,Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game,https://aima.cs.berkeley.edu/~russell/papers/iclr24-tensor.pdf,False,corpus-curado,P123
+R479,"Scalable Extraction of Training Data from Aligned, Production Language Models",https://proceedings.iclr.cc/paper_files/paper/2025/file/cce0e917b050208170151f77b497fc71-Paper-Conference.pdf,False,corpus-curado,P124
+R480,A Survey of Security Concepts in Introductory Programming Courses in Finland,https://research.abo.fi/ws/files/71344465/3769994.3770028.pdf,False,corpus-curado,P126
+R481,An Educational Escape Room Game to Develop Cybersecurity Skills,https://www.mdpi.com/2073-431X/13/8/205,False,corpus-curado,P127
+R482,"Bridging Cybersecurity Practice and Law: A Hands-On, Scenario-Based Curriculum Using the NICE Framework to Foster Skill Development",https://www.mdpi.com/2624-800X/5/4/106,False,corpus-curado,P128
+R483,Immersive Tools in Engineering Education—A Systematic Review,https://www.mdpi.com/2076-3417/15/11/6339,False,corpus-curado,P130
+R484,Pedagogical Foundations of Immersive Virtual Reality for Programming Education: A Critical Review and Conceptual Framework,https://www.mdpi.com/2078-2489/17/9/843,False,corpus-curado,P131
+R485,"Extended Reality in Computer Science Education: A Narrative Review of Pedagogical Benefits, Challenges, and Future Directions",https://www.mdpi.com/2813-2084/4/4/56,False,corpus-curado,P132
+R486,"Privacy, Trust, and Security in Extended Reality for Education—Challenges, Frameworks, and Future Directions: A Systematic Literature Review",https://www.mdpi.com/2076-3417/16/20/10341,False,corpus-curado,P133
+R487,"Virtual Classrooms, Real Impact: A Framework for Introducing Virtual Reality to K–12 STEM Learning Based on Best Practices",https://www.mdpi.com/2076-3417/15/21/11356,False,corpus-curado,P134
+R488,What are the practices for secret management in software artifacts?,https://bradreaves.net/publication/bnrw22/bnrw22.pdf,False,revision-competencias-2026-11-16,
+R489,What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?,https://arxiv.org/pdf/2301.12377,False,revision-competencias-2026-11-16,
+R490,A Comparative Study of Software Secrets Reporting by Secret Detection Tools,https://bradreaves.net/publication/bcrw23/bcrw23.pdf,False,revision-competencias-2026-11-16,
+R491,SecretBench: A Dataset of Software Secrets,https://bradreaves.net/publication/bnrw23b/bnrw23b.pdf,False,revision-competencias-2026-11-16,
+R492,Identifying Gaps in the Secure Programming Knowledge and Skills of Students,https://majedalmansoori.com/papers/Lam_SIGCSE22.pdf,False,revision-competencias-2026-11-16,
+R493,Software Security during Modern Code Review: The Developer’s Perspective,https://arxiv.org/pdf/2208.04261,False,revision-competencias-2026-11-16,
+R494,The Software Assurance Competency Model: A Roadmap to Enhance Individual Professional Capability,https://www.sei.cmu.edu/documents/454/2013_019_001_299154.pdf,False,revision-competencias-2026-11-16,

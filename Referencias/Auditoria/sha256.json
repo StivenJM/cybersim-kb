@@ -1,0 +1,902 @@
+[
+  {
+    "path": "Arquitectura/Análisis crítico de los estudios centrales.md",
+    "sha256": "972a4a87a2242d34434dd77e5f03a4e392cb969cc5aa42a5ec3971373e1da4e0",
+    "bytes": 9370
+  },
+  {
+    "path": "Arquitectura/Competencias frente a las familias de ataques.md",
+    "sha256": "298f0569e85bd9df0cc83c5d607537acceeafa245cd5351cbabdbcccd4d5a496",
+    "bytes": 13162
+  },
+  {
+    "path": "Arquitectura/Correspondencia de competencias de Assyne con CyberSim.md",
+    "sha256": "14b9d4d7b245dfb078645fbb90124cbc1c5ad75d54c2c7fe68891a4fd9a5ddf7",
+    "bytes": 13007
+  },
+  {
+    "path": "Arquitectura/Del desempeño a la competencia del perfil.md",
+    "sha256": "3d7a72a4c8b857d00a7cf289f02618c682a1a565b8275951de139a1131f461b4",
+    "bytes": 8491
+  },
+  {
+    "path": "Arquitectura/Estado comprobado del código de CyberSim.md",
+    "sha256": "a5985bcbe1aa0d2ef5de9f8d724c81793ec3893f01e9bf18ef6423999b531987",
+    "bytes": 4571
+  },
+  {
+    "path": "Arquitectura/Evaluación de competencias en escenarios 3D.md",
+    "sha256": "545ee1a9aea87fb4257c8c0eed52c8f76ccfd6ac51c2adf430869b27509f5f1b",
+    "bytes": 5913
+  },
+  {
+    "path": "Arquitectura/Fundamento de las competencias de seguridad de CyberSim.md",
+    "sha256": "fe61be46b3c72b7751927be2e558bd1df0285ea75a3addc6cf6674c64ba3c222",
+    "bytes": 13715
+  },
+  {
+    "path": "Arquitectura/Guía para evaluar las competencias de seguridad.md",
+    "sha256": "894bd466846368fe54db1871da9854cc370454f98f0c02ada0fb3e224a32692e",
+    "bytes": 17631
+  },
+  {
+    "path": "Arquitectura/Modelo de evidencia y validación.md",
+    "sha256": "b37ad406d78dc7980180fa26430133d32f41bc5d6c4c242997a8c58dfc988837",
+    "bytes": 9909
+  },
+  {
+    "path": "Arquitectura/Plan de cobertura del perfil.md",
+    "sha256": "1eeea579b28997ec080e5c835f6a13cc2dde01cc39d0400a238face32750c163",
+    "bytes": 8432
+  },
+  {
+    "path": "Arquitectura/Revisión del escenario AndinaPay.md",
+    "sha256": "995b0e28646eea1f600a6b6e3d918bcb53f4f7218b8e6544c718b88578321d7f",
+    "bytes": 9649
+  },
+  {
+    "path": "Arquitectura/Ruta de programación de CyberSim.md",
+    "sha256": "54b92d7273bfa6c0e27a22c3197440ba78ac8b0e6825f35293c2071001ecc976",
+    "bytes": 8519
+  },
+  {
+    "path": "Arquitectura/Selección y adaptación de marcos de competencias.md",
+    "sha256": "3ebb344f2c19ee296630681ef1988efe757ec084877a344dca819420d1b99b53",
+    "bytes": 5020
+  },
+  {
+    "path": "Arquitectura/Síntesis de decisiones para CyberSim.md",
+    "sha256": "1f666c5d21ef37146929e98c0da188b0de4b8fa1da355771c573710b597cb566",
+    "bytes": 6511
+  },
+  {
+    "path": "Estado del arte.md",
+    "sha256": "e8171a4f72a1e32276970ef982d7e17c017a9c3879371e2d5f0fe6dd876b5602",
+    "bytes": 2153
+  },
+  {
+    "path": "Papers/AgentDojo - Seguridad y utilidad por separado/AgentDojo - Seguridad y utilidad por separado.md",
+    "sha256": "e1871b4e3d04610f2a6030bba4954505a566503e1c653110c125fc12df6a3b1c",
+    "bytes": 3337
+  },
+  {
+    "path": "Papers/AgentDojo - Seguridad y utilidad por separado/AgentDojo - Seguridad y utilidad por separado.pdf",
+    "sha256": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+    "bytes": 1042076
+  },
+  {
+    "path": "Papers/Agentes - Identidad visibilidad y procedencia/Agentes - Identidad visibilidad y procedencia.md",
+    "sha256": "d0c66f1aaa1fa1f64616b50714b2230c6ed9313a3f39c810286ff9012dac2de6",
+    "bytes": 1331
+  },
+  {
+    "path": "Papers/Almansoori - Componentes del razonamiento seguro/Almansoori - Componentes del razonamiento seguro.md",
+    "sha256": "2b43e0ac2389a0c7284b4877d1999ced1cc83de25d1b72d934e4a6e14cdb858b",
+    "bytes": 3466
+  },
+  {
+    "path": "Papers/Almansoori - Componentes del razonamiento seguro/Almansoori - Componentes del razonamiento seguro.pdf",
+    "sha256": "96a3243979d9f92f269925b5135123f4d3aad37dcff4d0943f8261ffe2e71a1b",
+    "bytes": 130030
+  },
+  {
+    "path": "Papers/Amenazas - Comparación de herramientas automáticas/Amenazas - Comparación de herramientas automáticas.md",
+    "sha256": "faf74d6c996de1e2e3fc9416305f1808292b80ae19e7a409179e98676ea930cb",
+    "bytes": 1985
+  },
+  {
+    "path": "Papers/Analítica - Datos de entrenamiento en ciberseguridad/Analítica - Datos de entrenamiento en ciberseguridad.md",
+    "sha256": "af82779355d54525bf4964084652daeec0eb7ff18d4e5872de930285b28b3924",
+    "bytes": 1356
+  },
+  {
+    "path": "Papers/Anti-Phishing AG - Juego web tridimensional/Anti-Phishing AG - Juego web tridimensional.md",
+    "sha256": "19de6d20999f5df43cc7f7cd8463baccaa68ccf27d9fe36f723098569300aedc",
+    "bytes": 1278
+  },
+  {
+    "path": "Papers/API - Vulnerabilidades y dificultades del desarrollador/API - Vulnerabilidades y dificultades del desarrollador.md",
+    "sha256": "f3fe34e63430d44b5d17be4c90e9b2481ea0c2b63b1eadb4e8e3228268ea988a",
+    "bytes": 1285
+  },
+  {
+    "path": "Papers/Aprendizaje federado - Evidencia y responsabilidad/Aprendizaje federado - Evidencia y responsabilidad.md",
+    "sha256": "0b92d7cc69ddfa3cce0d5c1d1f8203e4e9f78e0e298895e67ba9948b5fb026f4",
+    "bytes": 1326
+  },
+  {
+    "path": "Papers/Articoding - Analítica para revisar tareas/Articoding - Analítica para revisar tareas.md",
+    "sha256": "7f7b7adbce0fa83e71ceb3c62924eb4661956095e6732e5dbdcd8262f7e511fa",
+    "bytes": 1274
+  },
+  {
+    "path": "Papers/Assyne - Estado de competencias de software/Assyne - Estado de competencias de software.md",
+    "sha256": "ad989c787325bd2c5197434d5141ee59afdceb5c48e9f605c54a559eedd2185b",
+    "bytes": 3153
+  },
+  {
+    "path": "Papers/BIPIA - Límites entre instrucciones y datos/BIPIA - Límites entre instrucciones y datos.md",
+    "sha256": "c6c689bb2170e087a6823d2e784a075eeb1d09dd808307b751f76edce0a2dac5",
+    "bytes": 1208
+  },
+  {
+    "path": "Papers/Braz y Bacchelli - Seguridad en revisión de código/Braz y Bacchelli - Seguridad en revisión de código.md",
+    "sha256": "0686491452c956c00c4cd6f76392c6b7458983502698b544aa162c6b6304bdd1",
+    "bytes": 2150
+  },
+  {
+    "path": "Papers/C-A&M - Alineación de evaluación por competencias/C-A&M - Alineación de evaluación por competencias.md",
+    "sha256": "7154bc9b90d83883aea941b1838b9c0af6175165ff57886eb37c9d6e47878706",
+    "bytes": 2214
+  },
+  {
+    "path": "Papers/CAPE - Incidentes y escape room híbrido/CAPE - Incidentes y escape room híbrido.md",
+    "sha256": "350337dc287b86c7b7cd9831acf7abfecfc51c55e8639d7620183ff4c89bf041",
+    "bytes": 1387
+  },
+  {
+    "path": "Papers/CCA - Evaluación conceptual avanzada/CCA - Evaluación conceptual avanzada.md",
+    "sha256": "e4158f97aaf613b3312c427a6c6bf0cce1ce007ddcf4e999f7828e51a6839d50",
+    "bytes": 1386
+  },
+  {
+    "path": "Papers/Certificación - LLM frente a preguntas teóricas/Certificación - LLM frente a preguntas teóricas.md",
+    "sha256": "cb34535e1ada6dce340cca7034877cb549aaf0939c0b522ccac47855075844a5",
+    "bytes": 2002
+  },
+  {
+    "path": "Papers/Ciberseguridad - Aprender verificando respuestas de LLM/Ciberseguridad - Aprender verificando respuestas de LLM.md",
+    "sha256": "b4255594ae7597d031b61aa656f4b1278a4dac13359a54c0347b5fb69c2bef70",
+    "bytes": 2040
+  },
+  {
+    "path": "Papers/Ciberseguridad - Integración curricular de IA/Ciberseguridad - Integración curricular de IA.md",
+    "sha256": "0036040483e30a7aa0873dd29971486fbba9ac645c69cea3a9357e5a85f94560",
+    "bytes": 1358
+  },
+  {
+    "path": "Papers/Ciberseguridad - Juego y enseñanza supervisada/Ciberseguridad - Juego y enseñanza supervisada.md",
+    "sha256": "c915141eac8feb4c2b8e5578c72ae9f20bd6f1bb51a3fa2beaf6cef9d3ecfbd7",
+    "bytes": 1299
+  },
+  {
+    "path": "Papers/Competencia digital - Límites de su evaluación/Competencia digital - Límites de su evaluación.md",
+    "sha256": "7a5ac005aa84e4277d41a6a11d88d4e793a701856bf1cec9ce222f6860c3bab8",
+    "bytes": 1313
+  },
+  {
+    "path": "Papers/Competencia profesional - Práctica situada y reflexión/Competencia profesional - Práctica situada y reflexión.md",
+    "sha256": "c1e17a397d3577230d8ea717483bd90c95a9bef1798d8f5a2802ce4129683bdd",
+    "bytes": 2042
+  },
+  {
+    "path": "Papers/Competencias - Solapamiento de instrumentos transversales/Competencias - Solapamiento de instrumentos transversales.md",
+    "sha256": "023fd26d19cb4c80893bb42ffc3a1ce078b89c2c706105e14bba826493c92b6a",
+    "bytes": 2135
+  },
+  {
+    "path": "Papers/CRDF - Arquitectura y ciclo de ejercicios/CRDF - Arquitectura y ciclo de ejercicios.md",
+    "sha256": "99957411cc3e4d1f6e67fe8bc7b9281e7774cde63086180830ae1daf3892a1cc",
+    "bytes": 1373
+  },
+  {
+    "path": "Papers/CTF - Certeza de la evidencia educativa/CTF - Certeza de la evidencia educativa.md",
+    "sha256": "bf2e5a0ed1f0e5218d8fe575d870fe3ee08748c5fd391a42ea11a438264f28af",
+    "bytes": 2678
+  },
+  {
+    "path": "Papers/CTF - Certeza de la evidencia educativa/CTF - Certeza de la evidencia educativa.pdf",
+    "sha256": "a65fe222cfdf299dc5f0723c8d7fec8e8f132a5ab3a6f3ab7c171a4732862c9e",
+    "bytes": 370513
+  },
+  {
+    "path": "Papers/CTF - Límites de la puntuación competitiva/CTF - Límites de la puntuación competitiva.md",
+    "sha256": "247bfd504f62753b2f6f1ccf7d44e9516ffc5e4a589ad0081ed89b93fbc28205",
+    "bytes": 2420
+  },
+  {
+    "path": "Papers/Cursos online - Revisión universitaria de ciberseguridad/Cursos online - Revisión universitaria de ciberseguridad.md",
+    "sha256": "05f60f7d616cb0cc031f26de483172d9c28f09c423a6a31da3916e4adb7d1686",
+    "bytes": 1322
+  },
+  {
+    "path": "Papers/Cyber range - Clusters para revisar escenarios/Cyber range - Clusters para revisar escenarios.md",
+    "sha256": "05162ee41a82462668746f6c1ece5312213e440af54ee59750c4933c87585358",
+    "bytes": 1239
+  },
+  {
+    "path": "Papers/Cyber range - Retroalimentación automática/Cyber range - Retroalimentación automática.md",
+    "sha256": "33e26e5aa8f06675a947f4996bb7fc55b1f141ba646c94f72e10e59e0344b175",
+    "bytes": 1331
+  },
+  {
+    "path": "Papers/Cyber ranges - Lecciones entre niveles educativos/Cyber ranges - Lecciones entre niveles educativos.md",
+    "sha256": "bc88f7a03ef2035aa5cf2663158f6463ccaae49acbd5685562574987c57f7eeb",
+    "bytes": 1366
+  },
+  {
+    "path": "Papers/Cyber ranges - Ontología de capacidades/Cyber ranges - Ontología de capacidades.md",
+    "sha256": "6fd0993e8d29181b9b5d293e1586cac620dbcc0cdca5a7fa67b4f5419c1273ba",
+    "bytes": 2007
+  },
+  {
+    "path": "Papers/CyberSense - Evaluación adaptativa y transparencia/CyberSense - Evaluación adaptativa y transparencia.md",
+    "sha256": "540f2dc7977e6987bd7773d7e9dba52492d61e9f5f39d548eb0e3e980e1b0ceb",
+    "bytes": 1404
+  },
+  {
+    "path": "Papers/Código de LLM - Parches guiados por análisis estático/Código de LLM - Parches guiados por análisis estático.md",
+    "sha256": "4b46e9d74f7807ba4c7c379d53e9bd6e6670b4b5f72ee36419d5b8a0fc7702c6",
+    "bytes": 1250
+  },
+  {
+    "path": "Papers/Código seguro - Estudio de atención visual/Código seguro - Estudio de atención visual.md",
+    "sha256": "84d81970231f1577828bed42f711c77f5b645da8929fd0c2a1f34312cdd20bd6",
+    "bytes": 1974
+  },
+  {
+    "path": "Papers/Código seguro - Síntesis de prácticas/Código seguro - Síntesis de prácticas.md",
+    "sha256": "6c433dffbffc0c351a4cde5ee1ed1e857862d9aa4c7708e7d52a8ca708e3edf4",
+    "bytes": 1966
+  },
+  {
+    "path": "Papers/Datasets web - Mutabilidad y envenenamiento/Datasets web - Mutabilidad y envenenamiento.md",
+    "sha256": "1bfc8877877b8cca6980a0434f4070e90b4c31d3018a4ee3482f13eed8c103d3",
+    "bytes": 1170
+  },
+  {
+    "path": "Papers/De CTF a competencias - Revisión de plataformas/De CTF a competencias - Revisión de plataformas.md",
+    "sha256": "55473b60ebdebd43db917c264120b4f6da8dc45646c82f56ec4e6878b0457aea",
+    "bytes": 1363
+  },
+  {
+    "path": "Papers/Desarrollo seguro - Actividades artefactos y roles/Desarrollo seguro - Actividades artefactos y roles.md",
+    "sha256": "dda972c5ccd62a1c54d4d20f524ec47d73b08da752fce4b1105ab593dd4f4af2",
+    "bytes": 2003
+  },
+  {
+    "path": "Papers/Desarrollo seguro - Clima organizacional/Desarrollo seguro - Clima organizacional.md",
+    "sha256": "899b294c2c89164861bb935d9519a188eacc8201191c5fb170774379f022f4d4",
+    "bytes": 2008
+  },
+  {
+    "path": "Papers/Deserialización - Generación y verificación de casos/Deserialización - Generación y verificación de casos.md",
+    "sha256": "07bacdb060b9e055aadafb2ccbad012ea2d4bd0497545402a53a367ed4cb36d2",
+    "bytes": 1211
+  },
+  {
+    "path": "Papers/DevSecOps - Evidencia entre diseño y código/DevSecOps - Evidencia entre diseño y código.md",
+    "sha256": "aace5da2868719825da73d9394f288893e1254693c4fee5797bf89e226a7e255",
+    "bytes": 1984
+  },
+  {
+    "path": "Papers/DigComp - Instrumentos compactos de evaluación/DigComp - Instrumentos compactos de evaluación.md",
+    "sha256": "4d85297fb7812745a43f738225c5116234a2bc4b03ad72b5b864acf3d86aef44",
+    "bytes": 1323
+  },
+  {
+    "path": "Papers/DigComp - Rúbricas con desempeño externo/DigComp - Rúbricas con desempeño externo.md",
+    "sha256": "bf90e2a4b28da689fb8d7d414f9699fa803f5455acc64a47291d8a3a919105c9",
+    "bytes": 2072
+  },
+  {
+    "path": "Papers/EDURange - Intervención docente desde trazas/EDURange - Intervención docente desde trazas.md",
+    "sha256": "f378203233ed5208e349a6f1e933e98049aa5b04ec4e09eeaeb63742a9aff5e5",
+    "bytes": 1331
+  },
+  {
+    "path": "Papers/Envenenamiento - Comparación de modelos/Envenenamiento - Comparación de modelos.md",
+    "sha256": "60d135a31e3a4954de6340db2e855219cd3acea61c481b1038036f66b5882876",
+    "bytes": 1177
+  },
+  {
+    "path": "Papers/Escape room - Conciencia y experiencia educativa/Escape room - Conciencia y experiencia educativa.md",
+    "sha256": "71877904ea8f61f3a24aa2110984bb474f2719e14e3ef3caa0c37d0959bf3395",
+    "bytes": 1205
+  },
+  {
+    "path": "Papers/Escenarios - Preguntas y artefactos para evaluar/Escenarios - Preguntas y artefactos para evaluar.md",
+    "sha256": "af1a4e4fc6d4264e731b430eae19b5fba0ed6539afd47cc82fd8baedd9897a76",
+    "bytes": 2084
+  },
+  {
+    "path": "Papers/Europa - Comparación de marcos de ciberseguridad/Europa - Comparación de marcos de ciberseguridad.md",
+    "sha256": "426f5a1115e2d50020fb677c583707c8d3390964ab61f58db1961a2b0a49fa35",
+    "bytes": 2030
+  },
+  {
+    "path": "Papers/Finlandia - Seguridad en cursos iniciales/Finlandia - Seguridad en cursos iniciales.md",
+    "sha256": "6d688da5ac7cdfb642fd2351ed6060ca9538c19091395222c3cc28f823b04de8",
+    "bytes": 2085
+  },
+  {
+    "path": "Papers/Flexibilidad - Revisión de instrumentos/Flexibilidad - Revisión de instrumentos.md",
+    "sha256": "1f7506ae9befce320498cbf7f6f573f3b642b19ed4c0c834381630597a2d82e3",
+    "bytes": 1948
+  },
+  {
+    "path": "Papers/Gamificación multimodal - Propuesta sin ensayo educativo/Gamificación multimodal - Propuesta sin ensayo educativo.md",
+    "sha256": "dd43710d5fe2755ca8cb2d90fb44e21559a0ff1f577a62c577e55e09dfe31c24",
+    "bytes": 1330
+  },
+  {
+    "path": "Papers/Gemelos digitales - Demostración y atribución individual/Gemelos digitales - Demostración y atribución individual.md",
+    "sha256": "d04bbb4fda3f94e2620865381b93114a72072dde3020a252d9913ef874bfe293",
+    "bytes": 1480
+  },
+  {
+    "path": "Papers/GenAI - Competencia percibida y demostrada/GenAI - Competencia percibida y demostrada.md",
+    "sha256": "370b4e24590d2b60fc3c3ca80c238ef1577652bb8eae93ccd6662ce115c6001b",
+    "bytes": 2140
+  },
+  {
+    "path": "Papers/GenAI - Evaluación frente a expectativas laborales/GenAI - Evaluación frente a expectativas laborales.md",
+    "sha256": "1edb792e9d2f2e7e0b68c727a231d8882fa9b572ca57b86cdb61d0735792e68f",
+    "bytes": 2048
+  },
+  {
+    "path": "Papers/Generalizabilidad - Ausencia de respuestas/Generalizabilidad - Ausencia de respuestas.md",
+    "sha256": "12c1b22282855b2449b567f5a6b4134ecda03d24c3b8003bab5327cce183e5a6",
+    "bytes": 1284
+  },
+  {
+    "path": "Papers/GENESIS - Evaluación de informática con IA/GENESIS - Evaluación de informática con IA.md",
+    "sha256": "35da11881cfde99fbc128bdba3c7cc9a9af59c68eb40d2ee08551e8daef64c84",
+    "bytes": 2088
+  },
+  {
+    "path": "Papers/Glas - Complejidad y aprendizaje en cyber ranges/Glas - Complejidad y aprendizaje en cyber ranges.md",
+    "sha256": "72d7f18ea103a91e7420bdf9ec4cd11ccf370000757f317392de11ba779aebd4",
+    "bytes": 1409
+  },
+  {
+    "path": "Papers/GoibhniUWE - Laboratorio modular instrumentado/GoibhniUWE - Laboratorio modular instrumentado.md",
+    "sha256": "e532858a79a4d7e125590c76da851b1434835b17b0a715979bba0844e8defbc1",
+    "bytes": 1227
+  },
+  {
+    "path": "Papers/Industria y universidad - Competencias por contexto/Industria y universidad - Competencias por contexto.md",
+    "sha256": "9f6c276bbe69de5a5ac1e2f790be4884eea15183f3d499d8bac929ef72c71443",
+    "bytes": 2081
+  },
+  {
+    "path": "Papers/Informática - Calidad de ítems generados por LLM/Informática - Calidad de ítems generados por LLM.md",
+    "sha256": "3c30873e0cc5306274cf1ed2f9b30634607ae282e4aa51de658f6bf21f369731",
+    "bytes": 2095
+  },
+  {
+    "path": "Papers/Informática - Factores de competencia integrada/Informática - Factores de competencia integrada.md",
+    "sha256": "3f74e1f79a6b06d620853c3f641ab80ee78ba6fe9b5267180b70718d3046aafa",
+    "bytes": 1388
+  },
+  {
+    "path": "Papers/Informática - Revisión de aprendizaje mediante juegos/Informática - Revisión de aprendizaje mediante juegos.md",
+    "sha256": "21e0f692ef52e7d1996ec48bfc519aed45031c9c7d7932f4218d09ba0315a5d5",
+    "bytes": 2012
+  },
+  {
+    "path": "Papers/Informática - Revisión de habilidades transversales/Informática - Revisión de habilidades transversales.md",
+    "sha256": "f0c7f146619ee0bb048dac7df97f9b247ea6bf97fd5bf452511684510a5dc647",
+    "bytes": 1338
+  },
+  {
+    "path": "Papers/Informática - Revisión narrativa de XR/Informática - Revisión narrativa de XR.md",
+    "sha256": "3ee4678fe6b80795c2386bff56df6c10848e86b6b97e8a0a5b5880532e5affef",
+    "bytes": 1281
+  },
+  {
+    "path": "Papers/Ingeniería - Competencias por etapa profesional/Ingeniería - Competencias por etapa profesional.md",
+    "sha256": "943de13c87cfd5077827142e834a314e4051642a630da008f86801a60470f85a",
+    "bytes": 1986
+  },
+  {
+    "path": "Papers/Ingeniería - Confianza frente a aplicación práctica/Ingeniería - Confianza frente a aplicación práctica.md",
+    "sha256": "2fe6055b11dc82c8f93887ae16c0d1f8d08dd978e2243be11fd5ddf96b059823",
+    "bytes": 1447
+  },
+  {
+    "path": "Papers/Ingeniería - Entorno y desarrollo profesional/Ingeniería - Entorno y desarrollo profesional.md",
+    "sha256": "bbb1da2b44e23dc427bfc9f23c2a188a6926b469d8e7b8bf3a824b38f7123697",
+    "bytes": 2094
+  },
+  {
+    "path": "Papers/Ingeniería - Revisión de herramientas inmersivas/Ingeniería - Revisión de herramientas inmersivas.md",
+    "sha256": "162bfcc54e70980a6317e8e23218bfe91c3d5bb7cfdbc5d80b4222db3e26524c",
+    "bytes": 1204
+  },
+  {
+    "path": "Papers/Ingeniería - Revisión de modelos de competencias/Ingeniería - Revisión de modelos de competencias.md",
+    "sha256": "3579713197154fd37eaf31268663f75c6e88b3ad9191315a759ef840695362a9",
+    "bytes": 1286
+  },
+  {
+    "path": "Papers/Ingeniería - Validación de competencias genéricas/Ingeniería - Validación de competencias genéricas.md",
+    "sha256": "81d4797cab5febaef8a02d3a820fc15f0486fe2045bf5a72a28b55b42909dec8",
+    "bytes": 2006
+  },
+  {
+    "path": "Papers/InjecAgent - Fronteras de instrucciones y datos/InjecAgent - Fronteras de instrucciones y datos.md",
+    "sha256": "7580ea1c59a96db6717beaa70f675ba5d18a36cf9634e1dd24e5d9ac2e1b91ca",
+    "bytes": 1275
+  },
+  {
+    "path": "Papers/Intervention Mapping - Diseño educativo de ciberseguridad/Intervention Mapping - Diseño educativo de ciberseguridad.md",
+    "sha256": "4e4ed1006f872d6f63f0f5851821b11ea681f98b93b9ea2eb253f914317a8fd1",
+    "bytes": 2244
+  },
+  {
+    "path": "Papers/Inventarios STEM - Diseño y evidencia de validez/Inventarios STEM - Diseño y evidencia de validez.md",
+    "sha256": "f427b281a1872be7d8af5e7606df86dcd17f4afff14b9abbf899397c4bcaabe7",
+    "bytes": 2152
+  },
+  {
+    "path": "Papers/Juegos - Revisión de conciencia de seguridad/Juegos - Revisión de conciencia de seguridad.md",
+    "sha256": "3901d869caf1d71b8a0f18fc7d7244d4fcc996f3f40c9e34550d9d74f7332d69",
+    "bytes": 1369
+  },
+  {
+    "path": "Papers/Laboratorios - Gestión reproducible del entorno/Laboratorios - Gestión reproducible del entorno.md",
+    "sha256": "88a5415c1ddef30436a79cd62a91ecc03cb352346e5a7f713381978340a88ee2",
+    "bytes": 1223
+  },
+  {
+    "path": "Papers/Lam - Diagnóstico y corrección de código inseguro/Lam - Diagnóstico y corrección de código inseguro.md",
+    "sha256": "59931f4c0f354817dff206e1e96343bb628d4fa8ae95506be5719d46bb69ab89",
+    "bytes": 3283
+  },
+  {
+    "path": "Papers/LifeComp - Selección contextual de competencias/LifeComp - Selección contextual de competencias.md",
+    "sha256": "c61ace1bec246925b370ccf63ddf63ad4ea695cc1373587a92bd6f418b0fe254",
+    "bytes": 2118
+  },
+  {
+    "path": "Papers/LLM - Aplicaciones y amenazas de seguridad/LLM - Aplicaciones y amenazas de seguridad.md",
+    "sha256": "72c05d79e5de708f57541f5a79ec2b900fec99e6f8d27615e9d4c29490a3cad0",
+    "bytes": 1258
+  },
+  {
+    "path": "Papers/LLM - Entrenamiento práctico de prompt injection/LLM - Entrenamiento práctico de prompt injection.md",
+    "sha256": "560440288c6f2a2ab6b111d440a2190267771e314133bd44b1662ebe6eda9588",
+    "bytes": 2332
+  },
+  {
+    "path": "Papers/LLM - Extracción de datos memorizados/LLM - Extracción de datos memorizados.md",
+    "sha256": "d6a59405c25fa3773b62acf0ee568505fb37d6322afeceb31b9b7b055c875a9c",
+    "bytes": 1302
+  },
+  {
+    "path": "Papers/LLM - Seguridad de respuestas de programación/LLM - Seguridad de respuestas de programación.md",
+    "sha256": "d31ff8cad999194dbb22d53033616439577f37c5563b2b296990219c2f4ca3fb",
+    "bytes": 1408
+  },
+  {
+    "path": "Papers/Mayberry - Evidencias en educación de ciberseguridad/Mayberry - Evidencias en educación de ciberseguridad.md",
+    "sha256": "52cc919c2e4eb5b07640f305f243e062fefb1ef19f7b006dfc1804107fb6a064",
+    "bytes": 1412
+  },
+  {
+    "path": "Papers/Mead y Shoemaker - Competencias de aseguramiento de software/Mead y Shoemaker - Competencias de aseguramiento de software.md",
+    "sha256": "6933985b1a56292a8d0bdc9de4a82979a20d9b8b88ff51ecb063941408b37493",
+    "bytes": 2896
+  },
+  {
+    "path": "Papers/Metaverso - Competencias e inclusión en STEM/Metaverso - Competencias e inclusión en STEM.md",
+    "sha256": "bbde038716b1bf051f69c90bc2baba27bcde040890f24fa7ab8f7b1cc167bfd9",
+    "bytes": 1368
+  },
+  {
+    "path": "Papers/Microservicios - Mínimo privilegio/Microservicios - Mínimo privilegio.md",
+    "sha256": "2bb1f81ae0dfc80851906eb713a1b9347e5b189b41b54946d18837ac31504ad9",
+    "bytes": 1260
+  },
+  {
+    "path": "Papers/Modelado - Validación con procesos de respuesta/Modelado - Validación con procesos de respuesta.md",
+    "sha256": "7e8bdb8ba735dcb6b8661805ec00d99603cf1003ec864be1b567e00ef01330ad",
+    "bytes": 3115
+  },
+  {
+    "path": "Papers/NICE - Escenarios técnicos y legales en pymes/NICE - Escenarios técnicos y legales en pymes.md",
+    "sha256": "4dbf68ef22f43ecc877a6034efba344cf3cdc62d90baf846fe3c308244d82306",
+    "bytes": 2068
+  },
+  {
+    "path": "Papers/NICE-by-design - Diseño trazable de escenarios/NICE-by-design - Diseño trazable de escenarios.md",
+    "sha256": "76aeff673f9b477a677d6376632232b18698f43a07f80cb1823dbf1a63228cd6",
+    "bytes": 2991
+  },
+  {
+    "path": "Papers/NPC - Revisión de apoyo y evaluación/NPC - Revisión de apoyo y evaluación.md",
+    "sha256": "7f0a8cfa53682ddf9d090a58c59efc407fbcf6a668b80cdaa21c8bebb04c2eeb",
+    "bytes": 1379
+  },
+  {
+    "path": "Papers/Paquetes - Detección de software malicioso/Paquetes - Detección de software malicioso.md",
+    "sha256": "10517932c4b09cf328f9b4592c3efc5db50b1d9b1c2daf41b70580576ce61a59",
+    "bytes": 1210
+  },
+  {
+    "path": "Papers/Parches - Validez del juez frente a ejecución/Parches - Validez del juez frente a ejecución.md",
+    "sha256": "4c5e61ca464698a0e8a6e5fbddd2a4aadc06f4dd069bc1955e6bac5fe9e473c1",
+    "bytes": 2525
+  },
+  {
+    "path": "Papers/Pensamiento adversarial - Síntesis educativa/Pensamiento adversarial - Síntesis educativa.md",
+    "sha256": "8b134fd0e672ba028a51d739dc2d76203f20ada3af91a2841564c6a690575487",
+    "bytes": 1429
+  },
+  {
+    "path": "Papers/Poisoning - Datos de ajuste de instrucciones/Poisoning - Datos de ajuste de instrucciones.md",
+    "sha256": "ab63e7c2e5b3977c6cf9acdb25eb3b3c844269417dbd83e67ac7391e739885c5",
+    "bytes": 3070
+  },
+  {
+    "path": "Papers/Poisoning - Datos de ajuste de instrucciones/Poisoning - Datos de ajuste de instrucciones.pdf",
+    "sha256": "beb20c4d79bf233da6de2523c20245d1df068ba16301e1655ad17d8a70c8fdf9",
+    "bytes": 548686
+  },
+  {
+    "path": "Papers/Process mining - Dataset de comportamiento/Process mining - Dataset de comportamiento.md",
+    "sha256": "04b33418794a170537086b5002338fc7e3028cf8ccdf5d592fe45bac143b71b9",
+    "bytes": 1303
+  },
+  {
+    "path": "Papers/Programación - Fundamentos pedagógicos del 3D/Programación - Fundamentos pedagógicos del 3D.md",
+    "sha256": "669ce5d983266e74217669346b1165c837bfcdfde79497c3580b32a803881950",
+    "bytes": 2390
+  },
+  {
+    "path": "Papers/Programación segura - Mapeo de enseñanza/Programación segura - Mapeo de enseñanza.md",
+    "sha256": "ed7f9f718c780441527b520920b58e5d85ec81b088726b16d0dfcd4151c79224",
+    "bytes": 1989
+  },
+  {
+    "path": "Papers/Prompt injection - Formalización y defensas/Prompt injection - Formalización y defensas.md",
+    "sha256": "be14d2083cb7556f4d99eef79f25431a00442e014c55917281562a36f4b4afc4",
+    "bytes": 1261
+  },
+  {
+    "path": "Papers/Prácticas laborales - Evaluación de habilidades transversales/Prácticas laborales - Evaluación de habilidades transversales.md",
+    "sha256": "599da371b3f2e00803d19a75b20bdca0d2a084912c2d09c51b7b16624544c425",
+    "bytes": 1331
+  },
+  {
+    "path": "Papers/Pymes - Desarrollo ágil seguro/Pymes - Desarrollo ágil seguro.md",
+    "sha256": "dff3d1761acf6f55b36ea86b5b47bb08535e5b6f00ee07d6ad5f902ee1cfec03",
+    "bytes": 1983
+  },
+  {
+    "path": "Papers/Readiness - Marco conceptual reciente/Readiness - Marco conceptual reciente.md",
+    "sha256": "9a0c43b5ee411e975ef9d2c9b6fa50fb0c19af10bf8dcaa52c3018887b2b37ba",
+    "bytes": 1503
+  },
+  {
+    "path": "Papers/Requisitos - Historias de abuso en desarrollo/Requisitos - Historias de abuso en desarrollo.md",
+    "sha256": "0cfbb8775dd8a2e6831e476d1984d8fbfdcd294342d4ae8dca7be6e6217668c3",
+    "bytes": 1911
+  },
+  {
+    "path": "Papers/REWIRE - Cursos y certificación por perfil/REWIRE - Cursos y certificación por perfil.md",
+    "sha256": "39ad813e36113ae194681648a24ccbcd0710ea44b666e21bafc1dcd6f4c4aea7",
+    "bytes": 3023
+  },
+  {
+    "path": "Papers/SASS - Conciencia situacional y sus límites/SASS - Conciencia situacional y sus límites.md",
+    "sha256": "2efed604c8ac6f810f1105b235121455d7e1d1065c5e7859b61d7d9e75c8fc8a",
+    "bytes": 1386
+  },
+  {
+    "path": "Papers/SBOM - Integridad y límites de prototipo/SBOM - Integridad y límites de prototipo.md",
+    "sha256": "a31dab513cf869945eebd6c30041dca021d76e83c2e2fa2eb02d0a8279f65db0",
+    "bytes": 1207
+  },
+  {
+    "path": "Papers/SDLC - Revisión crítica de juegos de seguridad/SDLC - Revisión crítica de juegos de seguridad.md",
+    "sha256": "fc94b5dd1cd270628426cc67999234827c79da56e2afda3e650bfaf4769fe2e6",
+    "bytes": 1467
+  },
+  {
+    "path": "Papers/SECAT - Evaluación multiperspectiva/SECAT - Evaluación multiperspectiva.md",
+    "sha256": "a3a4505110543eec9f5225eb2297e53b21dfc9280fe4c8b4086d32fce4db7b0e",
+    "bytes": 1485
+  },
+  {
+    "path": "Papers/SecretBench - Verdad de referencia de secretos/SecretBench - Verdad de referencia de secretos.md",
+    "sha256": "d717fb950df19d39127e36f14e2ff7e3984140cd525dd72562fad1b9e3f91f52",
+    "bytes": 1910
+  },
+  {
+    "path": "Papers/Secretos - Comparación de detectores/Secretos - Comparación de detectores.md",
+    "sha256": "285da91a09e2bae7b9c408a6f59149a932ddaf358888815a723c914942da6aa4",
+    "bytes": 1952
+  },
+  {
+    "path": "Papers/Secretos - Detección mediante contexto de código/Secretos - Detección mediante contexto de código.md",
+    "sha256": "ac15123e6079524202f52c7abbd5d6573a9e2a54c3b2cec5bf434a95c892b981",
+    "bytes": 1255
+  },
+  {
+    "path": "Papers/Secretos - Dificultades de desarrolladores/Secretos - Dificultades de desarrolladores.md",
+    "sha256": "6c855a532b4961fa32cb909384956e1fb6c9d4ce400986ac0425169e12253337",
+    "bytes": 2032
+  },
+  {
+    "path": "Papers/Secretos - Límites de los escáneres industriales/Secretos - Límites de los escáneres industriales.md",
+    "sha256": "c441a1b02d2273bd308d45bc56fc64a0e31954cf6ea2c47e8434920e4cfddd7e",
+    "bytes": 1422
+  },
+  {
+    "path": "Papers/Secretos - Prácticas de gestión/Secretos - Prácticas de gestión.md",
+    "sha256": "10ebfb734ec23909f77ce859d421cf91d5aa2f08fa422f0b14dc51ec4684f1ee",
+    "bytes": 3067
+  },
+  {
+    "path": "Papers/Secretos - Prácticas de gestión/Secretos - Prácticas de gestión.pdf",
+    "sha256": "323df2d79da92e3ca770c2926d4df2440404379e436a93bb0769dfd6caee5ae9",
+    "bytes": 271484
+  },
+  {
+    "path": "Papers/SecureAI - Diseño de currículo especializado/SecureAI - Diseño de currículo especializado.md",
+    "sha256": "5ff384abd2ef7aaa350b9e0ae18f75695166c1e71f41cf16bb97b97b82147c4c",
+    "bytes": 1993
+  },
+  {
+    "path": "Papers/Seguridad - Aprendizaje contextual para desarrolladores/Seguridad - Aprendizaje contextual para desarrolladores.md",
+    "sha256": "022f97f41c5ee41e72eb0b8e3b453ca946896f9fa14b4e26ab2987e54e8bba7c",
+    "bytes": 2107
+  },
+  {
+    "path": "Papers/Seguridad - Competencias desde academia e industria/Seguridad - Competencias desde academia e industria.md",
+    "sha256": "efcd11601705ab011aa081eaf7d1071f60c3c56a6da4450fdd769a2b3a6e533a",
+    "bytes": 1464
+  },
+  {
+    "path": "Papers/Seguridad - Respuestas de desarrolladores en contexto/Seguridad - Respuestas de desarrolladores en contexto.md",
+    "sha256": "a6459ba30f3096961590dbbee760df7826b539a8f4abe7286c572583b39380ce",
+    "bytes": 1361
+  },
+  {
+    "path": "Papers/Simulación ecológica - Conducta ante amenazas/Simulación ecológica - Conducta ante amenazas.md",
+    "sha256": "97e9286d31986f5368147463d3692cd19f4865112b7ccdd00a33987fa36918cf",
+    "bytes": 1447
+  },
+  {
+    "path": "Papers/SmartRubrics - Generación asistida de rúbricas/SmartRubrics - Generación asistida de rúbricas.md",
+    "sha256": "99c0582b17ac7440fd65dd4fbec22f5c3808c7b9d7031dc0496a3dfb5c13096a",
+    "bytes": 2016
+  },
+  {
+    "path": "Papers/Software - Frameworks y pensamiento computacional/Software - Frameworks y pensamiento computacional.md",
+    "sha256": "6ed8963a1e1fe75dcc83fa950c107b6b1d660633d6a54ed3cb5e6f3dd94d3071",
+    "bytes": 1432
+  },
+  {
+    "path": "Papers/SQL - Comparación educativa de defensas/SQL - Comparación educativa de defensas.md",
+    "sha256": "61949ab0945216dee10cae7a738473b6f513b7e99c62a0128037020d20c934b5",
+    "bytes": 1221
+  },
+  {
+    "path": "Papers/Taxonomías de cyber ranges - Función e infraestructura/Taxonomías de cyber ranges - Función e infraestructura.md",
+    "sha256": "d6d0eeced83c6a417725a3c409820a0f0a76e5a3d1b50d2c374d65fea3d36b91",
+    "bytes": 1191
+  },
+  {
+    "path": "Papers/Tectonic - Evaluación de ejercicios con trazas/Tectonic - Evaluación de ejercicios con trazas.md",
+    "sha256": "c63a70ca5219ac73e3077cefbfc96653d23c4561b7501c6e0a3ec90247f1d0d0",
+    "bytes": 1311
+  },
+  {
+    "path": "Papers/Tensor Trust - Ataques humanos e inyección/Tensor Trust - Ataques humanos e inyección.md",
+    "sha256": "39c84481c03f46e72aceceb45815a96f56a1a4cd20a7422a50f2f53224c9b102",
+    "bytes": 1211
+  },
+  {
+    "path": "Papers/Testbed - Fidelidad y consecuencias observables/Testbed - Fidelidad y consecuencias observables.md",
+    "sha256": "db71cc8b0dfe8689ffd9d630f39bff49a828eeccb33822bab452d95e492954cb",
+    "bytes": 1275
+  },
+  {
+    "path": "Papers/Threat modeling - Rúbricas de pensamiento sistémico/Threat modeling - Rúbricas de pensamiento sistémico.md",
+    "sha256": "ed77bb6d9ecd7de761c998967841203962d5913c19051ab8cdd15d96405f8a5d",
+    "bytes": 3380
+  },
+  {
+    "path": "Papers/Threat modeling - Rúbricas de pensamiento sistémico/Threat modeling - Rúbricas de pensamiento sistémico.pdf",
+    "sha256": "ccb34aea5b137c9331a07a045a0ad85331d7c00a4dbe7f9098af33e95850834a",
+    "bytes": 1223560
+  },
+  {
+    "path": "Papers/Transformación digital - Marco de competencias/Transformación digital - Marco de competencias.md",
+    "sha256": "1f506e4597446916dcd4829d233b9e77f29e1d7a7a7e3b06531f5fbc48c3f2d5",
+    "bytes": 1252
+  },
+  {
+    "path": "Papers/Tutoría de ciberseguridad - Propuesta con GenAI/Tutoría de ciberseguridad - Propuesta con GenAI.md",
+    "sha256": "05188aeedf82bc00c38f9bd3841bee4906e0e90678940e9c4bbaa45d9bb6c430",
+    "bytes": 1311
+  },
+  {
+    "path": "Papers/UComGSP - Competencias según contexto/UComGSP - Competencias según contexto.md",
+    "sha256": "bc8c317a4f40e1728655b9435503d5536a2d503e9095d6e4b06de981dc0f7dac",
+    "bytes": 1417
+  },
+  {
+    "path": "Papers/Universidad - Escala de conciencia de ciberseguridad/Universidad - Escala de conciencia de ciberseguridad.md",
+    "sha256": "8f11985a66adda14f109c7b083ae61d5bfbed8359d5a81b0b3337d8961c007f9",
+    "bytes": 1402
+  },
+  {
+    "path": "Papers/VR - Alineación e implementación inclusiva/VR - Alineación e implementación inclusiva.md",
+    "sha256": "03c8b23fb9aafd0d8fd7367bbe29e39b8a78867a6642c85ac080f4289bc7e36b",
+    "bytes": 1333
+  },
+  {
+    "path": "Papers/VR - Comparación de modalidades educativas/VR - Comparación de modalidades educativas.md",
+    "sha256": "5d971f4e51e970fe6514666373a322c6152670876dc83b5660a5dbb971abfa79",
+    "bytes": 2482
+  },
+  {
+    "path": "Papers/VR - Primeros pasos de conducta segura/VR - Primeros pasos de conducta segura.md",
+    "sha256": "6f6c1baf5a357350af96b653f857e65b259a5e8e03d946761e4316851d06ffaa",
+    "bytes": 1278
+  },
+  {
+    "path": "Papers/Vulnerabilidades - Tareas de programación universitaria/Vulnerabilidades - Tareas de programación universitaria.md",
+    "sha256": "affc2410a058167aa8f773743941cb3197b2331cf38ae94a0ed9f4c450a71241",
+    "bytes": 1392
+  },
+  {
+    "path": "Papers/Web - Curso práctico basado en CTF/Web - Curso práctico basado en CTF.md",
+    "sha256": "f6dfdd397e17b6b42622b6b59dcfe20305916a17265f009cfb0561df1b40a18e",
+    "bytes": 1994
+  },
+  {
+    "path": "Papers/Web - Revisión de pruebas de penetración/Web - Revisión de pruebas de penetración.md",
+    "sha256": "af8491385b7e76d077fd1c9c1887f480d258b0a368b6225d5b80398a23a62ed8",
+    "bytes": 1201
+  },
+  {
+    "path": "Papers/XR - Privacidad de evidencias educativas/XR - Privacidad de evidencias educativas.md",
+    "sha256": "cf4e6950b69a158dacb83019ede866229d1d1ca3e746ba03af43fa1155ca2b27",
+    "bytes": 1245
+  },
+  {
+    "path": "Papers/XSS - Detección semántica y límites/XSS - Detección semántica y límites.md",
+    "sha256": "7959c262fc31396f780f739464fd6fdf1e8c1267c76886bccc1173bed6d9c7a9",
+    "bytes": 1187
+  },
+  {
+    "path": "Papers/Švábenský - Minería de actuaciones/Švábenský - Minería de actuaciones.md",
+    "sha256": "a7c3bf3a4435782bbcc7ee0a939d250f6c8b51cb97b7fd9caa67ce0fdc4a9b5e",
+    "bytes": 1358
+  },
+  {
+    "path": "README.md",
+    "sha256": "3899ce125934a795ec151b9bd3724a828b7357ad64344cf6387670028d2a717e",
+    "bytes": 2476
+  },
+  {
+    "path": "Referencias/Auditoria/estado-de-entrega.md",
+    "sha256": "35e3d9fe22a7e2e8e11b5164a62db6d063cb0ad8ff06d04a74d71a80260164f9",
+    "bytes": 967
+  },
+  {
+    "path": "Referencias/Auditoria/inventario-descubrimiento.json",
+    "sha256": "05a1b9dd1822f0be8dcc6c1fc275d5323cfac8b81b3675826637559d21b9b703",
+    "bytes": 159005
+  },
+  {
+    "path": "Referencias/Auditoria/lecturas-integrales.json",
+    "sha256": "f895e62e7355374117b6bacbb78b63a2afb39d5313ecf0b6f758b32718f32730",
+    "bytes": 19521
+  },
+  {
+    "path": "Referencias/Auditoria/pdfs-originales.json",
+    "sha256": "d8485aabd3940529f1f7939e7c6da5bd9be2f2e7bd282b56d8c002dfa7f07270",
+    "bytes": 1527
+  },
+  {
+    "path": "Referencias/Auditoria/recuperaciones-complementarias.json",
+    "sha256": "35c8372a355541ee65c9d7e9e45950a4be36c5ea52e23f39557a436789e2c439",
+    "bytes": 5789
+  },
+  {
+    "path": "Referencias/Auditoria/recuperaciones-continuacion.json",
+    "sha256": "cfd88ec2f7d84ad0bb8a14e6e732c4dfcfbea0e57afb0709e82b267a1fb3474f",
+    "bytes": 301421
+  },
+  {
+    "path": "Referencias/Auditoria/recuperaciones.json",
+    "sha256": "79a609eaef04251b1d0761bfcbd60e2b5d1fef26ed2cd8ed78aaecd3a8eabd89",
+    "bytes": 302223
+  },
+  {
+    "path": "Referencias/Auditoria/revision-competencias-2026-11-16.json",
+    "sha256": "379af414fc834e7cca67c7a49dfc28bbf9ccde8eb77cb964ffac9714d5e3277b",
+    "bytes": 47488
+  },
+  {
+    "path": "Referencias/Auditoria/verificacion.json",
+    "sha256": "8e7e045d8ddd937b888da72bfc88aae5530e5eb6d79d00fdd28756abaca6c89c",
+    "bytes": 2914
+  },
+  {
+    "path": "Referencias/Continuación de la revisión de CyberSim.md",
+    "sha256": "90c62ac3c23fc34b33c5360c07139db7198796b7b81717108ae0ba42a2e97a29",
+    "bytes": 1849
+  },
+  {
+    "path": "Referencias/Convenciones de Obsidian de CyberSim.md",
+    "sha256": "6896ddf2f5109444cb4992b7c54614e4746994b9897eafb039aed44565b679fb",
+    "bytes": 2532
+  },
+  {
+    "path": "Referencias/Corpus de CyberSim.base",
+    "sha256": "86891bbae4f52d5e4651e81ceedfd51b6f75fd9b2aa112dd98f4076ee51ba311",
+    "bytes": 901
+  },
+  {
+    "path": "Referencias/Corpus de papers de CyberSim.csv",
+    "sha256": "7f421b98fe0a655237b2a187cd4d305a45f1101cc18ea11c7067a3f1fa340c98",
+    "bytes": 53541
+  },
+  {
+    "path": "Referencias/corpus-curado.json",
+    "sha256": "0928fbc88a1690100eb031f77e7ae1339deaf6f2b006986cb1d37ca00a08d021",
+    "bytes": 170520
+  },
+  {
+    "path": "Referencias/Matriz paper pregunta.csv",
+    "sha256": "283a03ad298cddb9fcc9c567652b54aacae6ea44355b4bedee0e238b73707553",
+    "bytes": 74364
+  },
+  {
+    "path": "Referencias/Protocolo de revisión de CyberSim.md",
+    "sha256": "18949cb3d74ca1a5df18614596d04ab048eb4dea9f8f5b21c974554907e3ca72",
+    "bytes": 8206
+  },
+  {
+    "path": "Referencias/Referencias institucionales de CyberSim.md",
+    "sha256": "51e22cdc33efedb0e21aac74840e31810da08d364a433b95606c69d577fb269a",
+    "bytes": 3713
+  },
+  {
+    "path": "Referencias/Registro de revisión de CyberSim.md",
+    "sha256": "07f148f5e9e08bff28e2ba5e4309a2202c8eeca7b80b510f79462604f2d29b29",
+    "bytes": 12622
+  },
+  {
+    "path": "Referencias/Registros de descubrimiento.csv",
+    "sha256": "8812eccd796ff14792579bf7a68a19d171c17b30757ddebd94e29ee7bb5c3ef5",
+    "bytes": 94810
+  },
+  {
+    "path": "Referencias/Revisión focalizada de competencias de seguridad.md",
+    "sha256": "ef01624c8fe6f830fe1984185dc001eda8497d1152f66a2126baae5ba6d60212",
+    "bytes": 22629
+  },
+  {
+    "path": "Resultados-CyberSim.md",
+    "sha256": "8a826e8d0dacee0d08e50c585dff53e6da20fa8dc27b002cecba5a267e63bca4",
+    "bytes": 14350
+  }
+]

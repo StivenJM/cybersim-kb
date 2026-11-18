@@ -1,0 +1,38 @@
+[
+  {
+    "paper": "P022",
+    "path": "Papers/Almansoori - Componentes del razonamiento seguro/Almansoori - Componentes del razonamiento seguro.pdf",
+    "bytes": 130030,
+    "sha256": "96a3243979d9f92f269925b5135123f4d3aad37dcff4d0943f8261ffe2e71a1b"
+  },
+  {
+    "paper": "P023",
+    "path": "Papers/Threat modeling - Rúbricas de pensamiento sistémico/Threat modeling - Rúbricas de pensamiento sistémico.pdf",
+    "bytes": 1223560,
+    "sha256": "ccb34aea5b137c9331a07a045a0ad85331d7c00a4dbe7f9098af33e95850834a"
+  },
+  {
+    "paper": "P032",
+    "path": "Papers/CTF - Certeza de la evidencia educativa/CTF - Certeza de la evidencia educativa.pdf",
+    "bytes": 370513,
+    "sha256": "a65fe222cfdf299dc5f0723c8d7fec8e8f132a5ab3a6f3ab7c171a4732862c9e"
+  },
+  {
+    "paper": "P036",
+    "path": "Papers/Secretos - Prácticas de gestión/Secretos - Prácticas de gestión.pdf",
+    "bytes": 271484,
+    "sha256": "323df2d79da92e3ca770c2926d4df2440404379e436a93bb0769dfd6caee5ae9"
+  },
+  {
+    "paper": "P042",
+    "path": "Papers/AgentDojo - Seguridad y utilidad por separado/AgentDojo - Seguridad y utilidad por separado.pdf",
+    "bytes": 1042076,
+    "sha256": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05"
+  },
+  {
+    "paper": "P044",
+    "path": "Papers/Poisoning - Datos de ajuste de instrucciones/Poisoning - Datos de ajuste de instrucciones.pdf",
+    "bytes": 548686,
+    "sha256": "beb20c4d79bf233da6de2523c20245d1df068ba16301e1655ad17d8a70c8fdf9"
+  }
+]

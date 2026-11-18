@@ -1,0 +1,41 @@
+filters:
+  and:
+    - 'file.inFolder("Papers")'
+    - 'note.type == "paper"'
+views:
+  - type: table
+    name: Corpus de investigación
+    order:
+      - file.name
+      - note.year
+      - note.lectura
+      - note.preguntas
+  - type: table
+    name: Lecturas completas centrales
+    filters:
+      and:
+        - 'note.lectura == "texto-completo"'
+    order:
+      - file.name
+      - note.year
+      - note.preguntas
+  - type: table
+    name: Cribados y antecedentes
+    filters:
+      and:
+        - 'note.lectura != "texto-completo"'
+    order:
+      - file.name
+      - note.lectura
+      - note.preguntas
+
+  - type: table
+    name: Revisión de competencias de seguridad
+    filters:
+      and:
+        - 'note.revision_competencias == "2026-11-16"'
+    order:
+      - file.name
+      - note.year
+      - note.lectura
+      - note.revision_competencias

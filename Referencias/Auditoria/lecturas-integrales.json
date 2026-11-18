@@ -1,0 +1,138 @@
+[
+  {
+    "id": "P001",
+    "body": "PDF institucional: cuerpo, método, resultados, discusión, tablas y apéndices; figuras contrastadas a través del texto y sus leyendas.",
+    "tables": "Tablas y apéndices examinados; incluye lista de 49 competencias y marcos.",
+    "figures": "No se obtuvo inspección visual independiente de las figuras; la descarga adicional del PDF institucional agotó el tiempo. No se usan sus gráficos para decidir puntuaciones.",
+    "analysis": "El mapeo publicado en 2022 cerró su búsqueda en febrero de 2019. Sus categorías organizan antecedentes, pero no establecen un instrumento de dominio ni representan automáticamente AppSec o seguridad de IA actual. La recurrencia de una competencia en publicaciones no fija su peso en una prueba. Mantener competencias transversales pertinentes sin exigir las 49 en una tarea acotada.",
+    "decision": "Antecedente general; adaptación explícita del perfil y evidencia específica, sin copiar literalmente ni atribuirle umbrales."
+  },
+  {
+    "id": "P005",
+    "body": "Artículo HTML completo, métodos, resultados, discusión, tablas y seis figuras editoriales.",
+    "tables": "Tablas leídas; inconsistencia entre prosa y tabla 3 registrada.",
+    "figures": "Figuras 1-6 inspeccionadas visualmente en originales editoriales.",
+    "analysis": "Su unidad es el equipo: 58 equipos y 94 ítems no equivalen a observaciones independientes de estudiantes. Hay una inconsistencia: la prosa menciona 32 ítems sin variación y tabla 3 muestra 32 de suelo más siete de techo, dejando 55 variantes. Los puntos asignados no son dificultad empírica. Las bandas amplias y diferencias entre ediciones aconsejan calibración local; no importar cortes competitivos ni estimar aptitud individual desde resultados colectivos.",
+    "decision": "Revisar dificultad y discriminación tras pilotar; informar condiciones y unidad de análisis."
+  },
+  {
+    "id": "P007",
+    "body": "Secciones 1–13 y declaraciones; HTML 70–575, DOI 10.1007/s10207-025-01202-0",
+    "tables": "Tablas 1–7 leídas en páginas editoriales individuales mediante navegador",
+    "figures": "Figuras 1–8 inspeccionadas en originales editoriales; diagramas de flujo largos contrastados con el cuerpo",
+    "analysis": "Adoptar trazabilidad rol-tarea-resultado-evidencia y adaptación contextual; no importar OPscore, niveles europeos, taxonomía de verbos o afirmaciones de eficacia como calibración local. Los pilotos priorizan satisfacción y autoeficacia; NG-SOC aún no completa implementación/evaluación en este artículo. La disponibilidad declara no generar ni analizar datasets; no usarlo como ensayo causal.",
+    "decision": "Base metodológica de adaptación del perfil y diseño, con validación propia de CyberSim."
+  },
+  {
+    "id": "P010",
+    "body": "Secciones 1–5, notas, bibliografía y apéndices 1–5; DOI 10.1007/s10922-024-09816-w",
+    "tables": "Tablas 1–16 leídas completas en páginas editoriales individuales",
+    "figures": "Figuras 1 y 2 inspeccionadas visualmente",
+    "analysis": "La cobertura TKS es una propiedad del diseño curricular, no una estimación del dominio del estudiante. Usa NICE 2017 y no fija un estándar de suficiencia validado. Presenta atribuciones institucionales cuestionables y errores tipográficos en identificadores; contrastar marcos con fuentes oficiales. VAM figura con escenario relacionado pero cero cobertura de tareas en tabla 16; habilidades y conocimientos parciales no equivalen a ejecutar el rol.",
+    "decision": "Usar matriz de cobertura para detectar lagunas; no usar porcentajes de cobertura como nota ni copiar identificadores de 2017 como vigentes."
+  },
+  {
+    "id": "P013",
+    "body": "Artículo completo: secciones 1-7, declaraciones, tabla 1-9 y figuras 1-12; HTML 68-413 y originales editoriales",
+    "tables": "Nueve tablas leídas completas en páginas editoriales",
+    "figures": "Doce figuras inspeccionadas visualmente",
+    "analysis": "El estudio usa 36 estudiantes, nueve por condición, contenidos básicos y seguimiento de una semana. Q4-Q10 se puntúan como sí/no sobre conocer conceptos: no representan por sí solos desempeño de desarrollo seguro. Los p-valores dentro de cada modalidad no prueban una diferencia causal entre modalidades. La tabla SUS parece sumar respuestas de ítems positivos y negativos sin inversión; aplicando el cálculo usual a sus medias se obtiene aproximadamente 49 en ambas condiciones, no 89/92. El texto también dice 38.8 donde la tabla da 36.8. No trasladar estas cifras a una garantía de competencia ni de superioridad del casco.",
+    "decision": "Conservar alternativas de escritorio y familiarización limitada a controles; evaluar tareas técnicas directamente, sin instrucción de seguridad durante el intento. No importar su instrumento ni sus tamaños de efecto."
+  },
+  {
+    "id": "P022",
+    "body": "PDF autor completo de siete páginas, figuras 1-3, métodos, resultados y discusión; suplemento completo de cuatro páginas, figura de taxonomía y cinco preguntas",
+    "tables": "Figuras tabulares 1-2 y taxonomía del suplemento leídas completas",
+    "figures": "Figuras 1-3 inspeccionadas en PDF local; suplemento recuperado como texto",
+    "analysis": "Reanaliza 21 entrevistas del trabajo anterior, no añade una replicación independiente. Dos codificadores consensúan, sin coeficiente de acuerdo informado. La asociación se observa en la misma tarea usada para construir y aplicar categorías; no demuestra predicción fuera de muestra ni causalidad. SOLO deja fuera extended abstract por límites del diseño: no justifica prohibir transferencia en estudiantes. El suplemento mezcla número de fuentes consultadas con calidad del uso: varias fuentes no son condición necesaria de rigor. No copiar esos anclajes literalmente.",
+    "decision": "Evaluar interpretación de errores, uso crítico de documentación y explicación causal junto al código; redactar anclajes propios de seguridad web/IA."
+  },
+  {
+    "id": "P023",
+    "body": "PDF de 31 páginas: cuerpo, tablas 1-4, seis figuras y apéndice A con rúbricas completas; líneas 0-1183",
+    "tables": "Tablas 1-4 y A1-A2 leídas, escalas beginner/intermediate/advanced y cero por ausencia",
+    "figures": "Figuras 1-6 inspeccionadas en PDF local, páginas 9-10 y 15-19",
+    "analysis": "Quince proyectos de equipos, cinco por cohorte, no quince estudiantes. Cambiaron simultáneamente instrucción, herramienta y consignas; cohortes históricas y uso permitido de LLM impiden atribuir las diferencias a systems thinking solo. El 94% de acuerdo porcentual tras refinamiento no establece validez de las inferencias ni equivale a kappa. Las respuestas más extensas pueden reflejar la nueva consigna. Una frontera de confianza describe un límite; no bloquea ataques por dibujarla, aunque el artículo use esa expresión. STRIDE no es incapaz por definición de analizar flujos o interacciones.",
+    "decision": "Adoptar preguntas sobre activos, flujos, interacciones, decisiones y límites; corroborar implementación con pruebas y no solo con un informe convincente."
+  },
+  {
+    "id": "P031",
+    "body": "Artículo completo, tabla de cinco desafíos y cuatro figuras editoriales.",
+    "tables": "Tabla de instrucciones y objetivos leída completa.",
+    "figures": "Figuras 1-4 inspeccionadas visualmente.",
+    "analysis": "Diez equipos y 1126 consultas describen la actividad y respuestas del sistema, no una prueba pre/post de dominio individual. La figura de defensa usa detección de palabras: eso no demuestra una solución robusta a prompt injection. El 88.8% corresponde a respuestas bloqueadas o incorrectas para el atacante bajo ese evento, no a aprendizaje. Las tareas contienen instrucciones deliberadamente contradictorias y no representan por sí solas un agente con herramientas.",
+    "decision": "Puede inspirar situaciones de ataque y análisis de límites; añadir utilidad legítima, defensa y explicación individual."
+  },
+  {
+    "id": "P032",
+    "body": "PDF completo de veinte páginas: introducción, metodología, resultados, discusión, limitaciones, conclusiones y referencias; figura PRISMA y cuatro tablas",
+    "tables": "Tablas 1-4 leídas completas; el extractor omitía la fila Costa 2020, contrastada visualmente en PDF",
+    "figures": "Figura 1 PRISMA inspeccionada visualmente en PDF local",
+    "analysis": "Sus juicios GRADE pertenecen a dominios amplios y heterogéneos, no son tamaños de efecto ni una evaluación GRADE de CyberSim. La rúbrica de calidad es propia y no validada, la segunda revisión no fue ciega, no hubo registro prospectivo y 38 reportes no se recuperaron; incluso la lista de 80 excluidos a texto completo vuelve a mencionar ocho no disponibles. Esto restringe exhaustividad y exactitud de la clasificación. Coincide con otros trabajos en separar confianza de desempeño, pero las revisiones comparten estudios y no deben sumarse como ensayos independientes.",
+    "decision": "No usar flags, ranking o tiempo como certificación del perfil; prever tareas nuevas y seguimiento. El suplemento OSF no pudo recuperarse y no se presenta como auditado."
+  },
+  {
+    "id": "P036",
+    "body": "PDF completo de ocho páginas; secciones I-VI, referencias y figuras 1-2",
+    "tables": "No hay tablas de resultados adicionales; 24 prácticas y seis categorías leídas en el cuerpo",
+    "figures": "Figuras 1-2 inspeccionadas visualmente en PDF local",
+    "analysis": "Es una revisión de 54 artefactos grises, no 54 experimentos: las frecuencias de recomendaciones no estiman eficacia ni adopción. Algunas frases confunden servicios de secretos con módulos hardware y atribuyen capacidades exclusivas sin comparación contemporánea. No importar restricciones de forks como remedio universal, ni asumir que una variable de entorno ya proporciona custodia segura. La vida corta de una credencial de acceso y la pérdida de una clave de cifrado sobre una copia antigua tienen consecuencias distintas.",
+    "decision": "AndinaPay debe observar historial, custodia, rotación, migración, permisos y prevención verificables. Separar exposición histórica irreversible de recuperación operacional."
+  },
+  {
+    "id": "P042",
+    "body": "Artículo completo en HTML y PDF arXiv v3: introducción, secciones 2–5, checklist y apéndices A–F. Código y prompts que no aparecían en la conversión HTML se examinaron visualmente en PDF.",
+    "tables": "Tablas 1–5 leídas, incluidos intervalos y desgloses por modelo/defensa.",
+    "figures": "Figuras 1–21 inspeccionadas visualmente en el PDF original; incluyen definiciones de código, prompts y resultados. No se ejecutaron el repositorio ni sus trazas externas.",
+    "analysis": "AgentDojo distingue utilidad legítima y éxito de un objetivo adversario sobre un estado ejecutable. Los 629 casos proceden de combinar 97 tareas de usuario y 27 objetivos de inyección: no son 629 contextos independientes ni observaciones humanas. La proporción de salida controlada y los permisos disponibles cambian mucho entre suites; una tasa global puede ocultarlo. El ataque Max selecciona entre un conjunto limitado, no representa al adversario óptimo. El filtro de herramientas ayuda especialmente cuando basta lectura para la tarea legítima y el ataque requiere escritura; falla si ambos necesitan las mismas herramientas o si no pueden planificarse de antemano. El paper no cubre plenamente sesiones largas con tareas sucesivas. La tabla 1 dice 70 herramientas en su leyenda, pero sus filas suman 74 y el cuerpo también dice 74; hay además texto inicial heredado sobre utilidad menor a 66% que no describe todas las filas de la versión ampliada. No se importan esas cifras como rendimiento actual en 2026. Los oráculos son especificados manualmente y también requieren auditoría de suficiencia. El estudio evalúa agentes y defensas de 2024; no valida una rúbrica ni un aprendizaje de estudiantes.",
+    "decision": "Para CAP-07, conservar tareas legítimas y objetivos prohibidos independientes, cambios de estado observables y autoridad de herramientas limitada fuera del prompt. Evaluar la explicación y la intervención del estudiante; el porcentaje de éxito del agente es evidencia técnica del artefacto, no una nota humana."
+  },
+  {
+    "id": "P044",
+    "body": "PDF editorial de 13 páginas completo: cuerpo, método de contaminación, experimentos, defensas, limitaciones, discusión y apéndices A–D.",
+    "tables": "Tablas 1–5 leídas, con modelos, datos, ejemplos y resultados.",
+    "figures": "Figuras 1–12 inspeccionadas visualmente, incluidas las tres figuras de los apéndices. No se reprodujeron entrenamientos ni se auditaron los datos externos.",
+    "analysis": "El atacante debe conseguir que sus ejemplos entren en el ajuste por instrucciones; ese supuesto no prueba que cualquier dato enviado a un servicio comercial se use para entrenar. Algunos ejemplos conservan etiquetas aparentemente correctas: validación de formato, hashes o firma de origen no garantizan ausencia de contaminación semántica. Se estudian T5/Tk-Instruct de 770M a 11B y tareas de 2023, no todos los modelos actuales. La afirmación de que los mayores son más fáciles de contaminar depende del objetivo: el patrón de polaridad no se generaliza al ataque de respuestas arbitrarias, donde 11B resulta más robusto que 3B en la figura 7b. Solo algunas condiciones tienen tres semillas; no debe presentarse una ley universal o monótona del tamaño. La sustitución de entidades deja referencias de resumen sin adaptar, limitación que afecta la interpretación absoluta de métricas. Las defensas basadas en pérdida dependen del checkpoint y del compromiso con datos legítimos; ninguna es garantía suficiente. La evidencia es sobre comportamiento de modelos, no sobre medición de competencia humana.",
+    "decision": "Diseñar un caso distinto de prompt injection: admisión/versionado de datos, hipótesis de acceso del atacante, comparación limpia/contaminada y pruebas con disparador y tareas benignas. Usar un experimento pequeño reproducible o snapshots precomputados claramente identificados; no exigir entrenar un modelo de 11B dentro de CyberSim."
+  },
+  {
+    "id": "P061",
+    "body": "Artículo completo, secciones 1–6 y declaraciones; HTML 282–514 y bibliografía en navegador",
+    "tables": "Tabla 1 y matriz de la figura 2 contrastadas con el texto",
+    "figures": "Figuras 1 y 2 inspeccionadas visualmente en originales",
+    "analysis": "Quince participantes y 45 tareas no son 45 personas independientes. El acuerdo sube tras revisar guía y recodificar, por lo que no es una validación ciega independiente nueva. La figura 2 usa máximos distintos en variantes (10 y 12 puntos); comparar puntuaciones brutas sería incorrecto. La muestra cualitativa no establece umbral ni generalizabilidad de CyberSim. La contribución útil es comprobar si la tarea realmente moviliza el razonamiento supuesto.",
+    "decision": "Pilotaje cognitivo de AndinaPay con observación y entrevista retrospectiva; revisar facetas y tareas antes de calibrar resultados. No exigir pensar en voz alta en todo examen final."
+  },
+  {
+    "id": "P108",
+    "body": "Artículo completo: secciones 1-7, limitaciones, declaraciones, seis tablas y cuatro figuras; HTML 179-395",
+    "tables": "Tablas 1-6 leídas completas en DOM editorial, incluida matriz de confusión",
+    "figures": "Figuras 1-4 inspeccionadas visualmente",
+    "analysis": "El hallazgo útil es la necesidad de contrastar juicios con ejecución suficiente. Su oráculo también falla: pruebas positivas escasas, una sola PoC, celda CSRF frágil y SSRF dependiente de DNS offline. El denominador importa: ocho over-fixes entre 112 neutralizaciones, no ocho entre todas las vulnerabilidades; los autores rebajan a uno o dos tras revisar artefactos. Vul4J conserva una regresión entre 254 intentos bajo cobertura limitada. Hubo parada opcional en Java, muestras intencionales de modelos y posible memorización. No importar porcentajes ni una regla comercial/open ni afirmar que cualquier suite determina verdad absoluta.",
+    "decision": "Verificador confiable con regresión legítima y ataques variados; LLM como apoyo revisable, no juez final automático de competencia."
+  },
+  {
+    "id": "P131",
+    "body": "Artículo completo: secciones 1-6, declaraciones, siete tablas y dos figuras; HTML 186-518",
+    "tables": "Tablas 1-7 leídas completas en DOM editorial",
+    "figures": "Figuras 1-2 inspeccionadas visualmente",
+    "analysis": "Revisión crítica, no una revisión sistemática formal ni metaanálisis. La etiqueta de 16 estudios empíricos contradice una fila sin muestra; la afirmación de un único diseño controlado no concuerda con otra fila experimental/control. El total excluido de tabla 1 no cuadra con 323-16 y el diagrama da IEEE 23 donde la tabla da 43. Varias teorías se infieren desde actividades, no se declararon por los autores originales. No adoptar afirmaciones sobre estilos visual/kinestésico del contexto introductorio. Su marco es conceptual sin validación del modelo causal.",
+    "decision": "Usar alineación explícita objetivo-actividad-evidencia; no convertir presencia, inmersión o motivación en dominio técnico ni importar frecuencias exactas de la revisión."
+  },
+  {
+    "id": "P139",
+    "body": "Diez páginas de texto: §§1–3, tablas 1–3 y referencias; lectura de cuerpo, niveles, usos y cierre.",
+    "tables": "Texto extraído de tablas 1–3 examinado; unidades detalladas contrastadas con tabla 3 del informe SEI asociado.",
+    "figures": "No se realizó inspección visual independiente del PDF web. Las decisiones se apoyan en texto y tablas extraídas, sin derivar medidas de gráficos.",
+    "analysis": "La referencia explícita a pregrado permite delimitar audiencia, sin equiparar nivel académico con dominio garantizado. No se traslada cada verbo de nivel superior al estudiante ni se afirma homologación L2. Artículo e informe técnico son dos versiones del mismo modelo.",
+    "decision": "Modelo central de contenido y nivel de referencia; selección local fundamentada y validación del instrumento diferenciadas."
+  },
+  {
+    "id": "P135",
+    "body": "Siete páginas del manuscrito de autor: introducción, trabajos relacionados, método, resultados, discusión, limitaciones, conclusiones y referencias; texto de figuras tabulares 1 y 2.",
+    "tables": "Texto completo de figura 1 (conductas, preguntas y respuestas esperadas) y figura 2 (demografía).",
+    "figures": "No hubo inspección visual independiente del PDF web. Ambas figuras se recuperaron como tablas textuales; no se extraen medidas de gráficos ni se consultó íntegro el cuestionario externo enlazado.",
+    "analysis": "La consigna, la consulta de recursos y los cambios entre versiones pueden afectar la actuación observada. No se deduce autonomía sin ayuda ni un estándar universal de egreso. La generalización a tareas web es una adaptación de CyberSim, no un resultado del estudio en C.",
+    "decision": "Fundamento de tipos de actuación y condiciones de evaluación; no importar sus preguntas como prueba completa del perfil ni interpretar búsqueda de información como dominio sin recursos."
+  }
+]

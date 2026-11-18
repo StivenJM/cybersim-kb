@@ -1,0 +1,3225 @@
+[
+  {
+    "id": "P001",
+    "slug": "Assyne - Estado de competencias de software",
+    "year": 2022,
+    "title": "The state of research on software engineering competencies: A systematic mapping study",
+    "url": "https://doi.org/10.1016/j.jss.2021.111183",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisión de 60 estudios; organiza competencias técnicas y transversales. La búsqueda cerró en febrero de 2019.",
+    "limit": "Su fecha de publicación no representa la actualidad del corpus. La lista no es una escala ni un estándar de aprobación.",
+    "implication": "Usarlo como antecedente y construir trazabilidad hacia desempeños de seguridad delimitados.",
+    "passages": "PDF institucional: cuerpo, método, resultados, discusión, tablas y apéndices; figuras contrastadas a través del texto y sus leyendas.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P001",
+      "body": "PDF institucional: cuerpo, método, resultados, discusión, tablas y apéndices; figuras contrastadas a través del texto y sus leyendas.",
+      "tables": "Tablas y apéndices examinados; incluye lista de 49 competencias y marcos.",
+      "figures": "No se obtuvo inspección visual independiente de las figuras; la descarga adicional del PDF institucional agotó el tiempo. No se usan sus gráficos para decidir puntuaciones.",
+      "analysis": "El mapeo publicado en 2022 cerró su búsqueda en febrero de 2019. Sus categorías organizan antecedentes, pero no establecen un instrumento de dominio ni representan automáticamente AppSec o seguridad de IA actual. La recurrencia de una competencia en publicaciones no fija su peso en una prueba. Mantener competencias transversales pertinentes sin exigir las 49 en una tarea acotada.",
+      "decision": "Antecedente general; adaptación explícita del perfil y evidencia específica, sin copiar literalmente ni atribuirle umbrales."
+    },
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fundamento general",
+      "decision": "Tabla 12a y discusión: conservar análisis, código, pruebas, comunicación y calidad; separar responsabilidades de equipo, condiciones previas y rasgos personales.",
+      "passages": "Abstract p. 1; §6 Conclusions, p. 13; tabla 12a, p. 10",
+      "consulted_url": "https://doi.org/10.1016/j.jss.2021.111183"
+    }
+  },
+  {
+    "id": "P002",
+    "slug": "SECAT - Evaluación multiperspectiva",
+    "year": 2014,
+    "title": "A multi-perspective framework for evaluating software engineering education by assessing students' competencies: SECAT — A software engineering competency assessment tool",
+    "url": "https://doi.org/10.1109/FIE.2014.7044331",
+    "level": "resumen",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Adapta criterios de evaluación profesional a ingeniería de software, incluyendo producto, proceso y perspectivas de actores.",
+    "limit": "Antecedente fuera de la ventana reciente. No se obtuvo lectura integral del instrumento; no atribuirle pesos o criterios específicos no consultados.",
+    "implication": "Comparar la utilidad de varias perspectivas sin convertir SECAT en requisito universal.",
+    "passages": "Abstract original en IEEE Xplore.",
+    "recent": false,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P003",
+    "slug": "UComGSP - Competencias según contexto",
+    "year": 2022,
+    "title": "The essential competencies of software professionals: A unified competence framework",
+    "url": "https://doi.org/10.1016/j.infsof.2022.107020",
+    "level": "resumen",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Marco desarrollado con literatura, expertos y entrevistas a 138 supervisores; diferencia competencias y satisfacción de actores.",
+    "limit": "Las categorías de satisfacción del modelo Kano no equivalen a niveles demostrados de competencia del alumno.",
+    "implication": "Seleccionar capacidades según tareas y perfil; no copiar una lista general como rúbrica.",
+    "passages": "Abstract estructurado original. PDF institucional localizado, apertura fallida.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P004",
+    "slug": "Švábenský - Minería de actuaciones",
+    "year": 2022,
+    "title": "Student assessment in cybersecurity training automated by pattern mining and clustering",
+    "url": "https://doi.org/10.1007/s10639-022-10954-4",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Analiza 8834 comandos de 113 participantes en 18 sesiones; identifica patrones, errores y puntos de dificultad.",
+    "limit": "Patrones de trazas no identifican por sí mismos competencia latente. Los contextos y herramientas condicionan las observaciones.",
+    "implication": "Registrar pruebas y artefactos interpretables; utilizar minería posterior como apoyo docente.",
+    "passages": "Abstract editorial y conclusión indexada del artículo/PMC; cuerpo completo no leído.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P005",
+    "slug": "CTF - Límites de la puntuación competitiva",
+    "year": 2026,
+    "title": "What Do Capture-the-Flag Competitions Actually Measure? A Psychometric and Competency-Coverage Analysis of Five Editions of a National Cybersecurity Event",
+    "url": "https://doi.org/10.3390/electronics15204603",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Estudia cinco ediciones, 94 retos y 58 equipos; distingue cobertura del constructo, puntuación y actuación colectiva.",
+    "limit": "Se detectó inconsistencia entre texto y tabla 3 sobre ítems sin variación. Datos de equipos no autorizan inferencias individuales.",
+    "implication": "Exigir autoría individual y artefactos de justificación; no trasladar sus coeficientes al instrumento local.",
+    "passages": "Artículo HTML completo, métodos, resultados, discusión, tablas y seis figuras editoriales.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P005",
+      "body": "Artículo HTML completo, métodos, resultados, discusión, tablas y seis figuras editoriales.",
+      "tables": "Tablas leídas; inconsistencia entre prosa y tabla 3 registrada.",
+      "figures": "Figuras 1-6 inspeccionadas visualmente en originales editoriales.",
+      "analysis": "Su unidad es el equipo: 58 equipos y 94 ítems no equivalen a observaciones independientes de estudiantes. Hay una inconsistencia: la prosa menciona 32 ítems sin variación y tabla 3 muestra 32 de suelo más siete de techo, dejando 55 variantes. Los puntos asignados no son dificultad empírica. Las bandas amplias y diferencias entre ediciones aconsejan calibración local; no importar cortes competitivos ni estimar aptitud individual desde resultados colectivos.",
+      "decision": "Revisar dificultad y discriminación tras pilotar; informar condiciones y unidad de análisis."
+    },
+    "screened_recent": true
+  },
+  {
+    "id": "P006",
+    "slug": "Mayberry - Evidencias en educación de ciberseguridad",
+    "year": 2026,
+    "title": "Assessment and Evidence Practices in Cybersecurity Education: A Systematic Review (2015–2025)",
+    "url": "https://digitalcommons.kennesaw.edu/jcerp/vol2026/iss1/23/",
+    "level": "resumen",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Revisión que declara analizar 412 intervenciones y denuncia la diferencia entre afirmar aprendizaje y evaluarlo.",
+    "limit": "PDF bloqueado con 403. Sus porcentajes y clasificación del corpus no se auditaron.",
+    "implication": "Evaluar la usabilidad de la interfaz y la competencia demostrada como resultados distintos; del estudio ajeno se recuperan solo advertencias pertinentes para la calidad de la evaluación.",
+    "passages": "Abstract original; descarga editorial fallida.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P007",
+    "slug": "REWIRE - Cursos y certificación por perfil",
+    "year": 2026,
+    "title": "A framework for designing and certifying ECSF-aligned cybersecurity training through cyber ranges and virtual learning environments",
+    "url": "https://doi.org/10.1007/s10207-025-01202-0",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Conecta perfiles ECSF, resultados de aprendizaje, actividades y evaluación mediante ADDIE y un ecosistema de cursos.",
+    "limit": "La aplicación en REWIRE no demuestra que los umbrales propuestos midan a estudiantes ecuatorianos; NG-SOC aún describe fases futuras.",
+    "implication": "Construir matriz perfil–competencia–tarea–evidencia con versiones y revisión experta.",
+    "passages": "Secciones 1–13 y declaraciones; HTML 70–575, DOI 10.1007/s10207-025-01202-0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P007",
+      "body": "Secciones 1–13 y declaraciones; HTML 70–575, DOI 10.1007/s10207-025-01202-0",
+      "tables": "Tablas 1–7 leídas en páginas editoriales individuales mediante navegador",
+      "figures": "Figuras 1–8 inspeccionadas en originales editoriales; diagramas de flujo largos contrastados con el cuerpo",
+      "analysis": "Adoptar trazabilidad rol-tarea-resultado-evidencia y adaptación contextual; no importar OPscore, niveles europeos, taxonomía de verbos o afirmaciones de eficacia como calibración local. Los pilotos priorizan satisfacción y autoeficacia; NG-SOC aún no completa implementación/evaluación en este artículo. La disponibilidad declara no generar ni analizar datasets; no usarlo como ensayo causal.",
+      "decision": "Base metodológica de adaptación del perfil y diseño, con validación propia de CyberSim."
+    },
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de diseño",
+      "decision": "Vincular responsabilidad, tarea y evidencia; no importar niveles ni certificación de ECSF como nota del alumno.",
+      "passages": "Abstract; §13 Conclusions and future work",
+      "consulted_url": "https://link.springer.com/article/10.1007/s10207-025-01202-0"
+    }
+  },
+  {
+    "id": "P008",
+    "slug": "CRDF - Arquitectura y ciclo de ejercicios",
+    "year": 2023,
+    "title": "Cyber range design framework for cyber security education and training",
+    "url": "https://doi.org/10.1007/s10207-023-00680-4",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Propone arquitectura y ciclo de vida basados en COFELET; incluye escenarios, registro, andamiaje y evaluación.",
+    "limit": "La sección de evaluación reconoce que el marco aún debe probarse. Comparar secuencias esperadas puede penalizar alternativas válidas.",
+    "implication": "Reutilizar separación entre plataforma, escenario y evaluación, conservando verificadores por propiedades.",
+    "passages": "Abstract y secciones 5–7. Marco propuesto; la evaluación del propio CRDF seguía pendiente.",
+    "abstract_ref": "turn210view0",
+    "conclusion_ref": "turn215view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P009",
+    "slug": "Glas - Complejidad y aprendizaje en cyber ranges",
+    "year": 2024,
+    "title": "Complex yet attainable? An interdisciplinary approach to designing better cyber range exercises",
+    "url": "https://doi.org/10.1016/j.cose.2024.103965",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Propone principios de diseño interdisciplinario y examina ejercicios para participantes con menor experiencia.",
+    "limit": "El contraste entre cohortes y condiciones no convierte toda recomendación en un efecto causal universal.",
+    "implication": "Comprobar en el piloto que la carga de la interfaz no distorsiona la evaluación; familiarizar solo con controles y navegación, sin enseñar la solución del caso.",
+    "passages": "Abstract, descripción de muestra indexada y sección 9 original indexada.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P010",
+    "slug": "NICE-by-design - Diseño trazable de escenarios",
+    "year": 2024,
+    "title": "Towards NICE-by-Design Cybersecurity Learning Environments: A Cyber Range for SOC Teams",
+    "url": "https://doi.org/10.1007/s10922-024-09816-w",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Organiza 16 escenarios alineados con cinco áreas de especialidad de NICE.",
+    "limit": "La correspondencia curricular demuestra alineación, no validez psicométrica ni equivalencia con un puesto laboral completo.",
+    "implication": "Vincular cada afirmación a tareas profesionales y evidencias, sin heredar identificadores obsoletos.",
+    "passages": "Secciones 1–5, notas, bibliografía y apéndices 1–5; DOI 10.1007/s10922-024-09816-w",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P010",
+      "body": "Secciones 1–5, notas, bibliografía y apéndices 1–5; DOI 10.1007/s10922-024-09816-w",
+      "tables": "Tablas 1–16 leídas completas en páginas editoriales individuales",
+      "figures": "Figuras 1 y 2 inspeccionadas visualmente",
+      "analysis": "La cobertura TKS es una propiedad del diseño curricular, no una estimación del dominio del estudiante. Usa NICE 2017 y no fija un estándar de suficiencia validado. Presenta atribuciones institucionales cuestionables y errores tipográficos en identificadores; contrastar marcos con fuentes oficiales. VAM figura con escenario relacionado pero cero cobertura de tareas en tabla 16; habilidades y conocimientos parciales no equivalen a ejecutar el rol.",
+      "decision": "Usar matriz de cobertura para detectar lagunas; no usar porcentajes de cobertura como nota ni copiar identificadores de 2017 como vigentes."
+    },
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de cobertura",
+      "decision": "Utilizar matrices para localizar lagunas del banco, sin confundir cobertura del diseño con dominio individual ni trasladar el perfil SOC entero.",
+      "passages": "Abstract; §5 Conclusions",
+      "consulted_url": "https://link.springer.com/article/10.1007/s10922-024-09816-w"
+    }
+  },
+  {
+    "id": "P011",
+    "slug": "SASS - Conciencia situacional y sus límites",
+    "year": 2026,
+    "title": "Measuring the unseen: a situational awareness scoring framework for cyber range training",
+    "url": "https://doi.org/10.1007/s10207-026-01219-z",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Propone puntuaciones de conciencia situacional a partir de acciones, tiempos, ayudas y efectividad.",
+    "limit": "Aunque el abstract anuncia validación fuerte, el cuerpo describe tres participantes y una prueba de concepto sin validación estadística; pesos heurísticos.",
+    "implication": "Considerar su trazabilidad de métricas; posponer la adopción de fórmulas y pesos para certificar.",
+    "passages": "Abstract; método experimental; limitaciones y sección 6. Texto integral pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P012",
+    "slug": "Gamificación multimodal - Propuesta sin ensayo educativo",
+    "year": 2025,
+    "title": "A multimodal and adaptive gamified system to improve cybersecurity competence training",
+    "url": "https://doi.org/10.1007/s10586-025-05264-6",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Describe analítica, adaptación y gamificación, incluyendo indicadores biométricos de estrés.",
+    "limit": "La disponibilidad de datos declara que no se generaron ni analizaron datasets; el contraste longitudinal se plantea como trabajo futuro.",
+    "implication": "No incorporar biometría ni una penalización por ayuda sin necesidad y evidencia local.",
+    "passages": "Abstract y sección 8, incluida declaración de datos.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P013",
+    "slug": "VR - Comparación de modalidades educativas",
+    "year": 2026,
+    "title": "Evaluating the impact of immersive virtual reality in cybersecurity education for user empowerment against cyber threats",
+    "url": "https://doi.org/10.1007/s10055-025-01309-8",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Compara VR inmersiva, VR de escritorio, vídeo y texto en conceptos de seguridad.",
+    "limit": "Muestra de 36 universitarios, dominio acotado y retención de corto plazo; no valida competencia AppSec avanzada.",
+    "implication": "Mantener 3D de escritorio y acceso equivalente; comprobar si la interfaz permite observar las competencias previstas sin introducir barreras ajenas a ellas.",
+    "passages": "Artículo completo: secciones 1-7, declaraciones, tabla 1-9 y figuras 1-12; HTML 68-413 y originales editoriales",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P013",
+      "body": "Artículo completo: secciones 1-7, declaraciones, tabla 1-9 y figuras 1-12; HTML 68-413 y originales editoriales",
+      "tables": "Nueve tablas leídas completas en páginas editoriales",
+      "figures": "Doce figuras inspeccionadas visualmente",
+      "analysis": "El estudio usa 36 estudiantes, nueve por condición, contenidos básicos y seguimiento de una semana. Q4-Q10 se puntúan como sí/no sobre conocer conceptos: no representan por sí solos desempeño de desarrollo seguro. Los p-valores dentro de cada modalidad no prueban una diferencia causal entre modalidades. La tabla SUS parece sumar respuestas de ítems positivos y negativos sin inversión; aplicando el cálculo usual a sus medias se obtiene aproximadamente 49 en ambas condiciones, no 89/92. El texto también dice 38.8 donde la tabla da 36.8. No trasladar estas cifras a una garantía de competencia ni de superioridad del casco.",
+      "decision": "Conservar alternativas de escritorio y familiarización limitada a controles; evaluar tareas técnicas directamente, sin instrucción de seguridad durante el intento. No importar su instrumento ni sus tamaños de efecto."
+    },
+    "screened_recent": true
+  },
+  {
+    "id": "P014",
+    "slug": "CAPE - Incidentes y escape room híbrido",
+    "year": 2024,
+    "title": "Try to esCAPE from Cybersecurity Incidents! A Technology-Enhanced Educational Approach",
+    "url": "https://doi.org/10.1007/s10758-024-09769-8",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      4
+    ],
+    "finding": "Integra respuesta a incidentes, comunicación, colaboración y simulación mediante un escape room híbrido.",
+    "limit": "El propio trabajo señala oportunidades desiguales de actuación en grupos y necesidad de recursos de implementación.",
+    "implication": "Pedir evidencias individuales de decisiones y comunicación cuando formen parte del perfil.",
+    "passages": "Abstract y sección 9. Primera publicación 30-07-2024; volumen de 2025.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P015",
+    "slug": "Simulación ecológica - Conducta ante amenazas",
+    "year": 2025,
+    "title": "Exploring a novel approach to cybersecurity: the role of ecological simulations on cybersecurity risk behaviors",
+    "url": "https://doi.org/10.1007/s10055-025-01228-8",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Compara una experiencia virtual de jornada laboral con amenazas y condiciones de feedback.",
+    "limit": "El resumen informa conductas y actitudes; no permite concluir dominio profesional de desarrollo seguro.",
+    "implication": "Usar decisiones contextualizadas y conservar evidencia previa a cualquier información que revele la solución; una actuación posterior no acredita por sí sola dominio previo.",
+    "passages": "Abstract y discusión final (151–171); setenta participantes, sin línea base y muestreo de conveniencia.",
+    "abstract_ref": "turn213view0",
+    "conclusion_ref": "turn232view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P016",
+    "slug": "VR - Primeros pasos de conducta segura",
+    "year": 2023,
+    "title": "First Steps to Improve Cybersecurity Behaviour – a Virtual Reality Experience",
+    "url": "https://research.utwente.nl/en/publications/first-steps-to-improve-cybersecurity-behaviour-a-virtual-reality-/",
+    "level": "resumen",
+    "questions": [
+      1
+    ],
+    "finding": "Prototipo de contraseñas y USB con 16 participantes; utiliza HAIS-Q y SUS.",
+    "limit": "Una mejora en cuestionario y usabilidad no establece competencia técnica en repositorios o remediación.",
+    "implication": "Tomar como antecedente de interacción y factibilidad, con transferencia limitada.",
+    "passages": "Abstract institucional completo. Conclusión del artículo pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P017",
+    "slug": "Anti-Phishing AG - Juego web tridimensional",
+    "year": 2026,
+    "title": "Design and Development of Anti-Phishing AG: A Web-Based 3D Serious Game to Improve Phishing Awareness Among Students in Saudi Arabia",
+    "url": "https://etasr.com/index.php/ETASR/article/view/18035",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Describe un juego 3D web y una evaluación antes/después con 702 escolares.",
+    "limit": "Otra población, amenaza y constructo; el diseño de un solo grupo no aísla el efecto causal de 3D.",
+    "implication": "Útil para factibilidad web, no como validación de las rúbricas de CyberSim.",
+    "passages": "Abstract y conclusión 814–841; diseño pre/post de un grupo escolar, sin control.",
+    "abstract_ref": "turn368view1",
+    "conclusion_ref": "turn377view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P018",
+    "slug": "NPC - Revisión de apoyo y evaluación",
+    "year": 2026,
+    "title": "A Systematic Literature Review on Non-Player Characters Actions and Characteristics in Serious Games for Cyber Security Education",
+    "url": "https://doi.org/10.3390/jcp6050155",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Revisa 28 juegos con NPC; predominan orientación, feedback y evaluación de usuarios sin grupos comparativos.",
+    "limit": "No realiza evaluación formal de sesgo de cada estudio ni establece certeza global de los beneficios.",
+    "implication": "Usar los NPC para representar actores y entregar información del caso; registrar cualquier ayuda de contenido que pueda afectar la interpretación de la competencia.",
+    "passages": "Abstract, limitaciones y sección 12; DOI verificado en la ficha de versiones editorial.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P019",
+    "slug": "De CTF a competencias - Revisión de plataformas",
+    "year": 2026,
+    "title": "From CTF to Competence: UX-Driven and Didactic Foundations for Gamified Cybersecurity Training Platforms",
+    "url": "https://doi.org/10.3390/app16126100",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Síntesis de 172 estudios que relaciona UX, didáctica, arquitectura y sostenibilidad.",
+    "limit": "Heterogeneidad de poblaciones y resultados; patrones de diseño no son una estimación causal de eficacia.",
+    "implication": "Mantener coherencia entre interacción, evidencia, contenido y mantenimiento de escenarios.",
+    "passages": "Abstract, discusión y conclusión. Corpus no reanalizado.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P020",
+    "slug": "Taxonomías de cyber ranges - Función e infraestructura",
+    "year": 2025,
+    "title": "A Systematic Review of Cyber Range Taxonomies: Trends, Gaps, and a Proposed Taxonomy",
+    "url": "https://doi.org/10.3390/fi17060259",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Separa funciones del cyber range de tecnologías habilitantes y propone una dimensión de infraestructura.",
+    "limit": "Los autores dejan la validación empírica y el uso del toolkit para trabajo futuro.",
+    "implication": "No confundir disponer de un entorno 3D con disponer de un instrumento de evaluación.",
+    "passages": "Abstract y secciones 5.6 y 6.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P021",
+    "slug": "Programación segura - Mapeo de enseñanza",
+    "year": 2024,
+    "title": "A Systematic Mapping Study on Teaching of Security Concepts in Programming Courses",
+    "url": "https://doi.org/10.1109/SEAA64295.2024.00052",
+    "level": "resumen",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisa 24 publicaciones sobre seguridad en cursos universitarios de programación.",
+    "limit": "La ficha institucional contiene resultados y conclusiones dentro del resumen; no se leyó el cierre del paper.",
+    "implication": "Incluir vulnerabilidad, impacto y contramedida, evaluando conocimiento y actuación.",
+    "passages": "Abstract institucional completo; texto completo pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto de contenidos",
+      "decision": "Mapeo de seguridad en programación: representar mecanismo, efecto y contramedida; no adoptar sus objetivos de enseñanza como objetivo de CyberSim.",
+      "passages": "Abstract p. 1; §5 Discussion and conclusions",
+      "consulted_url": "https://doi.org/10.1109/SEAA64295.2024.00052"
+    }
+  },
+  {
+    "id": "P022",
+    "slug": "Almansoori - Componentes del razonamiento seguro",
+    "year": 2023,
+    "title": "Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students",
+    "url": "https://doi.org/10.1145/3545945.3569730",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Entrevistas de programación a 21 estudiantes; aplica una adaptación de SOLO a comprensión, recursos y seguridad.",
+    "limit": "Reutiliza datos de entrevistas previas; no contar como réplica independiente. El lenguaje C y la población restringen extrapolación.",
+    "implication": "Valorar explicación causal, elección de pruebas y uso crítico de recursos, además de que el programa funcione.",
+    "passages": "PDF autor completo de siete páginas, figuras 1-3, métodos, resultados y discusión; suplemento completo de cuatro páginas, figura de taxonomía y cinco preguntas",
+    "abstract_ref": "turn198view0",
+    "conclusion_ref": "turn222view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P022",
+      "body": "PDF autor completo de siete páginas, figuras 1-3, métodos, resultados y discusión; suplemento completo de cuatro páginas, figura de taxonomía y cinco preguntas",
+      "tables": "Figuras tabulares 1-2 y taxonomía del suplemento leídas completas",
+      "figures": "Figuras 1-3 inspeccionadas en PDF local; suplemento recuperado como texto",
+      "analysis": "Reanaliza 21 entrevistas del trabajo anterior, no añade una replicación independiente. Dos codificadores consensúan, sin coeficiente de acuerdo informado. La asociación se observa en la misma tarea usada para construir y aplicar categorías; no demuestra predicción fuera de muestra ni causalidad. SOLO deja fuera extended abstract por límites del diseño: no justifica prohibir transferencia en estudiantes. El suplemento mezcla número de fuentes consultadas con calidad del uso: varias fuentes no son condición necesaria de rigor. No copiar esos anclajes literalmente.",
+      "decision": "Evaluar interpretación de errores, uso crítico de documentación y explicación causal junto al código; redactar anclajes propios de seguridad web/IA."
+    },
+    "screened_recent": true,
+    "local_pdf": "Papers/Almansoori - Componentes del razonamiento seguro/Almansoori - Componentes del razonamiento seguro.pdf",
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fundamento directo de tareas",
+      "decision": "Evaluar lectura del código, explicación causal y uso crítico de documentación junto a la corrección. Reutiliza las entrevistas de P135; no es una réplica independiente.",
+      "passages": "Abstract p. 1; §6 Conclusion p. 6; profundización en §§3–5",
+      "consulted_url": "https://pages.cs.wisc.edu/~chatterjee/papers/sigcse23-missingpieces.pdf"
+    }
+  },
+  {
+    "id": "P023",
+    "slug": "Threat modeling - Rúbricas de pensamiento sistémico",
+    "year": 2024,
+    "title": "Introducing Systems Thinking as a Framework for Teaching and Assessing Threat Modeling Competency",
+    "url": "https://arxiv.org/abs/2404.16632",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Propone rúbricas de STRIDE y pensamiento sistémico; aplica a entregables de tres cohortes de ingeniería de software.",
+    "limit": "No asumir que la rúbrica de un curso se transfiere validada a los casos CWE o que las cohortes identifican causalidad.",
+    "implication": "Evaluar fronteras de confianza y efectos entre componentes; no solo identificar etiquetas CWE.",
+    "passages": "PDF de 31 páginas: cuerpo, tablas 1-4, seis figuras y apéndice A con rúbricas completas; líneas 0-1183",
+    "abstract_ref": "turn193view0",
+    "conclusion_ref": "turn226view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P023",
+      "body": "PDF de 31 páginas: cuerpo, tablas 1-4, seis figuras y apéndice A con rúbricas completas; líneas 0-1183",
+      "tables": "Tablas 1-4 y A1-A2 leídas, escalas beginner/intermediate/advanced y cero por ausencia",
+      "figures": "Figuras 1-6 inspeccionadas en PDF local, páginas 9-10 y 15-19",
+      "analysis": "Quince proyectos de equipos, cinco por cohorte, no quince estudiantes. Cambiaron simultáneamente instrucción, herramienta y consignas; cohortes históricas y uso permitido de LLM impiden atribuir las diferencias a systems thinking solo. El 94% de acuerdo porcentual tras refinamiento no establece validez de las inferencias ni equivale a kappa. Las respuestas más extensas pueden reflejar la nueva consigna. Una frontera de confianza describe un límite; no bloquea ataques por dibujarla, aunque el artículo use esa expresión. STRIDE no es incapaz por definición de analizar flujos o interacciones.",
+      "decision": "Adoptar preguntas sobre activos, flujos, interacciones, decisiones y límites; corroborar implementación con pruebas y no solo con un informe convincente."
+    },
+    "screened_recent": true,
+    "local_pdf": "Papers/Threat modeling - Rúbricas de pensamiento sistémico/Threat modeling - Rúbricas de pensamiento sistémico.pdf",
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fundamento directo de tareas",
+      "decision": "Tomar activos, flujos, actores, fronteras y justificación de mitigaciones de las rúbricas; sus proyectos de equipos no acreditan automáticamente desempeño individual.",
+      "passages": "Abstract p. 1; Conclusion p. 23; apéndice A pp. 27–31",
+      "consulted_url": "https://arxiv.org/pdf/2404.16632"
+    }
+  },
+  {
+    "id": "P024",
+    "slug": "Vulnerabilidades - Tareas de programación universitaria",
+    "year": 2024,
+    "title": "Assessing Common Software Vulnerabilities in Undergraduate Computer Science Assignments",
+    "url": "https://journal.cisse.info/index.php/jcisse/article/view/179",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Analiza entregas de Programación II con análisis estático y compara sus debilidades con prioridades de la literatura.",
+    "limit": "Los hallazgos de una herramienta y curso no equivalen a la distribución de ataques del contexto profesional.",
+    "implication": "Contrastar prioridades de amenazas con errores de la población local antes de cerrar cobertura.",
+    "passages": "Abstract y cierre 504–531; SAST en tareas CS2, hallazgos dependientes del contexto.",
+    "abstract_ref": "turn383view0",
+    "conclusion_ref": "turn377view1",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P025",
+    "slug": "Seguridad - Respuestas de desarrolladores en contexto",
+    "year": 2023,
+    "title": "Security Responses in Software Development",
+    "url": "https://doi.org/10.1145/3563211",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Estudio etnográfico multisitio que caracteriza episodios de seguridad y respuestas de los desarrolladores.",
+    "limit": "Explicación contextual del trabajo; no es una escala educativa lista para puntuar a estudiantes.",
+    "implication": "Situar decisiones de seguridad en restricciones reales y exigir justificación de sus consecuencias.",
+    "passages": "Abstract y conclusión 1050–1069; estudio etnográfico de dos empresas, no prueba individual.",
+    "abstract_ref": "turn359view0",
+    "conclusion_ref": "turn379view1",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P026",
+    "slug": "CCA - Evaluación conceptual avanzada",
+    "year": 2023,
+    "title": "Psychometric Evaluation of the Cybersecurity Curriculum Assessment",
+    "url": "https://doi.org/10.1145/3545945.3569762",
+    "level": "resumen",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Evalúa el CCA con 193 estudiantes de siete instituciones mediante teoría clásica e IRT.",
+    "limit": "Mide conocimiento conceptual tras varios cursos; no acredita remediación práctica ni transferibilidad automática al español.",
+    "implication": "Añadir diagnóstico conceptual específico y estudiar su uso local; no sustituir tarea práctica por cuestionario.",
+    "passages": "Abstract institucional; artículo completo y conclusiones pendientes.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P027",
+    "slug": "Pensamiento adversarial - Síntesis educativa",
+    "year": 2026,
+    "title": "A systematic review on adversarial thinking in cyber security education: Themes and potential frameworks",
+    "url": "https://doi.org/10.1016/j.cose.2025.104803",
+    "level": "resumen",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisión temática de 95 artículos; encuentra diversidad de conceptos y marcos para pensamiento adversarial.",
+    "limit": "El resumen recomienda desarrollar un marco general; no valida una rúbrica única para todas las amenazas.",
+    "implication": "Precisar qué hipótesis y contrastes debe producir cada tarea, en lugar de puntuar una etiqueta abstracta.",
+    "passages": "Abstract original indexado. Acceso directo 403; conclusiones pendientes.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P028",
+    "slug": "Analítica - Datos de entrenamiento en ciberseguridad",
+    "year": 2022,
+    "title": "Applications of Educational Data Mining and Learning Analytics on Data From Cybersecurity Training",
+    "url": "https://www.muni.cz/en/research/publications/1851598",
+    "level": "resumen",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Selecciona 35 estudios entre 3021 registros y clasifica datos, métodos y aplicaciones de analítica.",
+    "limit": "Una revisión de métodos no demuestra que mayor telemetría produzca una mejor inferencia de competencia.",
+    "implication": "Registrar primero eventos mínimos justificados y su relación con una afirmación evaluable.",
+    "passages": "Resumen institucional e información del corpus. Lectura integral pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P029",
+    "slug": "Process mining - Dataset de comportamiento",
+    "year": 2024,
+    "title": "Hands-on cybersecurity training behavior data for process mining",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10770710/",
+    "level": "resumen",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Publica datos de comportamiento y referencias esperadas para descubrimiento y conformidad de procesos.",
+    "limit": "Una ruta esperada puede no cubrir todas las soluciones correctas; un dataset no valida la rúbrica local.",
+    "implication": "Conservar pruebas y procedencia; permitir que rutas no previstas pasen a revisión.",
+    "passages": "Abstract de artículo de datos. Conclusiones y cobertura del dataset pendientes.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P030",
+    "slug": "Tectonic - Evaluación de ejercicios con trazas",
+    "year": 2025,
+    "title": "Assessment of Red and Blue Team Training in the Cyber Range Tectonic using Process Mining",
+    "url": "https://doi.org/10.19153/cleiej.28.5.2",
+    "level": "resumen",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Describe evaluación ofensiva y defensiva mediante process mining en un cyber range académico.",
+    "limit": "La apertura editorial falló; el resumen no permite evaluar precisión, alternativas de solución ni generalización.",
+    "implication": "Comparar trazas como apoyo al docente; conservar verificaciones del producto y explicación.",
+    "passages": "Abstract editorial indexado. Lectura completa pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P031",
+    "slug": "LLM - Entrenamiento práctico de prompt injection",
+    "year": 2025,
+    "title": "Hands-On Training Framework for Prompt Injection Exploits in Large Language Models",
+    "url": "https://doi.org/10.3390/engproc2025108025",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Plataforma ensayada con diez equipos; informa consultas adversarias y resistencia del modelo a revelar flags.",
+    "limit": "La tasa de bloqueo del modelo no mide aprendizaje de personas. Sus defensas por palabras clave no acreditan protección general.",
+    "implication": "Diseñar tareas de identificación, reparación y comprobación legítima/adversa; separar éxito del ataque de competencia humana.",
+    "passages": "Artículo completo, tabla de cinco desafíos y cuatro figuras editoriales.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P031",
+      "body": "Artículo completo, tabla de cinco desafíos y cuatro figuras editoriales.",
+      "tables": "Tabla de instrucciones y objetivos leída completa.",
+      "figures": "Figuras 1-4 inspeccionadas visualmente.",
+      "analysis": "Diez equipos y 1126 consultas describen la actividad y respuestas del sistema, no una prueba pre/post de dominio individual. La figura de defensa usa detección de palabras: eso no demuestra una solución robusta a prompt injection. El 88.8% corresponde a respuestas bloqueadas o incorrectas para el atacante bajo ese evento, no a aprendizaje. Las tareas contienen instrucciones deliberadamente contradictorias y no representan por sí solas un agente con herramientas.",
+      "decision": "Puede inspirar situaciones de ataque y análisis de límites; añadir utilidad legítima, defensa y explicación individual."
+    },
+    "screened_recent": true
+  },
+  {
+    "id": "P032",
+    "slug": "CTF - Certeza de la evidencia educativa",
+    "year": 2026,
+    "title": "A systematic literature review of capture the flag (CTF) methodologies in developing cybersecurity competence",
+    "url": "https://doi.org/10.20897/ejsteme/19494",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Revisa 18 estudios empíricos y distingue motivación, autoconfianza, desempeño, retención y transferencia.",
+    "limit": "La revisión califica como limitada la certeza sobre competencia y transferencia. La lectura integral identifica heterogeneidad, límites de recuperación y una rúbrica de calidad propia no validada; no permite importar un efecto global a CyberSim.",
+    "implication": "No presentar participación, interés o confianza como demostración de dominio práctico.",
+    "passages": "PDF completo de veinte páginas: introducción, metodología, resultados, discusión, limitaciones, conclusiones y referencias; figura PRISMA y cuatro tablas",
+    "abstract_ref": "turn384view0",
+    "conclusion_ref": "turn377view2",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P032",
+      "body": "PDF completo de veinte páginas: introducción, metodología, resultados, discusión, limitaciones, conclusiones y referencias; figura PRISMA y cuatro tablas",
+      "tables": "Tablas 1-4 leídas completas; el extractor omitía la fila Costa 2020, contrastada visualmente en PDF",
+      "figures": "Figura 1 PRISMA inspeccionada visualmente en PDF local",
+      "analysis": "Sus juicios GRADE pertenecen a dominios amplios y heterogéneos, no son tamaños de efecto ni una evaluación GRADE de CyberSim. La rúbrica de calidad es propia y no validada, la segunda revisión no fue ciega, no hubo registro prospectivo y 38 reportes no se recuperaron; incluso la lista de 80 excluidos a texto completo vuelve a mencionar ocho no disponibles. Esto restringe exhaustividad y exactitud de la clasificación. Coincide con otros trabajos en separar confianza de desempeño, pero las revisiones comparten estudios y no deben sumarse como ensayos independientes.",
+      "decision": "No usar flags, ranking o tiempo como certificación del perfil; prever tareas nuevas y seguimiento. El suplemento OSF no pudo recuperarse y no se presenta como auditado."
+    },
+    "screened_recent": true,
+    "local_pdf": "Papers/CTF - Certeza de la evidencia educativa/CTF - Certeza de la evidencia educativa.pdf"
+  },
+  {
+    "id": "P033",
+    "slug": "Cyber ranges - Lecciones entre niveles educativos",
+    "year": 2025,
+    "title": "Lessons Learned from Using Cyber Range to Teach Cybersecurity at Different Levels of Education",
+    "url": "https://doi.org/10.1007/s10758-025-09840-y",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Recoge percepciones y experiencias educativas; menciona tensión entre competencia, estrés y uso de pistas.",
+    "limit": "Los datos de percepción no validan una regla de puntuación ni una penalización uniforme por ayuda.",
+    "implication": "Separar apoyo instrumental y ayuda de contenido; observar abandono y accesibilidad en piloto.",
+    "passages": "Abstract y conclusión 487–492; encuesta de 129 participantes, predominio checo, resultados de percepción.",
+    "abstract_ref": "turn200view0",
+    "conclusion_ref": "turn231view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P034",
+    "slug": "Cursos online - Revisión universitaria de ciberseguridad",
+    "year": 2024,
+    "title": "How universities teach cybersecurity courses online: a systematic literature review",
+    "url": "https://doi.org/10.3389/fcomp.2024.1499490",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Se localizó una revisión universitaria de modalidades de enseñanza online.",
+    "limit": "Todavía no se extrajeron de forma completa el abstract y las conclusiones.",
+    "implication": "Conservar como antecedente contextual sobre enseñanza online; el acceso parcial no sustenta una conclusión exclusiva sobre evaluación individual en escenarios 3D.",
+    "passages": "Abstract y cierre/discusión 564–580; síntesis de modalidades online y brechas de transferencia/retención.",
+    "abstract_ref": "turn192view0",
+    "conclusion_ref": "turn233view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P035",
+    "slug": "SDLC - Revisión crítica de juegos de seguridad",
+    "year": 2025,
+    "title": "Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC",
+    "url": "https://doi.org/10.1016/j.infsof.2025.107850",
+    "level": "resumen",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Compara doce juegos y sus materiales de seguridad y privacidad en el ciclo de desarrollo.",
+    "limit": "La mayoría de evaluaciones se centran en experiencia y opinión; apertura directa del paper bloqueada.",
+    "implication": "Exigir resultados observables de ingeniería y no limitar el piloto a satisfacción.",
+    "passages": "Abstract original indexado y ficha de autores. Conclusión localizada en fuente secundaria, no contada.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P036",
+    "slug": "Secretos - Prácticas de gestión",
+    "year": 2022,
+    "title": "What are the practices for secret management in software artifacts?",
+    "url": "https://bradreaves.net/publication/bnrw22/",
+    "level": "texto-completo",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisión de literatura gris que identifica 24 prácticas organizadas en seis categorías.",
+    "limit": "Popularidad de una práctica no es eficacia comparativa ni evidencia sobre evaluación educativa.",
+    "implication": "AndinaPay debe considerar custodia, despliegue, escaneo y ciclo de vida; no solo borrar el literal.",
+    "passages": "PDF completo de ocho páginas; secciones I-VI, referencias y figuras 1-2",
+    "abstract_ref": "turn237view0",
+    "conclusion_ref": "turn241view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P036",
+      "body": "PDF completo de ocho páginas; secciones I-VI, referencias y figuras 1-2",
+      "tables": "No hay tablas de resultados adicionales; 24 prácticas y seis categorías leídas en el cuerpo",
+      "figures": "Figuras 1-2 inspeccionadas visualmente en PDF local",
+      "analysis": "Es una revisión de 54 artefactos grises, no 54 experimentos: las frecuencias de recomendaciones no estiman eficacia ni adopción. Algunas frases confunden servicios de secretos con módulos hardware y atribuyen capacidades exclusivas sin comparación contemporánea. No importar restricciones de forks como remedio universal, ni asumir que una variable de entorno ya proporciona custodia segura. La vida corta de una credencial de acceso y la pérdida de una clave de cifrado sobre una copia antigua tienen consecuencias distintas.",
+      "decision": "AndinaPay debe observar historial, custodia, rotación, migración, permisos y prevención verificables. Separar exposición histórica irreversible de recuperación operacional."
+    },
+    "screened_recent": true,
+    "local_pdf": "Papers/Secretos - Prácticas de gestión/Secretos - Prácticas de gestión.pdf",
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización técnica",
+      "decision": "Representar exposición, almacenamiento, rotación y recuperación de secretos; las prácticas sintetizadas no son una escala de estudiantes ni una comparación experimental.",
+      "passages": "Abstract p. 1; §VI Conclusion",
+      "consulted_url": "https://bradreaves.net/publication/bnrw22/bnrw22.pdf"
+    }
+  },
+  {
+    "id": "P037",
+    "slug": "Secretos - Dificultades de desarrolladores",
+    "year": 2023,
+    "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+    "url": "https://arxiv.org/abs/2301.12377",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Análisis cualitativo de 779 preguntas; identifica retos de despliegue, versionado y saneamiento de historial.",
+    "limit": "Las preguntas públicas no representan automáticamente a todos los desarrolladores ni cuantifican competencia.",
+    "implication": "Incluir decisiones contextualizadas de recuperación y límites del saneamiento de historia.",
+    "passages": "Abstract y conclusión 1115–1135; 779 preguntas, veintisiete problemas y trece soluciones.",
+    "abstract_ref": "turn212view0",
+    "conclusion_ref": "turn220view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización técnica",
+      "decision": "Incluir historial, despliegue y configuración en los problemas de secretos; preguntas de desarrolladores describen dificultades, no un estándar de aprobación.",
+      "passages": "Abstract p. 1; §VIII Conclusion",
+      "consulted_url": "https://arxiv.org/pdf/2301.12377"
+    }
+  },
+  {
+    "id": "P038",
+    "slug": "Secretos - Comparación de detectores",
+    "year": 2023,
+    "title": "A Comparative Study of Software Secrets Reporting by Secret Detection Tools",
+    "url": "https://bradreaves.net/publication/bcrw23/",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Compara nueve herramientas; describe falsos positivos, omisiones y compromisos entre precisión y exhaustividad.",
+    "limit": "El benchmark depende de datos, reglas y versiones; un escaneo sin alertas no demuestra ausencia de secretos.",
+    "implication": "Pedir contrastes con un identificador público benigno y una clave realmente recuperable.",
+    "passages": "Abstract y conclusión 972–993; nueve herramientas, versiones históricas y un benchmark.",
+    "abstract_ref": "turn244view0",
+    "conclusion_ref": "turn285view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización técnica",
+      "decision": "Exigir interpretar falsos positivos y falsos negativos de detectores; un resultado del escáner no sustituye la revisión del mecanismo.",
+      "passages": "Abstract p. 1; §X Conclusion",
+      "consulted_url": "https://bradreaves.net/publication/bcrw23/bcrw23.pdf"
+    }
+  },
+  {
+    "id": "P039",
+    "slug": "SecretBench - Verdad de referencia de secretos",
+    "year": 2023,
+    "title": "SecretBench: A Dataset of Software Secrets",
+    "url": "https://bradreaves.net/publication/bnrw23b/",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Dataset etiquetado para evaluar detección de secretos en repositorios.",
+    "limit": "No importar secretos reales a un ejercicio educativo ni confundir evaluación de detectores con evaluación del alumno.",
+    "implication": "Construir fixtures sintéticos con verdad conocida y distractores benignos.",
+    "passages": "Abstract y conclusión 402–410; el benchmark evalúa detección de secretos, no competencia humana.",
+    "abstract_ref": "turn239view0",
+    "conclusion_ref": "turn242view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización técnica",
+      "decision": "Usar datos etiquetados para construir contrastes de detección; el rendimiento de herramientas sobre SecretBench no valida competencia del alumno.",
+      "passages": "Abstract p. 1; §VIII Conclusion",
+      "consulted_url": "https://bradreaves.net/publication/bnrw23b/bnrw23b.pdf"
+    }
+  },
+  {
+    "id": "P040",
+    "slug": "Secretos - Límites de los escáneres industriales",
+    "year": 2022,
+    "title": "Why secret detection tools are not enough: It’s not just about false positives - An industrial case study",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8928718/",
+    "level": "resumen",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Estudio industrial sobre advertencias ignoradas; incorpora presión temporal, deuda técnica y percepción de riesgo.",
+    "limit": "Observar motivos de bypass no valida un rasgo psicológico del alumno ni demuestra su conducta habitual.",
+    "implication": "Evaluar cómo justifica excepciones y previene recurrencia, sin premiar solo habilitar un escáner.",
+    "passages": "Abstract original indexado. Texto completo pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P041",
+    "slug": "InjecAgent - Fronteras de instrucciones y datos",
+    "year": 2024,
+    "title": "InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents",
+    "url": "https://aclanthology.org/2024.findings-acl.624/",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Benchmark de inyección indirecta en agentes con herramientas y objetivos de daño o exfiltración.",
+    "limit": "Mide sistemas, no personas. Sus tasas no son umbrales educativos.",
+    "implication": "Modelar datos no confiables, permisos de herramientas y efectos autorizados; exigir prueba benigna y adversaria.",
+    "passages": "Abstract y conclusión 665–676; benchmark de agentes con resultados externos no confiables.",
+    "abstract_ref": "turn208view0",
+    "conclusion_ref": "turn223view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P042",
+    "slug": "AgentDojo - Seguridad y utilidad por separado",
+    "year": 2024,
+    "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html",
+    "level": "texto-completo",
+    "questions": [
+      2
+    ],
+    "finding": "Entorno de evaluación de agentes que separa tareas legítimas y propiedades de seguridad.",
+    "limit": "Una defensa que bloquea todo puede evitar el ataque y fallar la tarea. El benchmark no mide competencia humana.",
+    "implication": "Reutilizar el principio de dos oráculos: función legítima y seguridad; no trasladar sus puntuaciones.",
+    "passages": "Artículo completo en HTML y PDF arXiv v3: introducción, secciones 2–5, checklist y apéndices A–F. Código y prompts que no aparecían en la conversión HTML se examinaron visualmente en PDF.",
+    "abstract_ref": "turn214view0",
+    "conclusion_ref": "turn217view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "full_reading": {
+      "id": "P042",
+      "body": "Artículo completo en HTML y PDF arXiv v3: introducción, secciones 2–5, checklist y apéndices A–F. Código y prompts que no aparecían en la conversión HTML se examinaron visualmente en PDF.",
+      "tables": "Tablas 1–5 leídas, incluidos intervalos y desgloses por modelo/defensa.",
+      "figures": "Figuras 1–21 inspeccionadas visualmente en el PDF original; incluyen definiciones de código, prompts y resultados. No se ejecutaron el repositorio ni sus trazas externas.",
+      "analysis": "AgentDojo distingue utilidad legítima y éxito de un objetivo adversario sobre un estado ejecutable. Los 629 casos proceden de combinar 97 tareas de usuario y 27 objetivos de inyección: no son 629 contextos independientes ni observaciones humanas. La proporción de salida controlada y los permisos disponibles cambian mucho entre suites; una tasa global puede ocultarlo. El ataque Max selecciona entre un conjunto limitado, no representa al adversario óptimo. El filtro de herramientas ayuda especialmente cuando basta lectura para la tarea legítima y el ataque requiere escritura; falla si ambos necesitan las mismas herramientas o si no pueden planificarse de antemano. El paper no cubre plenamente sesiones largas con tareas sucesivas. La tabla 1 dice 70 herramientas en su leyenda, pero sus filas suman 74 y el cuerpo también dice 74; hay además texto inicial heredado sobre utilidad menor a 66% que no describe todas las filas de la versión ampliada. No se importan esas cifras como rendimiento actual en 2026. Los oráculos son especificados manualmente y también requieren auditoría de suficiencia. El estudio evalúa agentes y defensas de 2024; no valida una rúbrica ni un aprendizaje de estudiantes.",
+      "decision": "Para CAP-07, conservar tareas legítimas y objetivos prohibidos independientes, cambios de estado observables y autoridad de herramientas limitada fuera del prompt. Evaluar la explicación y la intervención del estudiante; el porcentaje de éxito del agente es evidencia técnica del artefacto, no una nota humana."
+    },
+    "local_pdf": "Papers/AgentDojo - Seguridad y utilidad por separado/AgentDojo - Seguridad y utilidad por separado.pdf"
+  },
+  {
+    "id": "P043",
+    "slug": "Prompt injection - Formalización y defensas",
+    "year": 2024,
+    "title": "Formalizing and Benchmarking Prompt Injection Attacks and Defenses",
+    "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/liu-yupei",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Formaliza ataques y compara familias de ataques y defensas en aplicaciones integradas con LLM.",
+    "limit": "La evaluación de modelos no demuestra eficacia educativa ni inmunidad futura.",
+    "implication": "Evaluar mecanismo, frontera y limitación de la defensa en vez de memorizar un prompt.",
+    "passages": "Abstract y conclusión 1261–1271; formalización y pruebas de ataques y defensas, no evaluación humana.",
+    "abstract_ref": "turn214view1",
+    "conclusion_ref": "turn216view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P044",
+    "slug": "Poisoning - Datos de ajuste de instrucciones",
+    "year": 2023,
+    "title": "Poisoning Language Models During Instruction Tuning",
+    "url": "https://proceedings.mlr.press/v202/wan23b.html",
+    "level": "texto-completo",
+    "questions": [
+      2
+    ],
+    "finding": "Muestra contaminación del ajuste por ejemplos maliciosos y degradación de tareas bajo disparadores.",
+    "limit": "Ataque de entrenamiento distinto de la inyección durante inferencia; un filtro de inputs no es defensa general de la cadena.",
+    "implication": "Evaluar procedencia del dataset, permisos, integridad y comprobación de comportamiento tras entrenamiento.",
+    "passages": "PDF editorial de 13 páginas completo: cuerpo, método de contaminación, experimentos, defensas, limitaciones, discusión y apéndices A–D.",
+    "abstract_ref": "turn209view0",
+    "conclusion_ref": "turn229view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "full_reading": {
+      "id": "P044",
+      "body": "PDF editorial de 13 páginas completo: cuerpo, método de contaminación, experimentos, defensas, limitaciones, discusión y apéndices A–D.",
+      "tables": "Tablas 1–5 leídas, con modelos, datos, ejemplos y resultados.",
+      "figures": "Figuras 1–12 inspeccionadas visualmente, incluidas las tres figuras de los apéndices. No se reprodujeron entrenamientos ni se auditaron los datos externos.",
+      "analysis": "El atacante debe conseguir que sus ejemplos entren en el ajuste por instrucciones; ese supuesto no prueba que cualquier dato enviado a un servicio comercial se use para entrenar. Algunos ejemplos conservan etiquetas aparentemente correctas: validación de formato, hashes o firma de origen no garantizan ausencia de contaminación semántica. Se estudian T5/Tk-Instruct de 770M a 11B y tareas de 2023, no todos los modelos actuales. La afirmación de que los mayores son más fáciles de contaminar depende del objetivo: el patrón de polaridad no se generaliza al ataque de respuestas arbitrarias, donde 11B resulta más robusto que 3B en la figura 7b. Solo algunas condiciones tienen tres semillas; no debe presentarse una ley universal o monótona del tamaño. La sustitución de entidades deja referencias de resumen sin adaptar, limitación que afecta la interpretación absoluta de métricas. Las defensas basadas en pérdida dependen del checkpoint y del compromiso con datos legítimos; ninguna es garantía suficiente. La evidencia es sobre comportamiento de modelos, no sobre medición de competencia humana.",
+      "decision": "Diseñar un caso distinto de prompt injection: admisión/versionado de datos, hipótesis de acceso del atacante, comparación limpia/contaminada y pruebas con disparador y tareas benignas. Usar un experimento pequeño reproducible o snapshots precomputados claramente identificados; no exigir entrenar un modelo de 11B dentro de CyberSim."
+    },
+    "local_pdf": "Papers/Poisoning - Datos de ajuste de instrucciones/Poisoning - Datos de ajuste de instrucciones.pdf"
+  },
+  {
+    "id": "P045",
+    "slug": "Readiness - Marco conceptual reciente",
+    "year": 2026,
+    "title": "Cybersecurity workforce readiness: a three-dimensional assessment and scenario-based intervention framework aligned with NICE",
+    "url": "https://doi.org/10.3389/feduc.2026.1958161",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Distingue preparación, competencia, desempeño y autoeficacia en una propuesta alineada con NICE.",
+    "limit": "El propio artículo se presenta como análisis conceptual sin validación en poblaciones de ciberseguridad.",
+    "implication": "Ayuda a delimitar las afirmaciones, sin adoptar sus niveles como un instrumento validado.",
+    "passages": "Abstract y conclusión 650–656; marco conceptual no validado en ciberseguridad, sin suma global automática.",
+    "abstract_ref": "turn207view0",
+    "conclusion_ref": "turn228view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P046",
+    "slug": "Industria y universidad - Competencias por contexto",
+    "year": 2026,
+    "title": "Importance of Cybersecurity Competencies in Higher Education and for Employers",
+    "url": "https://doi.org/10.3390/app16073260",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Compara doce programas europeos con prioridades de empleadores eslovenos; encuentra diferencias por rol y tamaño organizacional.",
+    "limit": "Clasificar contenidos curriculares y valorar importancia no mide desempeño; las prioridades no se transfieren sin más a Ecuador.",
+    "implication": "Delimitar un perfil de ingeniería de software y validar localmente contenido y relevancia.",
+    "passages": "Abstract, discusión seleccionada y sección 7.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "comparación de perfiles",
+      "decision": "Contrastar énfasis académicos y empresariales sin imponer a estudiantes de desarrollo el ranking de empleadores eslovenos o de todos los roles de seguridad.",
+      "passages": "Abstract; §7 Conclusions",
+      "consulted_url": "https://doi.org/10.3390/app16073260"
+    }
+  },
+  {
+    "id": "P047",
+    "slug": "LLM - Seguridad de respuestas de programación",
+    "year": 2025,
+    "title": "Do LLMs consider security? an empirical study on responses to programming questions",
+    "url": "https://doi.org/10.1007/s10664-025-10658-6",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Estudia respuestas de Claude 3, GPT-4 y Llama 3 a preguntas con código vulnerable, observando advertencias y explicación de causas, explotación y correcciones.",
+    "limit": "Evalúa salidas de modelos, no competencia humana; sus resultados dependen del dataset y las versiones estudiadas.",
+    "implication": "Candidato para la competencia de revisión crítica de código sugerido por IA.",
+    "passages": "Abstract y conclusión 354–362; fallos de advertencia en tres LLM, dependencia de versión y dataset.",
+    "abstract_ref": "turn191view0",
+    "conclusion_ref": "turn221view0",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P048",
+    "slug": "Ingeniería - Revisión de modelos de competencias",
+    "year": 2026,
+    "title": "Software engineering competency models and intercultural communication competencies: A systematic literature review",
+    "url": "https://doi.org/10.1016/j.jss.2025.112662",
+    "level": "localizado",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisión reciente de modelos de competencias y comunicación intercultural.",
+    "limit": "La fuente institucional se localizó, pero no se completó el cribado de abstract y conclusiones.",
+    "implication": "Candidato para contrastar la actualización del marco general de software.",
+    "passages": "Ficha de Oulu localizada; lectura pendiente.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": false
+  },
+  {
+    "id": "P049",
+    "slug": "Transformación digital - Marco de competencias",
+    "year": 2025,
+    "title": "Beyond Technical Skills: Competency Framework for Engineers in the Digital Transformation Era",
+    "url": "https://www.mdpi.com/2075-4698/15/8/217",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisión de 59 trabajos; propone 47 competencias en siete dimensiones.",
+    "limit": "Marco pendiente de validación empírica; no constituye prueba de desempeño.",
+    "implication": "Separar necesidades del perfil de su medición; adaptar al rol de desarrollo seguro.",
+    "passages": "Abstract y cierre; recuperación turn61view0; cierre turn70view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P050",
+    "slug": "Informática - Revisión de habilidades transversales",
+    "year": 2024,
+    "title": "A Systematic Literature Review of Soft Skills in Information Technology Education",
+    "url": "https://www.mdpi.com/2076-328X/14/10/894",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisa 69 artículos; destaca comunicación, colaboración y resolución de problemas.",
+    "limit": "Heterogeneidad y énfasis en empleabilidad; no acredita pericia técnica individual.",
+    "implication": "Solicitar justificación técnica y comunicación del riesgo junto con corrección funcional.",
+    "passages": "Abstract y cierre; recuperación turn63view0; cierre turn65view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P051",
+    "slug": "Ingeniería - Competencias por etapa profesional",
+    "year": 2025,
+    "title": "Engineering in the Digital Age: A Career-Level Competency Framework Validated by the Productive Sector",
+    "url": "https://www.mdpi.com/2071-1050/17/16/7425",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Combina literatura, 392 autoevaluaciones e entrevistas a veinte representantes empresariales.",
+    "limit": "Autopercepción y prioridades empresariales no equivalen a desempeño observado.",
+    "implication": "Especificar nivel de entrada y autonomía; no exigir el mismo dominio a estudiante y especialista senior.",
+    "passages": "Abstract y cierre; recuperación turn64view0; cierre turn68view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "comparación de niveles",
+      "decision": "Distinguir competencias por etapa profesional; no exigir autonomía de un ingeniero sénior ni adoptar autoevaluación como prueba de actuación.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2071-1050/17/16/7425"
+    }
+  },
+  {
+    "id": "P052",
+    "slug": "Ingeniería - Validación de competencias genéricas",
+    "year": 2022,
+    "title": "How to Assess Generic Competencies: From Sustainable Development Needs among Engineering Graduates in Industry",
+    "url": "https://www.mdpi.com/2071-1050/14/15/9270",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Desarrolla instrumento de 55 ítems con dos muestras de ingenieros en China y análisis factorial.",
+    "limit": "Instrumento de encuesta; validez contextual y estructural no demuestra transferencia a tareas de seguridad.",
+    "implication": "Validar localmente el significado de puntuaciones y no importar factores o cortes.",
+    "passages": "Abstract y cierre; recuperación turn62view0; cierre turn67view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "alternativa genérica",
+      "decision": "La validación de una encuesta de importancia de competencias genéricas no valida una prueba individual de seguridad de software.",
+      "passages": "Abstract; §6 Conclusions and Limitations",
+      "consulted_url": "https://www.mdpi.com/2071-1050/14/15/9270"
+    }
+  },
+  {
+    "id": "P053",
+    "slug": "Flexibilidad - Revisión de instrumentos",
+    "year": 2025,
+    "title": "Flexibility Competence Assessment: A Systematic Literature Review",
+    "url": "https://www.mdpi.com/2227-7102/15/9/1118",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Compara 22 estudios e instrumentos; encuentra cobertura parcial y solapamientos entre constructos.",
+    "limit": "Instrumentos específicos del contexto; no hay una escala universal de flexibilidad.",
+    "implication": "Evaluar revisión de hipótesis ante evidencia contradictoria dentro del caso, sin inferir rasgos generales.",
+    "passages": "Abstract y cierre; recuperación turn60view0; cierre turn71view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "alternativa descartada para contenido",
+      "decision": "Instrumentos de flexibilidad personal no justifican puntuar perseverancia o adaptación desde clics de una sesión de seguridad.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2227-7102/15/9/1118"
+    }
+  },
+  {
+    "id": "P054",
+    "slug": "LifeComp - Selección contextual de competencias",
+    "year": 2025,
+    "title": "Selecting and defining transversal competences for higher education training design",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1533505/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Articula perfil, módulos, descriptores y tareas; informa implementación universitaria de un programa.",
+    "limit": "Diseño e implementación no prueban impacto; evaluación registrada continúa en otros estudios.",
+    "implication": "Definir primero el perfil y traducir competencias generales a criterios del escenario.",
+    "passages": "Abstract y cierre; recuperación turn58view0; cierre turn69view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "selección contextual",
+      "decision": "Apoya declarar el contexto antes de elegir competencias transversales; no proporciona por sí solo las competencias técnicas de seguridad.",
+      "passages": "Abstract; §8 Conclusion",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1533505/full"
+    }
+  },
+  {
+    "id": "P055",
+    "slug": "Desarrollo seguro - Actividades artefactos y roles",
+    "year": 2023,
+    "title": "Identifying Key Activities, Artifacts and Roles in Agile Engineering of Secure Software with Hierarchical Clustering",
+    "url": "https://www.mdpi.com/2076-3417/13/7/4563",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Agrupa literatura en siete actividades, cinco artefactos y cuatro roles mediante similitud y clustering.",
+    "limit": "Organización conceptual de prácticas, no medición de competencia de estudiantes.",
+    "implication": "Vincular requisitos, amenazas, cambios, pruebas e informe como evidencia del trabajo seguro.",
+    "passages": "Abstract y cierre; recuperación turn57view0; cierre turn72view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto profesional",
+      "decision": "Usar tareas y artefactos de análisis, requisitos, pruebas y revisión; sus agrupamientos de actividades no son factores psicométricos del alumno.",
+      "passages": "Abstract; §7 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2076-3417/13/7/4563"
+    }
+  },
+  {
+    "id": "P056",
+    "slug": "Pymes - Desarrollo ágil seguro",
+    "year": 2023,
+    "title": "Agile Development of Secure Software for Small and Medium-Sized Enterprises",
+    "url": "https://www.mdpi.com/2071-1050/15/1/801",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Agrupa elementos de seguridad y consulta a profesionales sobre coste, agilidad y seguridad percibida.",
+    "limit": "Valoraciones de profesionales y propuesta de priorización; no estima eficacia causal de controles.",
+    "implication": "AndinaPay debe exigir mitigaciones sostenibles y justificar prioridades bajo restricciones.",
+    "passages": "Abstract y cierre; recuperación turn59view0; cierre turn66view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto profesional",
+      "decision": "Considerar costes, seguridad y continuidad del trabajo al justificar decisiones; las valoraciones de prácticas ágiles no se convierten en notas del estudiante.",
+      "passages": "Abstract; §7 Conclusions and Future Work",
+      "consulted_url": "https://www.mdpi.com/2071-1050/15/1/801"
+    }
+  },
+  {
+    "id": "P057",
+    "slug": "Articoding - Analítica para revisar tareas",
+    "year": 2025,
+    "title": "Learning Analytics to Guide Serious Game Development: A Case Study Using Articoding",
+    "url": "https://www.mdpi.com/2073-431X/14/4/122",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Analiza trazas de 134 escolares en dos sesiones y detecta errores y problemas de diseño.",
+    "limit": "Analítica descriptiva; tiempo y reintentos no son indicadores unívocos de competencia.",
+    "implication": "Usar trazas para revisar dificultad, ayudas y tareas; corroborarlas con productos y explicaciones.",
+    "passages": "Abstract y cierre/discusión; recuperación turn74view0; Bconc0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P058",
+    "slug": "Cyber ranges - Ontología de capacidades",
+    "year": 2026,
+    "title": "An Ontology-Based Framework for Semantic Representation of the Cyber Range Domain",
+    "url": "https://www.mdpi.com/2624-800x/6/2/76",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3
+    ],
+    "finding": "Representa estructura, función, información y decisión; valida instanciación, consistencia y consultas.",
+    "limit": "Competency questions son consultas de ontología; no validación de competencias humanas.",
+    "implication": "Mantener trazabilidad escenario-recurso-actividad-evidencia sin confundir consistencia de la ontología con validez de la evaluación de competencias.",
+    "passages": "Abstract y cierre/discusión; recuperación turn87view0; Bconc2.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "infraestructura",
+      "decision": "La representación semántica de un cyber range ayuda a organizar recursos y evidencias, pero no define el dominio del estudiante de software.",
+      "passages": "Abstract; §9 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2624-800x/6/2/76"
+    }
+  },
+  {
+    "id": "P059",
+    "slug": "Laboratorios - Gestión reproducible del entorno",
+    "year": 2025,
+    "title": "Architecture of an Efficient Environment Management Platform for Experiential Cybersecurity Education",
+    "url": "https://www.mdpi.com/2078-2489/16/7/604",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Automatiza provisión de máquinas virtuales y compara tiempos con gestión manual.",
+    "limit": "Evalúa infraestructura; no aprendizaje ni acreditación individual.",
+    "implication": "Registrar versión y estado inicial reproducible; fallos de provisión no deben ser errores del estudiante.",
+    "passages": "Abstract y cierre/discusión; recuperación turn76view0; Bconc3.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P060",
+    "slug": "Competencia digital - Límites de su evaluación",
+    "year": 2024,
+    "title": "A Systematic Review of Digital Competence Evaluation in Higher Education",
+    "url": "https://www.mdpi.com/2227-7102/14/11/1181",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisa evaluación de docentes; encuentra predominio de cuestionarios y variabilidad regional.",
+    "limit": "Población docente y competencia digital general; transferencia metodológica indirecta.",
+    "implication": "Distinguir autopercepción, evaluación externa y tareas prácticas al elegir instrumentos.",
+    "passages": "Abstract y cierre/discusión; recuperación turn80view0; cierre ampliado en Bclosingmore y Bfinalclose.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P061",
+    "slug": "Modelado - Validación con procesos de respuesta",
+    "year": 2024,
+    "title": "Analyzing student response processes to refine and validate a competency model and competency-based assessment task types",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1397027/full",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Quince estudiantes piensan en voz alta; se refinan facetas y demanda de tareas de modelado.",
+    "limit": "Estudio cualitativo de modelado gráfico; no estima fiabilidad ni umbral de seguridad.",
+    "implication": "Pilotar cómo se resuelve la tarea; producto final puede ocultar razonamiento y estrategias.",
+    "passages": "Artículo completo, secciones 1–6 y declaraciones; HTML 282–514 y bibliografía en navegador",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P061",
+      "body": "Artículo completo, secciones 1–6 y declaraciones; HTML 282–514 y bibliografía en navegador",
+      "tables": "Tabla 1 y matriz de la figura 2 contrastadas con el texto",
+      "figures": "Figuras 1 y 2 inspeccionadas visualmente en originales",
+      "analysis": "Quince participantes y 45 tareas no son 45 personas independientes. El acuerdo sube tras revisar guía y recodificar, por lo que no es una validación ciega independiente nueva. La figura 2 usa máximos distintos en variantes (10 y 12 puntos); comparar puntuaciones brutas sería incorrecto. La muestra cualitativa no establece umbral ni generalizabilidad de CyberSim. La contribución útil es comprobar si la tarea realmente moviliza el razonamiento supuesto.",
+      "decision": "Pilotaje cognitivo de AndinaPay con observación y entrevista retrospectiva; revisar facetas y tareas antes de calibrar resultados. No exigir pensar en voz alta en todo examen final."
+    },
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "validación del instrumento",
+      "decision": "Examinar cómo interpreta y resuelve el estudiante una tarea; una consigna aparentemente alineada puede activar procesos distintos de los previstos.",
+      "passages": "Abstract; §6 Discussion, utilizado como cierre del artículo",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1397027/full"
+    }
+  },
+  {
+    "id": "P062",
+    "slug": "C-A&M - Alineación de evaluación por competencias",
+    "year": 2025,
+    "title": "Standardizing course assessment in competency-based higher education: an experience report",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1579124/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Estudia veinte cursos de ingeniería y percepciones de 109 docentes; relaciona uso del modelo con alineación.",
+    "limit": "Diseño observacional y selección voluntaria; no atribución causal de mejora.",
+    "implication": "Auditar coherencia entre capacidades que se pretenden evaluar, tareas, rúbricas y resultados informados.",
+    "passages": "Abstract y cierre/discusión; recuperación turn88view0; cierre ampliado en Bclosingmore y Bfinalclose.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de alineación",
+      "decision": "Relacionar competencias, resultados de tarea y evaluación; un informe de implantación curricular no valida la selección técnica ni un corte de CyberSim.",
+      "passages": "Abstract; §5 Discussion y subsecciones finales",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1579124/full"
+    }
+  },
+  {
+    "id": "P063",
+    "slug": "DigComp - Instrumentos compactos de evaluación",
+    "year": 2025,
+    "title": "Enhancing digital skills assessment: introducing compact tools for measuring digital competence",
+    "url": "https://link.springer.com/article/10.1007/s10758-025-09825-x",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Valida escalas mini-21 y nano-6 con 460 participantes mediante modelos psicométricos.",
+    "limit": "Escalas Likert de competencia digital; su validación no convierte autoinforme en ejecución segura.",
+    "implication": "Combinar conocimientos, habilidades y actitudes; mantener autoinforme como dato complementario.",
+    "passages": "Abstract y cierre/discusión; recuperación turn84view0; Bconc8.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P064",
+    "slug": "Gemelos digitales - Demostración y atribución individual",
+    "year": 2026,
+    "title": "Integrating multi-layer digital twins into engineering education: a design-based research framework for industry 4.0 competency development",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1925782/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Presenta experiencia de sesenta estudiantes en dieciocho equipos y proyectos de gemelos digitales.",
+    "limit": "Sin línea base, comparación, validación psicométrica independiente ni evaluación individual; observaciones de cohorte ilustrativas.",
+    "implication": "La autenticidad 3D y resultados del equipo no autorizan inferencia de dominio individual.",
+    "passages": "Abstract y cierre/discusión; recuperación turn75view0; cierre ampliado en Bclosingmore y Bfinalclose.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P065",
+    "slug": "Universidad - Escala de conciencia de ciberseguridad",
+    "year": 2024,
+    "title": "Evaluating Online Security Behavior: Development and Validation of a Personal Cybersecurity Awareness Scale for University Students",
+    "url": "https://www.mdpi.com/2227-7102/14/6/588",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Desarrolla una escala de comportamientos declarados mediante análisis factorial y ecuaciones estructurales.",
+    "limit": "Conciencia y conducta declarada; no prueba capacidad de diagnosticar y corregir software.",
+    "implication": "No usar cuestionario de conciencia como sustituto de evidencia técnica observable.",
+    "passages": "Abstract y cierre/discusión; recuperación turn81view0; Bconc10.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P066",
+    "slug": "Microservicios - Mínimo privilegio",
+    "year": 2026,
+    "title": "The Principle of Least Privilege in Microservices: A Systematic Mapping Study",
+    "url": "https://www.mdpi.com/2076-3417/16/3/1495",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Mapea 25 estudios, mecanismos y obstáculos técnicos y organizacionales para mínimo privilegio.",
+    "limit": "Taxonomía y brechas de investigación; no instrumento educativo validado.",
+    "implication": "Exigir pruebas negativas de acceso y conservación de operaciones legítimas entre servicios.",
+    "passages": "Abstract y cierre/discusión; recuperación turn73view0; Bconc12.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P067",
+    "slug": "DevSecOps - Evidencia entre diseño y código",
+    "year": 2026,
+    "title": "Secure Programming and Secure Design in DevSecOps: A Literature-Based Conceptual Synthesis",
+    "url": "https://www.mdpi.com/2673-8732/6/3/75",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Síntesis conceptual vincula requisitos, diseño, implementación, verificación y operación.",
+    "limit": "Pesos ilustrativos y escenario PCI sin validación; clasificación cambia con supuestos.",
+    "implication": "Exigir trazabilidad y verificación ejecutable; no adoptar puntuaciones ilustrativas como rúbrica validada.",
+    "passages": "Abstract y cierre/discusión; recuperación turn78view0; Bconc13.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "síntesis conceptual complementaria",
+      "decision": "Relacionar intención de seguridad e implementación; sus perfiles ponderados son ilustrativos, sin base para adoptar pesos de aprobación.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2673-8732/6/3/75"
+    }
+  },
+  {
+    "id": "P068",
+    "slug": "Intervention Mapping - Diseño educativo de ciberseguridad",
+    "year": 2022,
+    "title": "Application of intervention mapping in cybersecurity education design",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.998335/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Propone diseño de formación por roles, necesidades, implementación y evaluación con caso aplicado.",
+    "limit": "Desarrollo conceptual y caso; validación cuantitativa y escenarios automáticos futuros.",
+    "implication": "Construir la matriz perfil-capacidad evaluada-tarea-evidencia antes de ampliar escenarios; no adoptar el programa de formación de la fuente.",
+    "passages": "Abstract y cierre/discusión; recuperación turn83view0; cierre ampliado en Bclosingmore y Bfinalclose.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de diseño",
+      "decision": "Delimitar responsabilidad y entorno antes de construir casos; su intervención educativa no se adopta como programa de aprendizaje.",
+      "passages": "Abstract; §5 Conclusion",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.998335/full"
+    }
+  },
+  {
+    "id": "P069",
+    "slug": "Informática - Revisión de aprendizaje mediante juegos",
+    "year": 2023,
+    "title": "Game-based learning in computer science education: a scoping literature review",
+    "url": "https://link.springer.com/article/10.1186/s40594-023-00447-2",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Mapea 113 artículos de 2017–2021; diversidad de juegos, niveles y objetivos.",
+    "limit": "No hay metodología universal; estudios locales dificultan generalización.",
+    "implication": "Justificar cada mecánica por la evidencia de competencia que permite obtener; comprobar el desempeño en tareas nuevas cuando se quiera generalizar el resultado.",
+    "passages": "Abstract y cierre/discusión; recuperación turn86view0; Bconc15.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto no adoptado como contenido",
+      "decision": "Una revisión de juegos en informática no demuestra que navegar o terminar rápido acredite desarrollo seguro.",
+      "passages": "Abstract; Conclusion",
+      "consulted_url": "https://link.springer.com/article/10.1186/s40594-023-00447-2"
+    }
+  },
+  {
+    "id": "P070",
+    "slug": "Juegos - Revisión de conciencia de seguridad",
+    "year": 2026,
+    "title": "A systematic scoping review on game-based cybersecurity awareness education",
+    "url": "https://link.springer.com/article/10.1007/s10207-026-01239-9",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Mapea 230 estudios y prueba una taxonomía en 57 juegos; recomienda comparación, pruebas y métodos mixtos.",
+    "limit": "Conciencia no equivale a ingeniería segura; clasificación depende del corpus y no informa acuerdo entre revisores.",
+    "implication": "Separar evaluación de experiencia, conocimientos y desempeño transferible.",
+    "passages": "Abstract y cierre; turn121view0; cierre Cconc3/Cfinal.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P071",
+    "slug": "Amenazas - Comparación de herramientas automáticas",
+    "year": 2023,
+    "title": "Systematic analysis of automated threat modelling techniques: Comparison of open-source tools",
+    "url": "https://link.springer.com/article/10.1007/s11219-023-09634-4",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Compara herramientas de modelado con WordPress; las amenazas difieren en granularidad y cobertura.",
+    "limit": "Un caso simple y catálogos distintos no autorizan comparar calidad contando amenazas.",
+    "implication": "Evaluar pertinencia y razonamiento de amenazas, no su cantidad.",
+    "passages": "Abstract y cierre; turn117view0; cierre Cconc10/Cfinal.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización técnica",
+      "decision": "Contrastar modelos y resultados de herramientas de amenazas; producir automáticamente una lista no prueba razonamiento del alumno.",
+      "passages": "Abstract; §6 Conclusions and future work",
+      "consulted_url": "https://link.springer.com/article/10.1007/s11219-023-09634-4"
+    }
+  },
+  {
+    "id": "P072",
+    "slug": "Informática - Factores de competencia integrada",
+    "year": 2026,
+    "title": "Factors influencing information and communication technology (ICT) competency among undergraduate computing students: a systematic review",
+    "url": "https://link.springer.com/article/10.1007/s44217-026-01270-x",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisa veinte estudios; integra conocimiento, práctica y disposición reflexiva.",
+    "limit": "La estructura propuesta requiere validación; implicaciones orientadas al contexto nigeriano.",
+    "implication": "Hacer explícitos saber, actuar y justificar dentro de condiciones del perfil.",
+    "passages": "Abstract y cierre; turn112view0; cierre Cconc12/Cfinal.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P073",
+    "slug": "Europa - Comparación de marcos de ciberseguridad",
+    "year": 2025,
+    "title": "Comparative analysis of EU-based cybersecurity skills frameworks",
+    "url": "https://unipub.lib.uni-corvinus.hu/10831/1/1-s2.0-S0167404825000185-main.pdf",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Analiza diez marcos y encuentra coincidencias en roles y tareas, con lagunas en seguridad de IA y pymes.",
+    "limit": "Análisis documental no prueba dominio ni aplicabilidad ecuatoriana.",
+    "implication": "Complementar marcos generales con tareas de software e IA; adaptar alcance al contexto.",
+    "passages": "Abstract y cierre; turn114view0; cierre Cconc14/Cfinal.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "comparación de marcos",
+      "decision": "Comparar alcance y lagunas de marcos europeos; un catálogo profesional transversal no constituye una prueba de pregrado.",
+      "passages": "Abstract p. 1; §5 Conclusions",
+      "consulted_url": "https://unipub.lib.uni-corvinus.hu/10831/1/1-s2.0-S0167404825000185-main.pdf"
+    }
+  },
+  {
+    "id": "P074",
+    "slug": "GENESIS - Evaluación de informática con IA",
+    "year": 2026,
+    "title": "Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education",
+    "url": "https://link.springer.com/article/10.1186/s41239-026-00582-0",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Analiza ochenta documentos públicos y propone GENESIS y matriz competencias-estrategias-métodos.",
+    "limit": "Propuesta cualitativa sin validación empírica; prácticas internas pueden diferir.",
+    "implication": "Especificar uso permitido de IA y verificar autoría mediante proceso y defensa de decisiones.",
+    "passages": "Abstract y cierre; turn115view0; cierre Cconc15/Cfinal.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "condiciones de administración",
+      "decision": "Definir ayuda de GenAI y procedencia de entregas; una política de evaluación no es contenido de competencia de seguridad de IA.",
+      "passages": "Abstract; Conclusions, implications and limitations",
+      "consulted_url": "https://link.springer.com/article/10.1186/s41239-026-00582-0"
+    }
+  },
+  {
+    "id": "P075",
+    "slug": "Escenarios - Preguntas y artefactos para evaluar",
+    "year": 2021,
+    "title": "Assessing Competencies Using Scenario-Based Learning in Cybersecurity",
+    "url": "https://www.mdpi.com/2624-800X/1/4/27",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Diseña mapeos NICE/OPM, preguntas guía y rúbricas para escenarios.",
+    "limit": "Publicado 23-09-2021, fuera de ventana estricta; la evaluación empírica amplia era futura.",
+    "implication": "Antecedente directo para alinear tareas y artefactos, sin importar sus cortes.",
+    "passages": "Abstract y conclusiones; turn149view0; Dconc0/Dclose0.",
+    "date": "2021-09-23",
+    "recent": false,
+    "reading_date": "2026-11-13",
+    "screened_recent": false,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de tareas",
+      "decision": "Relacionar escenario, preguntas, artefactos y rúbrica; no tomar satisfacción de participantes como validación de competencia.",
+      "passages": "Abstract; §9 Conclusions and Future Directions; profundización del cuerpo §§1–9",
+      "consulted_url": "https://www.mdpi.com/2624-800X/1/4/27"
+    }
+  },
+  {
+    "id": "P076",
+    "slug": "Código seguro - Síntesis de prácticas",
+    "year": 2026,
+    "title": "Toward a Unified Framework for Secure Coding: A Comprehensive Synthesis of Best Practices",
+    "url": "https://www.mdpi.com/2073-431X/15/4/220",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Integra 35 fuentes en ocho dominios: autenticación, criptografía, entradas y despliegue, entre otros.",
+    "limit": "Síntesis de recomendaciones; no demuestra comparativamente que su marco reduzca vulnerabilidades.",
+    "implication": "Usar prácticas para seleccionar tareas; verificar eficacia por comportamiento ejecutable.",
+    "passages": "Abstract y conclusiones; turn153view0; Dconc1/Dclose1.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "síntesis de contenido",
+      "decision": "Complementar mecanismos de codificación segura; ocho dominios de buenas prácticas no equivalen a las ocho CAP ni demuestran superioridad causal.",
+      "passages": "Abstract; §8 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2073-431X/15/4/220"
+    }
+  },
+  {
+    "id": "P077",
+    "slug": "Seguridad - Aprendizaje contextual para desarrolladores",
+    "year": 2023,
+    "title": "Context-Based Support to Enhance Developers’ Learning of Software Security",
+    "url": "https://www.mdpi.com/2227-7102/13/7/631",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3
+    ],
+    "finding": "Diseña un sistema ontológico de aprendizaje contextual y evalúa perspectivas de estudiantes y desarrolladores.",
+    "limit": "Satisfacción y utilidad percibida no acreditan transferencia ni dominio profesional.",
+    "implication": "Solicitar al estudiante una explicación contextual que relacione sus decisiones con el código del escenario; no incorporar la enseñanza contextual como parte de la evaluación.",
+    "passages": "Abstract y conclusiones; turn160view0; Dconc2/Dclose2.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fuera del objetivo formativo",
+      "decision": "Conservar como antecedente examinado; no adoptar su sistema de aprendizaje contextual ni usar aprendizaje como resultado del proyecto.",
+      "passages": "Abstract; §7 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2227-7102/13/7/631"
+    }
+  },
+  {
+    "id": "P078",
+    "slug": "Código seguro - Estudio de atención visual",
+    "year": 2026,
+    "title": "Tracking the Gaze of Secure Coders: Behavioral Insights into Attention, Transitions, and Training",
+    "url": "https://www.mdpi.com/2624-800X/6/2/75",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      4
+    ],
+    "finding": "Observa conducta visual de estudiantes en módulos de programación segura basados en CWE.",
+    "limit": "Participantes aprendices; asociación de atención y rendimiento no valida biometría como puntuación.",
+    "implication": "Recoger trazas significativas sin convertir mirada o tiempo en dominio.",
+    "passages": "Abstract y conclusiones; turn157view0; Dconc3/Dclose3.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "límite de trazas",
+      "decision": "Atención visual y transiciones describen comportamiento; no inferir competencia o personalidad a partir de patrones de mirada.",
+      "passages": "Abstract; §5 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2624-800X/6/2/75"
+    }
+  },
+  {
+    "id": "P079",
+    "slug": "SecureAI - Diseño de currículo especializado",
+    "year": 2026,
+    "title": "Designing SecureAI Curriculum for National Security Needs: The Illinois Tech Program of Study",
+    "url": "https://www.mdpi.com/2227-7102/16/2/310",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Describe concentración de cuatro cursos con fundamentos, ingeniería segura de IA y gobernanza.",
+    "limit": "Caso curricular; evaluación longitudinal de resultados todavía futura.",
+    "implication": "Añadir seguridad de datos, modelos e inferencia sobre base de desarrollo seguro.",
+    "passages": "Abstract y conclusiones; turn142view0; Dconc5/Dclose5.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "extensión condicionada de IA",
+      "decision": "Diferenciar seguridad de IA y uso de IA para seguridad; tomar contenidos de ciclo de vida, sin atribuir una validación de resultados que el artículo no realizó.",
+      "passages": "Abstract; §11 Conclusions; profundización en §§4, 9 y 10",
+      "consulted_url": "https://www.mdpi.com/2227-7102/16/2/310"
+    }
+  },
+  {
+    "id": "P080",
+    "slug": "Ciberseguridad - Juego y enseñanza supervisada",
+    "year": 2026,
+    "title": "Learning to Hack, Playing to Learn: Gamification in Cybersecurity Courses",
+    "url": "https://www.mdpi.com/2624-800X/6/1/16",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Presenta escenarios de hacking y factores humanos con feedback cualitativo.",
+    "limit": "Observaciones y cuestionarios; evaluación cuantitativa y retención pendientes.",
+    "implication": "Evaluar sin enseñanza guiada durante el intento y controlar la exposición previa a soluciones; la intervención docente de la fuente no se adopta como requisito.",
+    "passages": "Abstract y conclusiones; turn152view0; Dconc6/Dclose6.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P081",
+    "slug": "Ciberseguridad - Integración curricular de IA",
+    "year": 2025,
+    "title": "Integrating Artificial Intelligence into the Cybersecurity Curriculum in Higher Education: A Systematic Literature Review",
+    "url": "https://www.mdpi.com/2227-7102/15/11/1540",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisión de enseñanza conjunta IA-seguridad; predominan IA perceptiva y actividades prácticas.",
+    "limit": "Poca cobertura generativa/agéntica; no valida una batería concreta de competencias.",
+    "implication": "Crear tareas de evaluación explícitas de prompt injection y contaminación para estudiantes con formación previa en esos contenidos.",
+    "passages": "Abstract y conclusiones; turn159view0; Dconc7/Dclose7.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P082",
+    "slug": "Requisitos - Historias de abuso en desarrollo",
+    "year": 2023,
+    "title": "An Exploratory Study Gathering Security Requirements for the Software Development Process",
+    "url": "https://www.mdpi.com/2079-9292/12/17/3594",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Propone integrar historias de abuso, factores humanos y seguridad en procesos ágiles.",
+    "limit": "Modelo exploratorio; no estima competencia de estudiantes o efectos causales.",
+    "implication": "Pedir requisitos de seguridad y pruebas de abuso además del parche.",
+    "passages": "Abstract y conclusiones; turn150view0; Dconc8/Dclose8.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización de diseño",
+      "decision": "Usar necesidades legítimas e historias de abuso como contraste de requisitos; su propuesta no es un instrumento validado de competencia.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2079-9292/12/17/3594"
+    }
+  },
+  {
+    "id": "P083",
+    "slug": "Ciberseguridad - Aprender verificando respuestas de LLM",
+    "year": 2026,
+    "title": "Pedagogical Transformation Using Large Language Models in a Cybersecurity Course",
+    "url": "https://www.mdpi.com/2673-2688/7/1/25",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Caso cualitativo durante tres semestres usa LLM para razonamiento, configuración y automatización.",
+    "limit": "Observaciones y reflexiones; no comparación causal ni escala de certificación.",
+    "implication": "Permitir asistencia declarada y exigir validación técnica de sus respuestas.",
+    "passages": "Abstract y conclusiones; turn156view0; Dconc11/Dclose11.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fuera del objetivo formativo",
+      "decision": "No adoptar su transformación pedagógica ni el LLM como tutor del intento; distinguir ayuda autorizada y evidencia individual.",
+      "passages": "Abstract; §8 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2673-2688/7/1/25"
+    }
+  },
+  {
+    "id": "P084",
+    "slug": "Tutoría de ciberseguridad - Propuesta con GenAI",
+    "year": 2025,
+    "title": "Generative AI-Enhanced Intelligent Tutoring System for Graduate Cybersecurity Programs",
+    "url": "https://www.mdpi.com/1999-5903/17/4/154",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Implementa plataforma de tutoría y propone evaluación de contenido, usabilidad y efectividad percibida.",
+    "limit": "Ensayos empíricos y análisis de desempeño todavía futuros.",
+    "implication": "No adoptar el tutor como componente del instrumento; cualquier asistencia permitida debe declararse y registrarse para interpretar el desempeño.",
+    "passages": "Abstract y conclusiones; turn147view0; Dconc12/Dclose12.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P085",
+    "slug": "GenAI - Evaluación frente a expectativas laborales",
+    "year": 2026,
+    "title": "Generative AI Competency Assessment Strategies and Industry Employability Expectations in Higher Education: A Systematic Review",
+    "url": "https://www.mdpi.com/2227-7102/16/10/1583",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisa 26 estudios; encuentra convergencia en supervisión y brechas en gobernanza y aplicación profunda.",
+    "limit": "Base mayormente observacional; no evidencia de una certificación universal.",
+    "implication": "Evaluar auditoría de salidas y gobernanza de datos en tareas contextualizadas.",
+    "passages": "Abstract y conclusiones; turn155view0; Dconc13/Dclose13.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "comparación de perfiles",
+      "decision": "Las expectativas laborales y evaluaciones de GenAI dependen del contexto; no extrapolar alfabetización en GenAI a defensa de modelos y agentes.",
+      "passages": "Abstract; §5 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2227-7102/16/10/1583"
+    }
+  },
+  {
+    "id": "P086",
+    "slug": "Metaverso - Competencias e inclusión en STEM",
+    "year": 2026,
+    "title": "From Virtual Worlds to Real-World Equity: A Scoping Review of the Metaverse as Computer-Assisted Learning for STEM Competencies",
+    "url": "https://www.mdpi.com/2073-431X/15/4/229",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Mapea 34 estudios, 27 empíricos y siete conceptuales; resultados inmediatos y lagunas longitudinales.",
+    "limit": "No prueba permanencia o equidad general; poblaciones excluidas de la evidencia.",
+    "implication": "Ofrecer acceso equivalente y comprobar barreras del 3D y desempeño en tareas no expuestas; no medir retención de contenidos enseñados por CyberSim.",
+    "passages": "Abstract y conclusiones; turn148view0; Dconc14/Dclose14.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P087",
+    "slug": "SmartRubrics - Generación asistida de rúbricas",
+    "year": 2025,
+    "title": "From Mapping to Action: SmartRubrics, an AI Tool for Competency-Based Assessment in Engineering Education",
+    "url": "https://www.mdpi.com/2071-1050/17/13/6098",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Mapeo 2019–2024 sustenta prototipo de generación de rúbricas.",
+    "limit": "Impacto en aprendizaje y uso real sigue pendiente; generación no equivale a validación.",
+    "implication": "Docentes deben revisar anclajes y acuerdo; no delegar acreditación en el generador.",
+    "passages": "Abstract y conclusiones; turn145view0; Dconc15/Dclose15.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "herramienta sin validación suficiente",
+      "decision": "Una herramienta que propone rúbricas no valida automáticamente sus criterios; el propio cierre sitúa la evaluación educativa en trabajo futuro.",
+      "passages": "Abstract; §8 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2071-1050/17/13/6098"
+    }
+  },
+  {
+    "id": "P088",
+    "slug": "Prácticas laborales - Evaluación de habilidades transversales",
+    "year": 2026,
+    "title": "Assessment and Development of Soft Skills for Workplace Internships in Vocational Education and Training: A Systematic Literature Review",
+    "url": "https://www.mdpi.com/2076-3387/16/7/318",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisa 26 estudios de formación profesional y aprendizaje en empresas.",
+    "limit": "Autoinformes y escasez de instrumentos longitudinales; población distinta de ingeniería de software.",
+    "implication": "Transferencia metodológica: combinar evidencias y validación con actores del contexto.",
+    "passages": "Abstract y conclusiones; turn154view0; Dconc16/Dclose16.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P089",
+    "slug": "Web - Revisión de pruebas de penetración",
+    "year": 2023,
+    "title": "A Survey on Web Application Penetration Testing",
+    "url": "https://www.mdpi.com/2079-9292/12/5/1229",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Compara funciones y límites de escáneres web; las herramientas tienen cobertura distinta.",
+    "limit": "Revisión de herramientas, no prueba educativa ni ranking vigente.",
+    "implication": "Contrastar hallazgos con evidencia, pruebas manuales y funcionamiento legítimo.",
+    "passages": "Abstract y conclusiones; turn158view0; Dconc17/Dclose17.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P090",
+    "slug": "GoibhniUWE - Laboratorio modular instrumentado",
+    "year": 2024,
+    "title": "GoibhniUWE: A Lightweight and Modular Container-Based Cyber Range",
+    "url": "https://www.mdpi.com/2624-800X/4/3/29",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2
+    ],
+    "finding": "Presenta rango de contenedores con logs de servicio, red, IDS y procesos; evalúa recursos.",
+    "limit": "Eficiencia técnica y casos de ataque no validan inferencias de competencia humana.",
+    "implication": "Recoger estado y eventos con procedencia y permitir variantes reproducibles.",
+    "passages": "Abstract y conclusiones; turn146view0; Dconc18/Dclose18.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P091",
+    "slug": "Ingeniería - Entorno y desarrollo profesional",
+    "year": 2025,
+    "title": "A structural approach to the assessment and development of engineering students’ professional skills",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1661526/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Integra encuestas de estudiantes, docentes y empresas con módulos de formación práctica.",
+    "limit": "Relaciones observacionales y puntuaciones locales; no demuestran competencia segura ni causalidad general.",
+    "implication": "Documentar recursos, formación previa y condiciones de evaluación al interpretar el desempeño.",
+    "passages": "Abstract turn245view0; cierre Gconc0/Gmore0/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto profesional",
+      "decision": "Condiciones del entorno influyen en la actuación; las asociaciones sobre desarrollo profesional no son un catálogo técnico ni una relación causal demostrada.",
+      "passages": "Abstract; §5 Conclusion",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1661526/full"
+    }
+  },
+  {
+    "id": "P092",
+    "slug": "Competencias - Solapamiento de instrumentos transversales",
+    "year": 2026,
+    "title": "Uncovering the shared skills underlying interdisciplinarity, innovation, and social responsibility through a systematic review of assessment instruments",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1860884/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisa diecisiete estudios y encuentra habilidades compartidas entre innovación, interdisciplinariedad y responsabilidad.",
+    "limit": "Definiciones e instrumentos no siempre coinciden; reutilizar escalas no valida la combinación.",
+    "implication": "Evitar contar repetidamente la misma evidencia como competencias independientes.",
+    "passages": "Abstract turn249view0; cierre Gconc1/Gmore1/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "límite de constructos",
+      "decision": "Reconocer solapamientos entre instrumentos transversales; no sumar etiquetas próximas como capacidades u observaciones independientes.",
+      "passages": "Abstract; §5 Conclusions",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1860884/full"
+    }
+  },
+  {
+    "id": "P093",
+    "slug": "GenAI - Competencia percibida y demostrada",
+    "year": 2026,
+    "title": "Perceived and demonstrated generative AI literacy in engineering problem solving: the role of verification behavior",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1981428/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Relaciona encuesta, prueba de escenarios, verificación declarada y dos tareas en 1206 estudiantes.",
+    "limit": "Estudio transversal no supervisado; mediación no causal y no establece ejecución sin ayuda.",
+    "implication": "Registrar condiciones de asistencia y evaluar calidad observable de verificación.",
+    "passages": "Abstract turn264view0; cierre Gconc2/Gmore2/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "límite de autoevaluación",
+      "decision": "Distinguir competencia percibida y demostrada; frecuencia declarada de verificación y asociaciones transversales no acreditan autonomía sin ayuda.",
+      "passages": "Abstract; §4.3 Conclusion",
+      "consulted_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1981428/full"
+    }
+  },
+  {
+    "id": "P094",
+    "slug": "Informática - Calidad de ítems generados por LLM",
+    "year": 2026,
+    "title": "Evaluating the instrumental quality of LLM-generated assessment items",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1837523/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Compara ítems humanos y generados con cuarenta y dos estudiantes en dos cohortes de sistemas operativos.",
+    "limit": "Ausencia de diferencia significativa no demuestra equivalencia; muestra pequeña y múltiples indicadores débiles.",
+    "implication": "Validar dificultad, discriminación y cobertura de cada ítem; no confiar por su origen humano o IA.",
+    "passages": "Abstract turn263view0; cierre Gconc3/Gmore3/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "validación del instrumento",
+      "decision": "Examinar calidad de ítems y puntuación; semejanza estadística de preguntas de opción múltiple no se transfiere automáticamente a tareas abiertas de seguridad.",
+      "passages": "Abstract; §5 Conclusion",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1837523/full"
+    }
+  },
+  {
+    "id": "P095",
+    "slug": "Ingeniería - Confianza frente a aplicación práctica",
+    "year": 2025,
+    "title": "Assessing engineering thinking in the context of biology among senior high school students in mainland China: development and validation of a two-tier assessment scale and the relationship between self-efficacy and practical performance",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1591073/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      4
+    ],
+    "finding": "Prueba escala de dos niveles de pensamiento ingenieril con 485 respuestas válidas de escolares.",
+    "limit": "Contexto de biología escolar; no extrapolable a seguridad de software y afirmaciones de validez requieren cautela.",
+    "implication": "Antecedente metodológico indirecto para separar confianza declarada y resolución de tareas.",
+    "passages": "Abstract turn258view0; cierre Gconc4/Gmore4/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P096",
+    "slug": "Inventarios STEM - Diseño y evidencia de validez",
+    "year": 2024,
+    "title": "Mapping design stages and methodologies for developing STEM concept inventories: a scoping review",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1442833/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Revisa 106 trabajos y organiza cinco etapas desde constructo hasta aplicación y refinamiento.",
+    "limit": "Concept inventories miden conceptos; no sustituyen ejecución técnica ni prueba de transferencia.",
+    "implication": "Incluir análisis de errores, procesos de respuesta y validación iterativa de tareas.",
+    "passages": "Abstract turn260view0; cierre Gconc5/Gmore5/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "validación del instrumento",
+      "decision": "Separar definición del dominio, diseño de tareas y evidencia de validez; un inventario conceptual mide una parte distinta de una intervención práctica.",
+      "passages": "Abstract; Conclusion and future research",
+      "consulted_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1442833/full"
+    }
+  },
+  {
+    "id": "P097",
+    "slug": "Generalizabilidad - Ausencia de respuestas",
+    "year": 2023,
+    "title": "Modeling unit non-response and validity of online teaching evaluation in higher education using generalizability theory approach",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1202896/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      4
+    ],
+    "finding": "Estudia no respuesta en evaluación docente mediante G-study y D-study.",
+    "limit": "Dominio diferente; sus estimaciones numéricas no se transfieren a competencia estudiantil.",
+    "implication": "No tratar evidencias faltantes como desempeño cero; estudiar sesgo y precisión del uso previsto.",
+    "passages": "Abstract turn257view0; cierre Gconc6/Gmore6/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P098",
+    "slug": "DigComp - Rúbricas con desempeño externo",
+    "year": 2023,
+    "title": "Measuring student and educator digital competence beyond self-assessment: Developing and validating two rubric-based frameworks",
+    "url": "https://link.springer.com/article/10.1007/s10639-023-12363-7",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Desarrolla rúbricas para estudiantes y docentes y contrasta observación con autopercepción.",
+    "limit": "Validación y consistencia en muestra pequeña; no valida criterios de seguridad.",
+    "implication": "Combinar producto, observación y explicación, y calibrar acuerdo de evaluadores localmente.",
+    "passages": "Abstract turn251view0; cierre Gconc7/Gmore7/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "método de desempeño",
+      "decision": "Corroborar autopercepción con productos y tareas; rúbricas de competencia digital general no sustituyen mecanismos de desarrollo seguro.",
+      "passages": "Abstract; §6 Conclusion",
+      "consulted_url": "https://link.springer.com/article/10.1007/s10639-023-12363-7"
+    }
+  },
+  {
+    "id": "P099",
+    "slug": "Seguridad - Competencias desde academia e industria",
+    "year": 2026,
+    "title": "Bridging academic and industry expectations in cybersecurity education through competencies for teaching network and application security in Nigerian Universities",
+    "url": "https://link.springer.com/article/10.1007/s44217-026-01748-8",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Consulta 47 docentes y tres expertos sobre seguridad de redes y aplicaciones.",
+    "limit": "Consenso sobre importancia y perfil docente; no desempeño observado de estudiantes ni muestra representativa de Ecuador.",
+    "implication": "Seleccionar acceso, vulnerabilidades, criptografía y código seguro con validación local del perfil.",
+    "passages": "Abstract turn248view0; cierre Gconc8/Gmore8/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P100",
+    "slug": "CyberSense - Evaluación adaptativa y transparencia",
+    "year": 2026,
+    "title": "A Data-Driven Adaptive Cybersecurity Training Framework with Behavioral Validation",
+    "url": "https://link.springer.com/article/10.1007/s44227-026-00103-5",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Declara ensayo de sesenta participantes y retención a dos semanas con simulación de phishing.",
+    "limit": "Contradicción entre ensayo declarado y disponibilidad que dice no generar ni analizar datasets; no adoptar tamaños de efecto sin resolverla.",
+    "implication": "Conservar como antecedente con inconsistencias sin resolver; no usar sus resultados como validación de la evaluación de competencias de CyberSim.",
+    "passages": "Abstract turn262view0; cierre Gconc10/Gmore10/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P101",
+    "slug": "Secretos - Detección mediante contexto de código",
+    "year": 2026,
+    "title": "Learning to detect hardcoded secrets",
+    "url": "https://link.springer.com/article/10.1007/s10664-026-10929-w",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Compara modelos y encuentra caída al transferir a dataset no visto; el contexto influye.",
+    "limit": "Benchmark automatizado y datos sensibles restringidos; no puntuación de competencia humana.",
+    "implication": "El estudiante debe corroborar alertas, falsos positivos y cobertura contextual del escáner.",
+    "passages": "Abstract turn250view0; cierre Gconc11/Gmore11/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P102",
+    "slug": "Desarrollo seguro - Clima organizacional",
+    "year": 2026,
+    "title": "Security by Design in Hybrid Software Development: An Empirical Framework for Aligning Organizational Climate and Developer Behavior",
+    "url": "https://www.mdpi.com/2076-3417/16/8/3618",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Encuesta 244 desarrolladores sobre prioridades, clima y prácticas en trabajo híbrido.",
+    "limit": "Empresa única y mediación de encuesta; no demuestra efectos causales de intervenciones propuestas.",
+    "implication": "Incluir decisiones bajo presión, revisión y responsabilidad organizacional en escenarios.",
+    "passages": "Abstract turn253view0; cierre Gconc13/Gmore13/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto profesional",
+      "decision": "Registrar condiciones organizativas y ayudas; asociaciones del clima de seguridad no autorizan inferir personalidad ni desempeño individual desde un clic.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2076-3417/16/8/3618"
+    }
+  },
+  {
+    "id": "P103",
+    "slug": "Competencia profesional - Práctica situada y reflexión",
+    "year": 2026,
+    "title": "Developing Competencies for Employability: A Systematic Review of Participatory, Situated, and Reflective Practices",
+    "url": "https://www.mdpi.com/2071-1050/18/18/9493",
+    "level": "resumen-conclusiones",
+    "questions": [
+      3,
+      4
+    ],
+    "finding": "Revisa 42 contribuciones con métodos heterogéneos y competencias dependientes del contexto.",
+    "limit": "Rango de corpus desde 2000, cobertura restringida y un revisor inicial; no instrumento universal.",
+    "implication": "Delimitar contexto, oportunidades de demostrar la capacidad y evidencia en tareas distintas antes de una declaración profesional.",
+    "passages": "Abstract turn261view0; cierre Gconc16/Gmore16/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "interpretación situada",
+      "decision": "Conservar condiciones y contexto de la actuación; no convertir procesos de desarrollo de empleabilidad en el objetivo de aprendizaje de CyberSim.",
+      "passages": "Abstract; §5 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2071-1050/18/18/9493"
+    }
+  },
+  {
+    "id": "P104",
+    "slug": "Software - Frameworks y pensamiento computacional",
+    "year": 2026,
+    "title": "The role of software frameworks in the development of computational thinking in software engineering education: a systematic review",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1863091/full",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Revisa veinticuatro estudios sobre frameworks y descomposición, abstracción y algoritmos.",
+    "limit": "Evidencia mayormente descriptiva; asociación no prueba desarrollo causal ni seguridad.",
+    "implication": "Tratar razonamiento como fundamento y observar aplicación a problemas de seguridad concretos.",
+    "passages": "Abstract turn254view0; cierre Gconc19/Gmore19/Gremaining.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P105",
+    "slug": "XSS - Detección semántica y límites",
+    "year": 2025,
+    "title": "XSShield: Defending Against Stored XSS Attacks Using LLM-Based Semantic Understanding",
+    "url": "https://www.mdpi.com/2076-3417/15/6/3348",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Propone detección de XSS persistente mediante LLM y grafos de dependencias.",
+    "limit": "Modelo y benchmark concretos; tiempo anunciado excluye comunicación con el modelo.",
+    "implication": "Distinguir almacenamiento, ejecución y contexto de salida; no sustituir codificación segura por un clasificador.",
+    "passages": "Abstract turn297view0; cierre Hconc0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P106",
+    "slug": "SQL - Comparación educativa de defensas",
+    "year": 2025,
+    "title": "Comparative Analysis of SQL Injection Defense Mechanisms Based on Three Approaches: PDO, PVT, and ART",
+    "url": "https://www.mdpi.com/2076-3417/15/23/12351",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Compara sentencias preparadas, validación de patrones y redirección en PHP/MySQL.",
+    "limit": "Ataques y contexto restringidos; bloqueo de ejemplos no demuestra equivalencia de defensas.",
+    "implication": "Puntuar separación código-datos y pruebas de evasión; redirección o blacklist no sustituyen parametrización.",
+    "passages": "Abstract turn301view0; cierre Hconc1.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P107",
+    "slug": "Deserialización - Generación y verificación de casos",
+    "year": 2026,
+    "title": "LLM-JDFuzz: A Large Language Model-Based Automated Java Deserialization Payload Generation Framework",
+    "url": "https://www.mdpi.com/2079-9292/15/5/954",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Evalúa generación de pruebas para 34 cadenas de deserialización Java con feedback de ejecución.",
+    "limit": "Benchmark de cadenas conocido; no cobertura completa ni currículo validado.",
+    "implication": "Evaluar frontera de confianza y corrección verificable, sin exigir explotación universal.",
+    "passages": "Abstract turn302view0; cierre Hconc2.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P108",
+    "slug": "Parches - Validez del juez frente a ejecución",
+    "year": 2026,
+    "title": "Fixing, Breaking, or Faking It? An Execution-Calibrated Evaluation of LLM Vulnerability Patching in JavaScript, Python, Go, and Java, and the Limits of LLM-as-Judge",
+    "url": "https://www.mdpi.com/2624-800X/6/5/153",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      2,
+      4
+    ],
+    "finding": "Contrasta jueces LLM con ejecución de parches y distingue neutralización de preservación funcional.",
+    "limit": "Resultados acotados por oráculos y cobertura de pruebas; no instrumento de competencia humana.",
+    "implication": "La batería docente debe ejecutar pruebas de seguridad y regresión; acuerdo entre jueces no demuestra validez.",
+    "passages": "Artículo completo: secciones 1-7, limitaciones, declaraciones, seis tablas y cuatro figuras; HTML 179-395",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P108",
+      "body": "Artículo completo: secciones 1-7, limitaciones, declaraciones, seis tablas y cuatro figuras; HTML 179-395",
+      "tables": "Tablas 1-6 leídas completas en DOM editorial, incluida matriz de confusión",
+      "figures": "Figuras 1-4 inspeccionadas visualmente",
+      "analysis": "El hallazgo útil es la necesidad de contrastar juicios con ejecución suficiente. Su oráculo también falla: pruebas positivas escasas, una sola PoC, celda CSRF frágil y SSRF dependiente de DNS offline. El denominador importa: ocho over-fixes entre 112 neutralizaciones, no ocho entre todas las vulnerabilidades; los autores rebajan a uno o dos tras revisar artefactos. Vul4J conserva una regresión entre 254 intentos bajo cobertura limitada. Hubo parada opcional en Java, muestras intencionales de modelos y posible memorización. No importar porcentajes ni una regla comercial/open ni afirmar que cualquier suite determina verdad absoluta.",
+      "decision": "Verificador confiable con regresión legítima y ataques variados; LLM como apoyo revisable, no juez final automático de competencia."
+    },
+    "screened_recent": true
+  },
+  {
+    "id": "P109",
+    "slug": "API - Vulnerabilidades y dificultades del desarrollador",
+    "year": 2026,
+    "title": "Bridging the Gap in Web API Security: A Systematic Review of Vulnerabilities, Misuse Patterns, and Developer Challenges",
+    "url": "https://www.mdpi.com/2674-113X/5/2/25",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisión de cincuenta estudios vincula autenticación, acceso, usos incorrectos y complejidad.",
+    "limit": "Síntesis conceptual y fuentes mixtas; estudios de usuarios y eficacia futura.",
+    "implication": "Evaluar autorización en servidor y abuso de flujos, además de errores sintácticos.",
+    "passages": "Abstract turn309view0; cierre Hconc4.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P110",
+    "slug": "SBOM - Integridad y límites de prototipo",
+    "year": 2026,
+    "title": "A Hyperledger Fabric-Based SBOM Management System for Secure Software Supply Chain Integrity",
+    "url": "https://www.mdpi.com/2079-9292/15/12/2573",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Propone gestión confidencial de SBOM con blockchain y mide rendimiento en laboratorio.",
+    "limit": "No hizo pruebas de penetración, simulación adversarial ni pruebas formales de seguridad.",
+    "implication": "Distinguir inventario, autenticidad e integridad; no introducir blockchain como requisito de competencia.",
+    "passages": "Abstract turn296view0; cierre Hconc5.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P111",
+    "slug": "Envenenamiento - Comparación de modelos",
+    "year": 2026,
+    "title": "Evaluating Model Resilience to Data Poisoning Attacks: A Comparative Study",
+    "url": "https://www.mdpi.com/2078-2489/17/1/9",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Compara modelos en clasificación de sentimiento bajo alteración de etiquetas, corrupción e inserción.",
+    "limit": "IMDb y tasas de contaminación elevadas; no prueba robustez universal de arquitecturas.",
+    "implication": "Exigir evaluación limpia y contaminada, procedencia y límites de generalización.",
+    "passages": "Abstract turn307view0; cierre Hconc6.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P112",
+    "slug": "Aprendizaje federado - Evidencia y responsabilidad",
+    "year": 2026,
+    "title": "Poisoning Attacks in Federated Learning: An Accountability- Oriented Survey with Centralized Learning as a Baseline",
+    "url": "https://www.mdpi.com/2624-800X/6/4/133",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisa poisoning y defensas desde trazabilidad, atribución y capacidad forense.",
+    "limit": "Síntesis de aprendizaje federado; robustez no implica atribución causal ni transferencia a cualquier pipeline.",
+    "implication": "Registrar versión, origen y transformaciones de datos/modelos; distinguir contaminación de atribución del actor.",
+    "passages": "Abstract turn293view0; cierre Hconc7.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P113",
+    "slug": "Agentes - Identidad visibilidad y procedencia",
+    "year": 2026,
+    "title": "Below the Waterline: A Survey of Agentic AI Security, Shadow AI Governance, and LLM Supply-Chain Risk in the Enterprise",
+    "url": "https://www.mdpi.com/2076-3417/16/20/10412",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisión organiza riesgos agénticos, adopción no gobernada y cadena de suministro en tres primitivas.",
+    "limit": "Corpus mezcla revisados, preprints, normas e informes; conjeturas no equivalen a imposibilidad demostrada.",
+    "implication": "Evaluar límites de autoridad, origen de datos y trazabilidad; no repetir absolutos sobre defensas.",
+    "passages": "Abstract turn298view0; cierre Hconc8.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P114",
+    "slug": "Código de LLM - Parches guiados por análisis estático",
+    "year": 2025,
+    "title": "Leveraging Static Analysis for Feedback-Driven Security Patching in LLM-Generated Code",
+    "url": "https://www.mdpi.com/2624-800X/5/4/110",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Propone PythonSecurityEval y refinamiento mediante feedback de Bandit/CodeQL.",
+    "limit": "Reducir alertas de analizadores no demuestra ausencia de vulnerabilidades o preservación funcional.",
+    "implication": "Corroborar resultados con pruebas de abuso, regresión y explicación causal.",
+    "passages": "Abstract turn306view0; cierre Hconc9.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P115",
+    "slug": "Paquetes - Detección de software malicioso",
+    "year": 2026,
+    "title": "Decoding Maliciousness: LLM-Assisted Semantic Filtering for Scalable Malicious PyPI Package Detection",
+    "url": "https://www.mdpi.com/2079-9292/15/21/5021",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Combina grafos, metadatos y filtrado semántico en más de veinte mil paquetes PyPI.",
+    "limit": "Características estáticas y vocabulario fijo pueden fallar ante evasión o APIs nuevas.",
+    "implication": "Pedir origen verificable y controles de ejecución; una alerta no reemplaza análisis y contención.",
+    "passages": "Abstract turn304view0; cierre Hconc10.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P116",
+    "slug": "LLM - Aplicaciones y amenazas de seguridad",
+    "year": 2025,
+    "title": "Large Language Models in Cybersecurity: A Survey of Applications, Vulnerabilities, and Defense Techniques",
+    "url": "https://www.mdpi.com/2673-2688/6/9/216",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Revisa treinta y dos tareas en ocho dominios y vulnerabilidades de los propios modelos.",
+    "limit": "Cobertura amplia y heterogénea; no comparación experimental general ni escala de competencia.",
+    "implication": "Separar usar IA para seguridad de proteger aplicaciones que incorporan IA.",
+    "passages": "Abstract turn295view0; cierre Hconc12.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P117",
+    "slug": "Web - Curso práctico basado en CTF",
+    "year": 2022,
+    "title": "Teaching a Hands-On CTF-Based Web Application Security Course",
+    "url": "https://www.mdpi.com/2079-9292/11/21/3517",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Curso OWASP con máquinas vulnerables y trazas de intentos y tiempo.",
+    "limit": "Tareas cambian entre semanas; menos tiempo no prueba crecimiento equivalente o transferencia.",
+    "implication": "Comparar tareas equivalentes y pedir diagnóstico, parche y verificación individual.",
+    "passages": "Abstract turn305view0; cierre Hconc13.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "contexto de tareas web",
+      "decision": "Utilizar mecanismos web como contenidos de casos; mejoras en rapidez o flags de un curso no fijan dominio profesional ni objetivos formativos aquí.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2079-9292/11/21/3517"
+    }
+  },
+  {
+    "id": "P118",
+    "slug": "Testbed - Fidelidad y consecuencias observables",
+    "year": 2024,
+    "title": "Design and Development Considerations of a Cyber Physical Testbed for Operational Technology Research and Education",
+    "url": "https://www.mdpi.com/1424-8220/24/12/3923",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1
+    ],
+    "finding": "Diseña paso a nivel con componentes físicos y emulados, ataques controlados y reinicio.",
+    "limit": "Validación educativa con estudiantes anunciada para el futuro.",
+    "implication": "Usar el entorno visual para representar consecuencias relevantes al caso; la fidelidad técnica no demuestra por sí sola que la evaluación permita juzgar competencias.",
+    "passages": "Abstract turn294view0; cierre Hconc14.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P119",
+    "slug": "Cyber range - Clusters para revisar escenarios",
+    "year": 2024,
+    "title": "Using data clustering to reveal trainees’ behavior in cybersecurity education",
+    "url": "https://link.springer.com/article/10.1007/s10639-024-12480-x",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Agrupa acciones y presenta visualizaciones evaluadas cualitativamente por expertos.",
+    "limit": "Clusters no son niveles de competencia ni diagnóstico individual validado.",
+    "implication": "Usar patrones para detectar tareas confusas y generar hipótesis, con revisión docente.",
+    "passages": "Abstract turn299view0; cierre Hconc15.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P120",
+    "slug": "Cyber range - Retroalimentación automática",
+    "year": 2023,
+    "title": "Automated feedback for participants of hands-on cybersecurity training",
+    "url": "https://link.springer.com/article/10.1007/s10639-023-12265-8",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Desarrolla cuatro módulos y recoge uso de 58 participantes y encuesta cuantitativa de 45.",
+    "limit": "Utilidad percibida; no prueba causal de aprendizaje o exactitud de calificación.",
+    "implication": "Conservar resultados factuales y revisables de las pruebas; registrar cualquier información que revele la solución para no atribuirle dominio previo al estudiante.",
+    "passages": "Abstract turn308view0; cierre Hconc16/turn326view0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P121",
+    "slug": "Datasets web - Mutabilidad y envenenamiento",
+    "year": 2024,
+    "title": "Poisoning Web-Scale Training Datasets is Practical",
+    "url": "https://arxiv.org/pdf/2302.10149",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Demuestra riesgos por vistas distintas del contenido web y ventanas de captura de datos.",
+    "limit": "Capacidad práctica para contaminar corpus no es medida de competencia ni prueba de ataque ocurrido en CyberSim.",
+    "implication": "Verificar hashes, procedencia y versionado; una URL conocida no garantiza contenido inmutable.",
+    "passages": "Abstract turn337view0; cierre Iconc0.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P122",
+    "slug": "BIPIA - Límites entre instrucciones y datos",
+    "year": 2025,
+    "title": "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models",
+    "url": "https://arxiv.org/pdf/2312.14197",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Benchmark de inyección indirecta y defensas de límites de contenido, recordatorios y ajuste.",
+    "limit": "Resistencia dentro de benchmark/modelos; resultados cercanos a cero no prueban seguridad universal.",
+    "implication": "Probar entradas adversariales nuevas y utilidad legítima; separar datos externos de autoridad.",
+    "passages": "Abstract turn331view0; cierre Iconc1.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P123",
+    "slug": "Tensor Trust - Ataques humanos e inyección",
+    "year": 2024,
+    "title": "Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game",
+    "url": "https://aima.cs.berkeley.edu/~russell/papers/iclr24-tensor.pdf",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2
+    ],
+    "finding": "Recoge ataques y defensas de jugadores y compara extracción de prompt e hijacking.",
+    "limit": "Éxito en juego y benchmark no mide competencia profesional humana.",
+    "implication": "No convertir prompt ganador o bloqueo de cadena conocida en acreditación.",
+    "passages": "Abstract turn333view0; cierre Iconc2.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P124",
+    "slug": "LLM - Extracción de datos memorizados",
+    "year": 2025,
+    "title": "Scalable Extraction of Training Data from Aligned, Production Language Models",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2025/file/cce0e917b050208170151f77b497fc71-Paper-Conference.pdf",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2
+    ],
+    "finding": "Muestra extracción mediante divergencia y ajuste en versiones históricas de modelos alineados.",
+    "limit": "Resultados de versiones de 2023–2024; reconocer PII no prueba su origen privado y filtros son imperfectos.",
+    "implication": "Distinguir fuga por contexto, autorización y memorización; mantener datos sintéticos en pruebas.",
+    "passages": "Abstract turn328view0; cierre Iconc3/turn379view0, 466–473.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P125",
+    "slug": "EDURange - Intervención docente desde trazas",
+    "year": 2024,
+    "title": "From Logs to Learning: Applying Machine Learning to Instructor Intervention in Cybersecurity Exercises",
+    "url": "https://edurange.org/docs/EDURange_ASEE2024.pdf",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Desarrolla clasificación de progreso y chat para sugerir ayudas que el docente puede rechazar.",
+    "limit": "Prueba de concepto; eficacia y localización precisa dentro de escenarios siguen en desarrollo.",
+    "implication": "Usar trazas y revisión humana para interpretar la actuación; registrar cualquier intervención docente que afecte la autonomía observada.",
+    "passages": "Abstract turn327view0; cierre Iconc6.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P126",
+    "slug": "Finlandia - Seguridad en cursos iniciales",
+    "year": 2025,
+    "title": "A Survey of Security Concepts in Introductory Programming Courses in Finland",
+    "url": "https://research.abo.fi/ws/files/71344465/3769994.3770028.pdf",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Doce respuestas sobre once cursos; la seguridad se integra de forma desigual y los proyectos aportan contexto.",
+    "limit": "Percepciones docentes y cobertura nacional parcial; no mide desempeño estudiantil.",
+    "implication": "Precisar la formación previa requerida para cada tarea y seleccionar participantes con ese perfil; no incorporar enseñanza ni andamiaje de contenidos durante la evaluación.",
+    "passages": "Abstract turn334view0; cierre Iconc7.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "condiciones previas",
+      "decision": "La cobertura desigual de seguridad en cursos iniciales impide presuponer formación uniforme; precisar requisitos previos sin enseñar el contenido durante la evaluación.",
+      "passages": "Abstract p. 1; §9 Conclusions",
+      "consulted_url": "https://research.abo.fi/ws/files/71344465/3769994.3770028.pdf"
+    }
+  },
+  {
+    "id": "P127",
+    "slug": "Escape room - Conciencia y experiencia educativa",
+    "year": 2024,
+    "title": "An Educational Escape Room Game to Develop Cybersecurity Skills",
+    "url": "https://www.mdpi.com/2073-431X/13/8/205",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Pilotaje con más de doscientos participantes informa aceptación, interés y conciencia percibida.",
+    "limit": "Confianza, disfrute y feedback no prueban retención ni transferencia técnica.",
+    "implication": "Separar rúbrica técnica de encuestas de experiencia y accesibilidad.",
+    "passages": "Abstract turn330view0; cierre Iconc8.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P128",
+    "slug": "NICE - Escenarios técnicos y legales en pymes",
+    "year": 2025,
+    "title": "Bridging Cybersecurity Practice and Law: A Hands-On, Scenario-Based Curriculum Using the NICE Framework to Foster Skill Development",
+    "url": "https://www.mdpi.com/2624-800X/5/4/106",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "finding": "Mapea tareas técnicas y legales y pilota Hack Lab con informática y derecho.",
+    "limit": "Ganancia de confianza de autoinforme; no acredita dominio profesional individual.",
+    "implication": "Adaptar rol y nivel, integrar decisiones justificadas y comunicación del incidente.",
+    "passages": "Abstract turn336view0; cierre Iconc9.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "delimitación de responsabilidades",
+      "decision": "Distinguir desarrollo, respuesta y aspectos legales; no atribuir todos los roles de una pyme a una única prueba de estudiante de software.",
+      "passages": "Abstract; §7 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2624-800X/5/4/106"
+    }
+  },
+  {
+    "id": "P129",
+    "slug": "Certificación - LLM frente a preguntas teóricas",
+    "year": 2026,
+    "title": "Quality Assessment of Generative AI in Cybersecurity Certification",
+    "url": "https://www.mdpi.com/2227-9709/13/4/53",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Tres modelos superan preguntas de práctica Security+; analiza errores conceptuales detrás de aciertos.",
+    "limit": "Preguntas de preparación, no examen oficial supervisado; no compara competencia humana práctica.",
+    "implication": "Diseñar defensa de decisiones y tareas de ejecución; la respuesta correcta aislada aporta evidencia limitada.",
+    "passages": "Abstract turn335view0; cierre Iconc10.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true,
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "límite de pruebas teóricas",
+      "decision": "Responder preguntas de certificación, especialmente con un LLM, no equivale a diagnosticar, corregir y verificar una aplicación.",
+      "passages": "Abstract; §6 Conclusions",
+      "consulted_url": "https://www.mdpi.com/2227-9709/13/4/53"
+    }
+  },
+  {
+    "id": "P130",
+    "slug": "Ingeniería - Revisión de herramientas inmersivas",
+    "year": 2025,
+    "title": "Immersive Tools in Engineering Education—A Systematic Review",
+    "url": "https://www.mdpi.com/2076-3417/15/11/6339",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Revisa 31 artículos, objetivos, evaluación y barreras de herramientas inmersivas.",
+    "limit": "Motivación y conocimiento a corto plazo; diseños y poblaciones heterogéneos.",
+    "implication": "Elegir mecánicas según objetivo y controlar complejidad, accesibilidad y mareo.",
+    "passages": "Abstract turn374view0; cierre Kcloses.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P131",
+    "slug": "Programación - Fundamentos pedagógicos del 3D",
+    "year": 2026,
+    "title": "Pedagogical Foundations of Immersive Virtual Reality for Programming Education: A Critical Review and Conceptual Framework",
+    "url": "https://www.mdpi.com/2078-2489/17/9/843",
+    "level": "texto-completo",
+    "questions": [
+      1,
+      3,
+      4
+    ],
+    "finding": "Revisa dieciséis estudios empíricos; propone alinear teoría, diseño, affordances y evaluación.",
+    "limit": "Evidencia cognitiva preliminar frente a mayor evidencia afectiva; marco no validado.",
+    "implication": "Hacer que interacciones 3D movilicen la competencia prevista, y comprobarlo con procesos de respuesta.",
+    "passages": "Artículo completo: secciones 1-6, declaraciones, siete tablas y dos figuras; HTML 186-518",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "full_reading": {
+      "id": "P131",
+      "body": "Artículo completo: secciones 1-6, declaraciones, siete tablas y dos figuras; HTML 186-518",
+      "tables": "Tablas 1-7 leídas completas en DOM editorial",
+      "figures": "Figuras 1-2 inspeccionadas visualmente",
+      "analysis": "Revisión crítica, no una revisión sistemática formal ni metaanálisis. La etiqueta de 16 estudios empíricos contradice una fila sin muestra; la afirmación de un único diseño controlado no concuerda con otra fila experimental/control. El total excluido de tabla 1 no cuadra con 323-16 y el diagrama da IEEE 23 donde la tabla da 43. Varias teorías se infieren desde actividades, no se declararon por los autores originales. No adoptar afirmaciones sobre estilos visual/kinestésico del contexto introductorio. Su marco es conceptual sin validación del modelo causal.",
+      "decision": "Usar alineación explícita objetivo-actividad-evidencia; no convertir presencia, inmersión o motivación en dominio técnico ni importar frecuencias exactas de la revisión."
+    },
+    "screened_recent": true
+  },
+  {
+    "id": "P132",
+    "slug": "Informática - Revisión narrativa de XR",
+    "year": 2025,
+    "title": "Extended Reality in Computer Science Education: A Narrative Review of Pedagogical Benefits, Challenges, and Future Directions",
+    "url": "https://www.mdpi.com/2813-2084/4/4/56",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Sintetiza usos de XR para visualizar conceptos, práctica y participación en informática.",
+    "limit": "Revisión narrativa; afirmaciones amplias no son estimación causal ni prueba de equivalencia.",
+    "implication": "Retener 3D cuando haga visibles relaciones o consecuencias relevantes al diagnóstico.",
+    "passages": "Abstract turn371view0; cierre Kcloses.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P133",
+    "slug": "XR - Privacidad de evidencias educativas",
+    "year": 2026,
+    "title": "Privacy, Trust, and Security in Extended Reality for Education—Challenges, Frameworks, and Future Directions: A Systematic Literature Review",
+    "url": "https://www.mdpi.com/2076-3417/16/20/10341",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Revisa 102 trabajos de datos y riesgos de XR educativo.",
+    "limit": "Síntesis heterogénea, sin marco operativo validado común.",
+    "implication": "Minimizar telemetría a evidencias necesarias, gobernar acceso y retención; no exigir biometría.",
+    "passages": "Abstract turn372view0; cierre Kcloses.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P134",
+    "slug": "VR - Alineación e implementación inclusiva",
+    "year": 2025,
+    "title": "Virtual Classrooms, Real Impact: A Framework for Introducing Virtual Reality to K–12 STEM Learning Based on Best Practices",
+    "url": "https://www.mdpi.com/2076-3417/15/21/11356",
+    "level": "resumen-conclusiones",
+    "questions": [
+      1,
+      4
+    ],
+    "finding": "Propone incorporación por fases con formación docente y evaluación iterativa.",
+    "limit": "Síntesis y marco para K–12; extrapolación metodológica, no eficacia probada en software.",
+    "implication": "Pilotar acceso equivalente y familiarización limitada a controles de la interfaz, sin enseñar contenidos de seguridad ni revelar soluciones.",
+    "passages": "Abstract turn370view0; cierre Kcloses.",
+    "recent": true,
+    "reading_date": "2026-11-13",
+    "screened_recent": true
+  },
+  {
+    "id": "P135",
+    "slug": "Lam - Diagnóstico y corrección de código inseguro",
+    "year": 2022,
+    "title": "Identifying Gaps in the Secure Programming Knowledge and Skills of Students",
+    "url": "https://doi.org/10.1145/3478431.3499391",
+    "level": "texto-completo",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Entrevistas de programación con 21 estudiantes de dos universidades; identifica dificultades al reconocer, explicar y corregir código inseguro.",
+    "limit": "Estudio pequeño en tareas de C; las mismas entrevistas se reanalizan en P022, por lo que no son dos muestras independientes.",
+    "implication": "Usar actuaciones de diagnóstico, explicación, prueba y corrección como antecedentes directos de tareas acotadas; no importar umbrales ni generalizar a todo AppSec.",
+    "passages": "Siete páginas del manuscrito de autor: introducción, trabajos relacionados, método, resultados, discusión, limitaciones, conclusiones y referencias; texto de figuras tabulares 1 y 2. Fuente: https://majedalmansoori.com/papers/Lam_SIGCSE22.pdf",
+    "recent": true,
+    "screened_recent": true,
+    "reading_date": "2026-11-16",
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fundamento directo de tareas",
+      "decision": "Evaluar identificación, explicación, entradas que evidencian fallos y corrección de código inseguro; son tareas acotadas de estudiantes, no una certificación global.",
+      "passages": "Artículo completo: §§1–6 y referencias, siete páginas; figuras 1–2 como texto tabular.",
+      "consulted_url": "https://majedalmansoori.com/papers/Lam_SIGCSE22.pdf",
+      "full_text_continuation_date": "2026-11-16"
+    },
+    "full_reading": {
+      "id": "P135",
+      "body": "Siete páginas del manuscrito de autor: introducción, trabajos relacionados, método, resultados, discusión, limitaciones, conclusiones y referencias; texto de figuras tabulares 1 y 2.",
+      "tables": "Texto completo de figura 1 (conductas, preguntas y respuestas esperadas) y figura 2 (demografía).",
+      "figures": "No hubo inspección visual independiente del PDF web. Ambas figuras se recuperaron como tablas textuales; no se extraen medidas de gráficos ni se consultó íntegro el cuestionario externo enlazado.",
+      "analysis": "La consigna, la consulta de recursos y los cambios entre versiones pueden afectar la actuación observada. No se deduce autonomía sin ayuda ni un estándar universal de egreso. La generalización a tareas web es una adaptación de CyberSim, no un resultado del estudio en C.",
+      "decision": "Fundamento de tipos de actuación y condiciones de evaluación; no importar sus preguntas como prueba completa del perfil ni interpretar búsqueda de información como dominio sin recursos."
+    }
+  },
+  {
+    "id": "P137",
+    "slug": "Braz y Bacchelli - Seguridad en revisión de código",
+    "year": 2022,
+    "title": "Software Security during Modern Code Review: The Developer’s Perspective",
+    "url": "https://doi.org/10.1145/3540250.3549135",
+    "level": "resumen-conclusiones",
+    "questions": [
+      2,
+      3
+    ],
+    "finding": "Diez entrevistas y encuesta a 182 profesionales sobre seguridad en revisión de código y sus dificultades, incluidas dependencias e interacciones.",
+    "limit": "Perspectiva y prácticas declaradas de profesionales; no mide directamente competencia de estudiantes ni establece un estándar de aprobación.",
+    "implication": "Representar riesgos de bibliotecas, contexto e interacciones en CAP-01/03/06; corroborar declaraciones con artefactos y pruebas.",
+    "passages": "Abstract y §7 Conclusions. Manuscrito de autor: https://arxiv.org/pdf/2208.04261",
+    "recent": true,
+    "screened_recent": true,
+    "reading_date": "2026-11-16",
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "especialización profesional",
+      "decision": "La revisión de código incluye riesgos en bibliotecas e interacciones; el estudio profesional justifica contenido, sin fijar un estándar para estudiantes.",
+      "passages": "Abstract p. 1; §7 Conclusions",
+      "consulted_url": "https://arxiv.org/pdf/2208.04261"
+    }
+  },
+  {
+    "id": "P139",
+    "slug": "Mead y Shoemaker - Competencias de aseguramiento de software",
+    "year": 2013,
+    "title": "The Software Assurance Competency Model: A Roadmap to Enhance Individual Professional Capability",
+    "url": "https://doi.org/10.1109/CSEET.2013.6595243",
+    "level": "texto-completo",
+    "questions": [
+      2,
+      3,
+      4
+    ],
+    "finding": "Modelo de competencias de aseguramiento de software con niveles L1–L5; §2.4 relaciona expresamente resultados de pregrado con L1–L2.",
+    "limit": "Modelo de referencia y revisión profesional, no validación psicométrica de CyberSim. Su informe detallado ubica algunas contramedidas en L3; no homologar automáticamente las CAP con L2.",
+    "implication": "Fundamentar el perfil de entrada y seleccionar tareas acotadas, complementadas por evidencia de evaluación de estudiantes y contenidos técnicos actuales.",
+    "passages": "Manuscrito SEI de diez páginas: §§1–3, tablas 1–3 y referencias. https://www.sei.cmu.edu/documents/454/2013_019_001_299154.pdf",
+    "recent": false,
+    "screened_recent": false,
+    "reading_date": "2026-11-16",
+    "full_reading": {
+      "id": "P139",
+      "body": "Diez páginas de texto: §§1–3, tablas 1–3 y referencias; lectura de cuerpo, niveles, usos y cierre.",
+      "tables": "Texto extraído de tablas 1–3 examinado; unidades detalladas contrastadas con tabla 3 del informe SEI asociado.",
+      "figures": "No se realizó inspección visual independiente del PDF web. Las decisiones se apoyan en texto y tablas extraídas, sin derivar medidas de gráficos.",
+      "analysis": "La referencia explícita a pregrado permite delimitar audiencia, sin equiparar nivel académico con dominio garantizado. No se traslada cada verbo de nivel superior al estudiante ni se afirma homologación L2. Artículo e informe técnico son dos versiones del mismo modelo.",
+      "decision": "Modelo central de contenido y nivel de referencia; selección local fundamentada y validación del instrumento diferenciadas."
+    },
+    "competency_review": {
+      "date": "2026-11-16",
+      "screening": "abstract-y-cierre",
+      "role": "fundamento central del perfil",
+      "decision": "Usar el modelo de aseguramiento de software y su vínculo explícito de pregrado con L1–L2; delimitar tareas y evitar homologación automática de las CAP con esos niveles.",
+      "passages": "Abstract p. 1; §3 Summary and Future Plans p. 8; §§2.1–2.4 y tablas 1–3",
+      "consulted_url": "https://www.sei.cmu.edu/documents/454/2013_019_001_299154.pdf"
+    }
+  }
+]

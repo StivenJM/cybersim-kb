@@ -1,0 +1,1201 @@
+{
+  "review_date": "2026-11-16",
+  "started": "2026-11-15",
+  "unique_screened": 50,
+  "previously_catalogued": 47,
+  "new_publications": [
+    "P135",
+    "P137",
+    "P139"
+  ],
+  "full_text_new": [
+    "P139",
+    "P135"
+  ],
+  "independent_samples_caveat": "P135 y P022 utilizan las mismas entrevistas; artículo P139 e informe SEI describen el mismo modelo.",
+  "screening_definition": "Abstract y cierre completo: conclusión o discusión final si no existe sección de conclusiones.",
+  "method_limits": "Recuperación web dirigida y fuentes originales; un revisor asistido por IA; sin búsqueda sistemática exhaustiva ni doble cribado.",
+  "records": [
+    {
+      "id": "P001",
+      "title": "The state of research on software engineering competencies: A systematic mapping study",
+      "url": "https://doi.org/10.1016/j.jss.2021.111183",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §6 Conclusions, p. 13; tabla 12a, p. 10",
+      "retrieval_coordinates": {
+        "abstract": {
+          "page": 1
+        },
+        "closing": {
+          "page": 13
+        }
+      },
+      "role": "fundamento general",
+      "decision": "Tabla 12a y discusión: conservar análisis, código, pruebas, comunicación y calidad; separar responsabilidades de equipo, condiciones previas y rasgos personales."
+    },
+    {
+      "id": "P007",
+      "title": "A framework for designing and certifying ECSF-aligned cybersecurity training through cyber ranges and virtual learning environments",
+      "url": "https://link.springer.com/article/10.1007/s10207-025-01202-0",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §13 Conclusions and future work",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 47,
+          "end": 51
+        },
+        "closing": {
+          "start": 551,
+          "end": 567
+        }
+      },
+      "role": "método de diseño",
+      "decision": "Vincular responsabilidad, tarea y evidencia; no importar niveles ni certificación de ECSF como nota del alumno."
+    },
+    {
+      "id": "P010",
+      "title": "Towards NICE-by-Design Cybersecurity Learning Environments: A Cyber Range for SOC Teams",
+      "url": "https://link.springer.com/article/10.1007/s10922-024-09816-w",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 46,
+          "end": 48
+        },
+        "closing": {
+          "start": 279,
+          "end": 283
+        }
+      },
+      "role": "método de cobertura",
+      "decision": "Utilizar matrices para localizar lagunas del banco, sin confundir cobertura del diseño con dominio individual ni trasladar el perfil SOC entero."
+    },
+    {
+      "id": "P021",
+      "title": "A Systematic Mapping Study on Teaching of Security Concepts in Programming Courses",
+      "url": "https://doi.org/10.1109/SEAA64295.2024.00052",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §5 Discussion and conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 11,
+          "end": 198
+        },
+        "closing": {
+          "start": 588,
+          "end": 736
+        }
+      },
+      "role": "contexto de contenidos",
+      "decision": "Mapeo de seguridad en programación: representar mecanismo, efecto y contramedida; no adoptar sus objetivos de enseñanza como objetivo de CyberSim."
+    },
+    {
+      "id": "P022",
+      "title": "Towards Finding the Missing Pieces to Teach Secure Programming Skills to Students",
+      "url": "https://pages.cs.wisc.edu/~chatterjee/papers/sigcse23-missingpieces.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §6 Conclusion p. 6; profundización en §§3–5",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 17,
+          "end": 48
+        },
+        "closing": {
+          "start": 671,
+          "end": 766
+        }
+      },
+      "role": "fundamento directo de tareas",
+      "decision": "Evaluar lectura del código, explicación causal y uso crítico de documentación junto a la corrección. Reutiliza las entrevistas de P135; no es una réplica independiente."
+    },
+    {
+      "id": "P023",
+      "title": "Introducing Systems Thinking as a Framework for Teaching and Assessing Threat Modeling Competency",
+      "url": "https://arxiv.org/pdf/2404.16632",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; Conclusion p. 23; apéndice A pp. 27–31",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 2,
+          "end": 367
+        },
+        "closing": {
+          "start": 737,
+          "end": 927
+        }
+      },
+      "role": "fundamento directo de tareas",
+      "decision": "Tomar activos, flujos, actores, fronteras y justificación de mitigaciones de las rúbricas; sus proyectos de equipos no acreditan automáticamente desempeño individual."
+    },
+    {
+      "id": "P036",
+      "title": "What are the practices for secret management in software artifacts?",
+      "url": "https://bradreaves.net/publication/bnrw22/bnrw22.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §VI Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 5,
+          "end": 25
+        },
+        "closing": {
+          "start": 542,
+          "end": 559
+        }
+      },
+      "role": "especialización técnica",
+      "decision": "Representar exposición, almacenamiento, rotación y recuperación de secretos; las prácticas sintetizadas no son una escala de estudiantes ni una comparación experimental."
+    },
+    {
+      "id": "P037",
+      "title": "What Challenges Do Developers Face About Checked-in Secrets in Software Artifacts?",
+      "url": "https://arxiv.org/pdf/2301.12377",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §VIII Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 5,
+          "end": 28
+        },
+        "closing": {
+          "start": 1115,
+          "end": 1135
+        }
+      },
+      "role": "especialización técnica",
+      "decision": "Incluir historial, despliegue y configuración en los problemas de secretos; preguntas de desarrolladores describen dificultades, no un estándar de aprobación."
+    },
+    {
+      "id": "P038",
+      "title": "A Comparative Study of Software Secrets Reporting by Secret Detection Tools",
+      "url": "https://bradreaves.net/publication/bcrw23/bcrw23.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §X Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 5,
+          "end": 28
+        },
+        "closing": {
+          "start": 972,
+          "end": 993
+        }
+      },
+      "role": "especialización técnica",
+      "decision": "Exigir interpretar falsos positivos y falsos negativos de detectores; un resultado del escáner no sustituye la revisión del mecanismo."
+    },
+    {
+      "id": "P039",
+      "title": "SecretBench: A Dataset of Software Secrets",
+      "url": "https://bradreaves.net/publication/bnrw23b/bnrw23b.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §VIII Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 4,
+          "end": 17
+        },
+        "closing": {
+          "start": 402,
+          "end": 414
+        }
+      },
+      "role": "especialización técnica",
+      "decision": "Usar datos etiquetados para construir contrastes de detección; el rendimiento de herramientas sobre SecretBench no valida competencia del alumno."
+    },
+    {
+      "id": "P046",
+      "title": "Importance of Cybersecurity Competencies in Higher Education and for Employers",
+      "url": "https://doi.org/10.3390/app16073260",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §7 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 172,
+          "end": 177
+        },
+        "closing": {
+          "start": 389,
+          "end": 404
+        }
+      },
+      "role": "comparación de perfiles",
+      "decision": "Contrastar énfasis académicos y empresariales sin imponer a estudiantes de desarrollo el ranking de empleadores eslovenos o de todos los roles de seguridad."
+    },
+    {
+      "id": "P051",
+      "title": "Engineering in the Digital Age: A Career-Level Competency Framework Validated by the Productive Sector",
+      "url": "https://www.mdpi.com/2071-1050/17/16/7425",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 180,
+          "end": 187
+        },
+        "closing": {
+          "start": 462,
+          "end": 473
+        }
+      },
+      "role": "comparación de niveles",
+      "decision": "Distinguir competencias por etapa profesional; no exigir autonomía de un ingeniero sénior ni adoptar autoevaluación como prueba de actuación."
+    },
+    {
+      "id": "P052",
+      "title": "How to Assess Generic Competencies: From Sustainable Development Needs among Engineering Graduates in Industry",
+      "url": "https://www.mdpi.com/2071-1050/14/15/9270",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions and Limitations",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 180,
+          "end": 187
+        },
+        "closing": {
+          "start": 320,
+          "end": 325
+        }
+      },
+      "role": "alternativa genérica",
+      "decision": "La validación de una encuesta de importancia de competencias genéricas no valida una prueba individual de seguridad de software."
+    },
+    {
+      "id": "P053",
+      "title": "Flexibility Competence Assessment: A Systematic Literature Review",
+      "url": "https://www.mdpi.com/2227-7102/15/9/1118",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 165,
+          "end": 172
+        },
+        "closing": {
+          "start": 421,
+          "end": 436
+        }
+      },
+      "role": "alternativa descartada para contenido",
+      "decision": "Instrumentos de flexibilidad personal no justifican puntuar perseverancia o adaptación desde clics de una sesión de seguridad."
+    },
+    {
+      "id": "P054",
+      "title": "Selecting and defining transversal competences for higher education training design",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1533505/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §8 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 309,
+          "end": 313
+        },
+        "closing": {
+          "start": 556,
+          "end": 567
+        }
+      },
+      "role": "selección contextual",
+      "decision": "Apoya declarar el contexto antes de elegir competencias transversales; no proporciona por sí solo las competencias técnicas de seguridad."
+    },
+    {
+      "id": "P055",
+      "title": "Identifying Key Activities, Artifacts and Roles in Agile Engineering of Secure Software with Hierarchical Clustering",
+      "url": "https://www.mdpi.com/2076-3417/13/7/4563",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §7 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 178,
+          "end": 185
+        },
+        "closing": {
+          "start": 289,
+          "end": 293
+        }
+      },
+      "role": "contexto profesional",
+      "decision": "Usar tareas y artefactos de análisis, requisitos, pruebas y revisión; sus agrupamientos de actividades no son factores psicométricos del alumno."
+    },
+    {
+      "id": "P056",
+      "title": "Agile Development of Secure Software for Small and Medium-Sized Enterprises",
+      "url": "https://www.mdpi.com/2071-1050/15/1/801",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §7 Conclusions and Future Work",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 176,
+          "end": 183
+        },
+        "closing": {
+          "start": 368,
+          "end": 375
+        }
+      },
+      "role": "contexto profesional",
+      "decision": "Considerar costes, seguridad y continuidad del trabajo al justificar decisiones; las valoraciones de prácticas ágiles no se convierten en notas del estudiante."
+    },
+    {
+      "id": "P058",
+      "title": "An Ontology-Based Framework for Semantic Representation of the Cyber Range Domain",
+      "url": "https://www.mdpi.com/2624-800x/6/2/76",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §9 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 176,
+          "end": 182
+        },
+        "closing": {
+          "start": 486,
+          "end": 491
+        }
+      },
+      "role": "infraestructura",
+      "decision": "La representación semántica de un cyber range ayuda a organizar recursos y evidencias, pero no define el dominio del estudiante de software."
+    },
+    {
+      "id": "P061",
+      "title": "Analyzing student response processes to refine and validate a competency model and competency-based assessment task types",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1397027/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Discussion, utilizado como cierre del artículo",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 282,
+          "end": 285
+        },
+        "closing": {
+          "start": 461,
+          "end": 485
+        }
+      },
+      "role": "validación del instrumento",
+      "decision": "Examinar cómo interpreta y resuelve el estudiante una tarea; una consigna aparentemente alineada puede activar procesos distintos de los previstos."
+    },
+    {
+      "id": "P062",
+      "title": "Standardizing course assessment in competency-based higher education: an experience report",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1579124/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Discussion y subsecciones finales",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 332,
+          "end": 345
+        },
+        "closing": {
+          "start": 620,
+          "end": 654
+        }
+      },
+      "role": "método de alineación",
+      "decision": "Relacionar competencias, resultados de tarea y evaluación; un informe de implantación curricular no valida la selección técnica ni un corte de CyberSim."
+    },
+    {
+      "id": "P067",
+      "title": "Secure Programming and Secure Design in DevSecOps: A Literature-Based Conceptual Synthesis",
+      "url": "https://www.mdpi.com/2673-8732/6/3/75",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 170,
+          "end": 177
+        },
+        "closing": {
+          "start": 434,
+          "end": 442
+        }
+      },
+      "role": "síntesis conceptual complementaria",
+      "decision": "Relacionar intención de seguridad e implementación; sus perfiles ponderados son ilustrativos, sin base para adoptar pesos de aprobación."
+    },
+    {
+      "id": "P068",
+      "title": "Application of intervention mapping in cybersecurity education design",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2022.998335/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 319,
+          "end": 322
+        },
+        "closing": {
+          "start": 507,
+          "end": 510
+        }
+      },
+      "role": "método de diseño",
+      "decision": "Delimitar responsabilidad y entorno antes de construir casos; su intervención educativa no se adopta como programa de aprendizaje."
+    },
+    {
+      "id": "P069",
+      "title": "Game-based learning in computer science education: a scoping literature review",
+      "url": "https://link.springer.com/article/10.1186/s40594-023-00447-2",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 46,
+          "end": 69
+        },
+        "closing": {
+          "start": 314,
+          "end": 320
+        }
+      },
+      "role": "contexto no adoptado como contenido",
+      "decision": "Una revisión de juegos en informática no demuestra que navegar o terminar rápido acredite desarrollo seguro."
+    },
+    {
+      "id": "P071",
+      "title": "Systematic analysis of automated threat modelling techniques: Comparison of open-source tools",
+      "url": "https://link.springer.com/article/10.1007/s11219-023-09634-4",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions and future work",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 41,
+          "end": 63
+        },
+        "closing": {
+          "start": 372,
+          "end": 376
+        }
+      },
+      "role": "especialización técnica",
+      "decision": "Contrastar modelos y resultados de herramientas de amenazas; producir automáticamente una lista no prueba razonamiento del alumno."
+    },
+    {
+      "id": "P073",
+      "title": "Comparative analysis of EU-based cybersecurity skills frameworks",
+      "url": "https://unipub.lib.uni-corvinus.hu/10831/1/1-s2.0-S0167404825000185-main.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 11,
+          "end": 20
+        },
+        "closing": {
+          "start": 657,
+          "end": 741
+        }
+      },
+      "role": "comparación de marcos",
+      "decision": "Comparar alcance y lagunas de marcos europeos; un catálogo profesional transversal no constituye una prueba de pregrado."
+    },
+    {
+      "id": "P074",
+      "title": "Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education",
+      "url": "https://link.springer.com/article/10.1186/s41239-026-00582-0",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; Conclusions, implications and limitations",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 42,
+          "end": 47
+        },
+        "closing": {
+          "start": 420,
+          "end": 439
+        }
+      },
+      "role": "condiciones de administración",
+      "decision": "Definir ayuda de GenAI y procedencia de entregas; una política de evaluación no es contenido de competencia de seguridad de IA."
+    },
+    {
+      "id": "P075",
+      "title": "Assessing Competencies Using Scenario-Based Learning in Cybersecurity",
+      "url": "https://www.mdpi.com/2624-800X/1/4/27",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §9 Conclusions and Future Directions; profundización del cuerpo §§1–9",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 175,
+          "end": 182
+        },
+        "closing": {
+          "start": 313,
+          "end": 333
+        }
+      },
+      "role": "método de tareas",
+      "decision": "Relacionar escenario, preguntas, artefactos y rúbrica; no tomar satisfacción de participantes como validación de competencia."
+    },
+    {
+      "id": "P076",
+      "title": "Toward a Unified Framework for Secure Coding: A Comprehensive Synthesis of Best Practices",
+      "url": "https://www.mdpi.com/2073-431X/15/4/220",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §8 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 192,
+          "end": 199
+        },
+        "closing": {
+          "start": 570,
+          "end": 573
+        }
+      },
+      "role": "síntesis de contenido",
+      "decision": "Complementar mecanismos de codificación segura; ocho dominios de buenas prácticas no equivalen a las ocho CAP ni demuestran superioridad causal."
+    },
+    {
+      "id": "P077",
+      "title": "Context-Based Support to Enhance Developers’ Learning of Software Security",
+      "url": "https://www.mdpi.com/2227-7102/13/7/631",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §7 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 163,
+          "end": 170
+        },
+        "closing": {
+          "start": 499,
+          "end": 519
+        }
+      },
+      "role": "fuera del objetivo formativo",
+      "decision": "Conservar como antecedente examinado; no adoptar su sistema de aprendizaje contextual ni usar aprendizaje como resultado del proyecto."
+    },
+    {
+      "id": "P078",
+      "title": "Tracking the Gaze of Secure Coders: Behavioral Insights into Attention, Transitions, and Training",
+      "url": "https://www.mdpi.com/2624-800X/6/2/75",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 170,
+          "end": 175
+        },
+        "closing": {
+          "start": 397,
+          "end": 400
+        }
+      },
+      "role": "límite de trazas",
+      "decision": "Atención visual y transiciones describen comportamiento; no inferir competencia o personalidad a partir de patrones de mirada."
+    },
+    {
+      "id": "P079",
+      "title": "Designing SecureAI Curriculum for National Security Needs: The Illinois Tech Program of Study",
+      "url": "https://www.mdpi.com/2227-7102/16/2/310",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §11 Conclusions; profundización en §§4, 9 y 10",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 184,
+          "end": 190
+        },
+        "closing": {
+          "start": 366,
+          "end": 372
+        }
+      },
+      "role": "extensión condicionada de IA",
+      "decision": "Diferenciar seguridad de IA y uso de IA para seguridad; tomar contenidos de ciclo de vida, sin atribuir una validación de resultados que el artículo no realizó."
+    },
+    {
+      "id": "P082",
+      "title": "An Exploratory Study Gathering Security Requirements for the Software Development Process",
+      "url": "https://www.mdpi.com/2079-9292/12/17/3594",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 176,
+          "end": 183
+        },
+        "closing": {
+          "start": 539,
+          "end": 553
+        }
+      },
+      "role": "especialización de diseño",
+      "decision": "Usar necesidades legítimas e historias de abuso como contraste de requisitos; su propuesta no es un instrumento validado de competencia."
+    },
+    {
+      "id": "P083",
+      "title": "Pedagogical Transformation Using Large Language Models in a Cybersecurity Course",
+      "url": "https://www.mdpi.com/2673-2688/7/1/25",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §8 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 192,
+          "end": 200
+        },
+        "closing": {
+          "start": 585,
+          "end": 599
+        }
+      },
+      "role": "fuera del objetivo formativo",
+      "decision": "No adoptar su transformación pedagógica ni el LLM como tutor del intento; distinguir ayuda autorizada y evidencia individual."
+    },
+    {
+      "id": "P085",
+      "title": "Generative AI Competency Assessment Strategies and Industry Employability Expectations in Higher Education: A Systematic Review",
+      "url": "https://www.mdpi.com/2227-7102/16/10/1583",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 195,
+          "end": 202
+        },
+        "closing": {
+          "start": 524,
+          "end": 536
+        }
+      },
+      "role": "comparación de perfiles",
+      "decision": "Las expectativas laborales y evaluaciones de GenAI dependen del contexto; no extrapolar alfabetización en GenAI a defensa de modelos y agentes."
+    },
+    {
+      "id": "P087",
+      "title": "From Mapping to Action: SmartRubrics, an AI Tool for Competency-Based Assessment in Engineering Education",
+      "url": "https://www.mdpi.com/2071-1050/17/13/6098",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §8 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 188,
+          "end": 194
+        },
+        "closing": {
+          "start": 518,
+          "end": 530
+        }
+      },
+      "role": "herramienta sin validación suficiente",
+      "decision": "Una herramienta que propone rúbricas no valida automáticamente sus criterios; el propio cierre sitúa la evaluación educativa en trabajo futuro."
+    },
+    {
+      "id": "P091",
+      "title": "A structural approach to the assessment and development of engineering students’ professional skills",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1661526/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 295,
+          "end": 301
+        },
+        "closing": {
+          "start": 504,
+          "end": 525
+        }
+      },
+      "role": "contexto profesional",
+      "decision": "Condiciones del entorno influyen en la actuación; las asociaciones sobre desarrollo profesional no son un catálogo técnico ni una relación causal demostrada."
+    },
+    {
+      "id": "P092",
+      "title": "Uncovering the shared skills underlying interdisciplinarity, innovation, and social responsibility through a systematic review of assessment instruments",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1860884/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 295,
+          "end": 300
+        },
+        "closing": {
+          "start": 563,
+          "end": 575
+        }
+      },
+      "role": "límite de constructos",
+      "decision": "Reconocer solapamientos entre instrumentos transversales; no sumar etiquetas próximas como capacidades u observaciones independientes."
+    },
+    {
+      "id": "P093",
+      "title": "Perceived and demonstrated generative AI literacy in engineering problem solving: the role of verification behavior",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1981428/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §4.3 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 372,
+          "end": 385
+        },
+        "closing": {
+          "start": 616,
+          "end": 618
+        }
+      },
+      "role": "límite de autoevaluación",
+      "decision": "Distinguir competencia percibida y demostrada; frecuencia declarada de verificación y asociaciones transversales no acreditan autonomía sin ayuda."
+    },
+    {
+      "id": "P094",
+      "title": "Evaluating the instrumental quality of LLM-generated assessment items",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1837523/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 295,
+          "end": 309
+        },
+        "closing": {
+          "start": 549,
+          "end": 552
+        }
+      },
+      "role": "validación del instrumento",
+      "decision": "Examinar calidad de ítems y puntuación; semejanza estadística de preguntas de opción múltiple no se transfiere automáticamente a tareas abiertas de seguridad."
+    },
+    {
+      "id": "P096",
+      "title": "Mapping design stages and methodologies for developing STEM concept inventories: a scoping review",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2024.1442833/full",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; Conclusion and future research",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 300,
+          "end": 314
+        },
+        "closing": {
+          "start": 495,
+          "end": 502
+        }
+      },
+      "role": "validación del instrumento",
+      "decision": "Separar definición del dominio, diseño de tareas y evidencia de validez; un inventario conceptual mide una parte distinta de una intervención práctica."
+    },
+    {
+      "id": "P098",
+      "title": "Measuring student and educator digital competence beyond self-assessment: Developing and validating two rubric-based frameworks",
+      "url": "https://link.springer.com/article/10.1007/s10639-023-12363-7",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusion",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 41,
+          "end": 45
+        },
+        "closing": {
+          "start": 190,
+          "end": 195
+        }
+      },
+      "role": "método de desempeño",
+      "decision": "Corroborar autopercepción con productos y tareas; rúbricas de competencia digital general no sustituyen mecanismos de desarrollo seguro."
+    },
+    {
+      "id": "P102",
+      "title": "Security by Design in Hybrid Software Development: An Empirical Framework for Aligning Organizational Climate and Developer Behavior",
+      "url": "https://www.mdpi.com/2076-3417/16/8/3618",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 176,
+          "end": 183
+        },
+        "closing": {
+          "start": 397,
+          "end": 401
+        }
+      },
+      "role": "contexto profesional",
+      "decision": "Registrar condiciones organizativas y ayudas; asociaciones del clima de seguridad no autorizan inferir personalidad ni desempeño individual desde un clic."
+    },
+    {
+      "id": "P103",
+      "title": "Developing Competencies for Employability: A Systematic Review of Participatory, Situated, and Reflective Practices",
+      "url": "https://www.mdpi.com/2071-1050/18/18/9493",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §5 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 176,
+          "end": 183
+        },
+        "closing": {
+          "start": 447,
+          "end": 452
+        }
+      },
+      "role": "interpretación situada",
+      "decision": "Conservar condiciones y contexto de la actuación; no convertir procesos de desarrollo de empleabilidad en el objetivo de aprendizaje de CyberSim."
+    },
+    {
+      "id": "P117",
+      "title": "Teaching a Hands-On CTF-Based Web Application Security Course",
+      "url": "https://www.mdpi.com/2079-9292/11/21/3517",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 177,
+          "end": 185
+        },
+        "closing": {
+          "start": 448,
+          "end": 451
+        }
+      },
+      "role": "contexto de tareas web",
+      "decision": "Utilizar mecanismos web como contenidos de casos; mejoras en rapidez o flags de un curso no fijan dominio profesional ni objetivos formativos aquí."
+    },
+    {
+      "id": "P126",
+      "title": "A Survey of Security Concepts in Introductory Programming Courses in Finland",
+      "url": "https://research.abo.fi/ws/files/71344465/3769994.3770028.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §9 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 35,
+          "end": 70
+        },
+        "closing": {
+          "start": 808,
+          "end": 883
+        }
+      },
+      "role": "condiciones previas",
+      "decision": "La cobertura desigual de seguridad en cursos iniciales impide presuponer formación uniforme; precisar requisitos previos sin enseñar el contenido durante la evaluación."
+    },
+    {
+      "id": "P128",
+      "title": "Bridging Cybersecurity Practice and Law: A Hands-On, Scenario-Based Curriculum Using the NICE Framework to Foster Skill Development",
+      "url": "https://www.mdpi.com/2624-800X/5/4/106",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §7 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 191,
+          "end": 201
+        },
+        "closing": {
+          "start": 511,
+          "end": 517
+        }
+      },
+      "role": "delimitación de responsabilidades",
+      "decision": "Distinguir desarrollo, respuesta y aspectos legales; no atribuir todos los roles de una pyme a una única prueba de estudiante de software."
+    },
+    {
+      "id": "P129",
+      "title": "Quality Assessment of Generative AI in Cybersecurity Certification",
+      "url": "https://www.mdpi.com/2227-9709/13/4/53",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract; §6 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 197,
+          "end": 204
+        },
+        "closing": {
+          "start": 480,
+          "end": 490
+        }
+      },
+      "role": "límite de pruebas teóricas",
+      "decision": "Responder preguntas de certificación, especialmente con un LLM, no equivale a diagnosticar, corregir y verificar una aplicación."
+    },
+    {
+      "id": "P135",
+      "title": "Identifying Gaps in the Secure Programming Knowledge and Skills of Students",
+      "url": "https://majedalmansoori.com/papers/Lam_SIGCSE22.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §6 Conclusion p. 6; método y figura 1 p. 2",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 6,
+          "end": 45
+        },
+        "closing": {
+          "start": 554,
+          "end": 641
+        }
+      },
+      "role": "fundamento directo de tareas",
+      "decision": "Evaluar identificación, explicación, entradas que evidencian fallos y corrección de código inseguro; son tareas acotadas de estudiantes, no una certificación global.",
+      "full_text_continuation": true,
+      "full_text_scope": "Siete páginas del manuscrito de autor: introducción, trabajos relacionados, método, resultados, discusión, limitaciones, conclusiones y referencias; texto de figuras tabulares 1 y 2."
+    },
+    {
+      "id": "P137",
+      "title": "Software Security during Modern Code Review: The Developer’s Perspective",
+      "url": "https://arxiv.org/pdf/2208.04261",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §7 Conclusions",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 10,
+          "end": 29
+        },
+        "closing": {
+          "start": 982,
+          "end": 1005
+        }
+      },
+      "role": "especialización profesional",
+      "decision": "La revisión de código incluye riesgos en bibliotecas e interacciones; el estudio profesional justifica contenido, sin fijar un estándar para estudiantes."
+    },
+    {
+      "id": "P139",
+      "title": "The Software Assurance Competency Model: A Roadmap to Enhance Individual Professional Capability",
+      "url": "https://www.sei.cmu.edu/documents/454/2013_019_001_299154.pdf",
+      "date": "2026-11-16",
+      "abstract_checked": true,
+      "closing_checked": true,
+      "passages": "Abstract p. 1; §3 Summary and Future Plans p. 8; §§2.1–2.4 y tablas 1–3",
+      "retrieval_coordinates": {
+        "abstract": {
+          "start": 13,
+          "end": 21
+        },
+        "closing": {
+          "start": 309,
+          "end": 326
+        }
+      },
+      "role": "fundamento central del perfil",
+      "decision": "Usar el modelo de aseguramiento de software y su vínculo explícito de pregrado con L1–L2; delimitar tareas y evitar homologación automática de las CAP con esos niveles."
+    }
+  ],
+  "partial_not_counted": [
+    {
+      "id": "P049",
+      "title": "Beyond Technical Skills: Competency Framework for Engineers in the Digital Transformation Era",
+      "url": "https://www.mdpi.com/2075-4698/15/8/217",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P050",
+      "title": "A Systematic Literature Review of Soft Skills in Information Technology Education",
+      "url": "https://www.mdpi.com/2076-328X/14/10/894",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P060",
+      "title": "A Systematic Review of Digital Competence Evaluation in Higher Education",
+      "url": "https://www.mdpi.com/2227-7102/14/11/1181",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P065",
+      "title": "Evaluating Online Security Behavior: Development and Validation of a Personal Cybersecurity Awareness Scale for University Students",
+      "url": "https://www.mdpi.com/2227-7102/14/6/588",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P081",
+      "title": "Integrating Artificial Intelligence into the Cybersecurity Curriculum in Higher Education: A Systematic Literature Review",
+      "url": "https://www.mdpi.com/2227-7102/15/11/1540",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P063",
+      "title": "Enhancing digital skills assessment: introducing compact tools for measuring digital competence",
+      "url": "https://link.springer.com/article/10.1007/s10758-025-09825-x",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P099",
+      "title": "Bridging academic and industry expectations in cybersecurity education through competencies for teaching network and application security in Nigerian Universities",
+      "url": "https://link.springer.com/article/10.1007/s44217-026-01748-8",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P072",
+      "title": "Factors influencing information and communication technology (ICT) competency among undergraduate computing students: a systematic review",
+      "url": "https://link.springer.com/article/10.1007/s44217-026-01270-x",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P070",
+      "title": "A systematic scoping review on game-based cybersecurity awareness education",
+      "url": "https://link.springer.com/article/10.1007/s10207-026-01239-9",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P048",
+      "title": "Software engineering competency models and intercultural communication competencies: A systematic literature review",
+      "url": "https://doi.org/10.1016/j.jss.2025.112662",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P045",
+      "title": "Cybersecurity workforce readiness: a three-dimensional assessment and scenario-based intervention framework aligned with NICE",
+      "url": "https://doi.org/10.3389/feduc.2026.1958161",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P088",
+      "title": "Assessment and Development of Soft Skills for Workplace Internships in Vocational Education and Training: A Systematic Literature Review",
+      "url": "https://www.mdpi.com/2076-3387/16/7/318",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P024",
+      "title": "Assessing Common Software Vulnerabilities in Undergraduate Computer Science Assignments",
+      "url": "https://journal.cisse.info/index.php/jcisse/article/view/179",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P025",
+      "title": "Security Responses in Software Development",
+      "url": "https://doi.org/10.1145/3563211",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P026",
+      "title": "Psychometric Evaluation of the Cybersecurity Curriculum Assessment",
+      "url": "https://doi.org/10.1145/3545945.3569762",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P136",
+      "title": "Building and Validating a Scale for Secure Software Development Self-Efficacy",
+      "url": "https://par.nsf.gov/servlets/purl/10175920",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P138",
+      "title": "Developing and evaluating cybersecurity competencies for students in computing programs",
+      "url": "https://peerj.com/articles/cs-827/",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P003",
+      "title": "The essential competencies of software professionals: A unified competence framework",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950584922001446",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P027",
+      "title": "A systematic review on adversarial thinking in cyber security education: Themes and potential frameworks",
+      "url": "https://doi.org/10.1016/j.cose.2025.104803",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    },
+    {
+      "id": "P035",
+      "title": "Gamified or Glorified? A systematic review of serious games for security & privacy in the SDLC",
+      "url": "https://doi.org/10.1016/j.infsof.2025.107850",
+      "reason": "No se completó en esta fase la comprobación conjunta de abstract y cierre; no cuenta en los 50."
+    }
+  ],
+  "continuation": {
+    "date": "2026-11-16",
+    "full_text_added": "P135",
+    "screened_unique_unchanged": 50,
+    "canonical_paper_count_unchanged": 137,
+    "deliverable": "Arquitectura/Guía para evaluar las competencias de seguridad.md",
+    "source_scope": "P135: texto completo de siete páginas y dos figuras como tablas; P137: profundización adicional de método y pasajes de resultados/discusión, sin lectura integral.",
+    "product_code_changed": false
+  }
+}
