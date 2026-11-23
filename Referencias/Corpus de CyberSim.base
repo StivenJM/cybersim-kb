@@ -1,41 +1,40 @@
 filters:
   and:
-    - 'file.inFolder("Papers")'
-    - 'note.type == "paper"'
+    - file.inFolder("Papers")
+    - note.type == "paper"
 views:
   - type: table
     name: Corpus de investigación
     order:
       - file.name
-      - note.year
-      - note.lectura
-      - note.preguntas
+      - year
+      - lectura
+      - preguntas
   - type: table
     name: Lecturas completas centrales
     filters:
       and:
-        - 'note.lectura == "texto-completo"'
+        - note.lectura == "texto-completo"
     order:
       - file.name
-      - note.year
-      - note.preguntas
+      - year
+      - preguntas
   - type: table
     name: Cribados y antecedentes
     filters:
       and:
-        - 'note.lectura != "texto-completo"'
+        - note.lectura != "texto-completo"
     order:
       - file.name
-      - note.lectura
-      - note.preguntas
-
+      - lectura
+      - preguntas
   - type: table
     name: Revisión de competencias de seguridad
     filters:
       and:
-        - 'note.revision_competencias == "2026-11-16"'
+        - note.revision_competencias == "2026-11-16"
     order:
       - file.name
-      - note.year
-      - note.lectura
-      - note.revision_competencias
+      - year
+      - lectura
+      - revision_competencias
